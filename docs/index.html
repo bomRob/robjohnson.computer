@@ -101,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications/index.html"> 
-<span class="menu-text">Papers</span></a>
+<span class="menu-text">Publications</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -140,19 +140,6 @@ ul.task-list li input[type="checkbox"] {
 <div class="about-link-text">
 <p><strong>Dr Robert Johnson</strong><br> Senior Research Scientist<br> <br> I’m a research scientist focused on forecast improvement and algorithm development across the Earth Sciences - from Ocean to Atmosphere. My work bridges numerical modeling, machine learning, and statistical post-processing to make environmental monitoring and forecasting more accurate, reliable, and useful. I also write about scientific leadership, research computing, and how AI is reshaping the way we understand and predict the natural world.<br> <br> This is my personal website. The views and content expressed here are solely my own and do not represent the positions, policies, or opinions of my employer or any affiliated institutions.<br></p>
 </div>
-<!-- ---
-title: "I am Rob Johnson"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
----
- -->
 
 
 </main></div>
@@ -241,7 +228,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("http:\/\/robjohnson\.computer");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

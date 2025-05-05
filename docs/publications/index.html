@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Papers – RobJohnson.computer</title>
+<title>Publications – RobJohnson.computer</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,9 +30,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-d4d76bf8491c20bad77d141916dc28e1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
@@ -65,12 +68,70 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-freeze','listing-title-block-banner','listing-title','listing-type','listing-author','listing-year','listing-publication','listing-doi','listing-toc','listing-categories','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-pdf',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-publication","listing-year"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
@@ -97,7 +158,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="../publications/index.html" aria-current="page"> 
-<span class="menu-text">Papers</span></a>
+<span class="menu-text">Publications</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -110,27 +171,203 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Papers</h1>
+      <h1 class="title">Publications</h1>
                       </div>
   </div>
+    
+  
   <div class="quarto-title-meta">
+
+      
+    
+      
     </div>
+    
+  
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="YW50YXJjdGljYQ==">antarctica <span class="quarto-category-count">(5)</span></div><div class="category" data-category="YXJ0aWNsZQ==">article <span class="quarto-category-count">(7)</span></div><div class="category" data-category="Y2hlbWlzdHJ5">chemistry <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y2hsb3JvcGh5bGw=">chlorophyll <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Y2xpbWF0ZSUyMGNoYW5nZQ==">climate change <span class="quarto-category-count">(1)</span></div><div class="category" data-category="b2NlYW5vZ3JhcGh5">oceanography <span class="quarto-category-count">(7)</span></div><div class="category" data-category="cmVtb3RlJTIwc2Vuc2luZw==">remote sensing <span class="quarto-category-count">(3)</span></div><div class="category" data-category="c291dGhlcm4lMjBvY2Vhbg==">southern ocean <span class="quarto-category-count">(2)</span></div><div class="category" data-category="em9vcGxhbmt0b24=">zooplankton <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
+
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
+         <option value="listing-publication" data-direction="asc">
+          Publication
+        </option>
+         <option value="listing-year" data-direction="asc">
+          Year
+        </option>
+     </select>
   </div>
-  <div class="about-contents"><main class="content quarto-banner-title-block" id="quarto-document-content">
-<p>list of papers</p>
-
-
-</main></div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
- <!-- /main -->
+<ul class="pub-list list">
+
+  <li data-index="0" data-categories="b2NlYW5vZ3JhcGh5JTJDcmVtb3RlJTIwc2Vuc2luZyUyQ2FudGFyY3RpY2ElMkNzb3V0aGVybiUyMG9jZWFuJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1746447000411" data-listing-reading-time-sort="2" data-listing-word-count-sort="229">
+    <span class="listing-title lead">Community review of Southern Ocean satellite data needs</span><br>
+    <span class="listing-author">Pope et al.</span><br>
+    <span class="listing-publication fst-italic ">Antarctic Science</span>
+    <span class="listing-year">(2017)</span><br>
+    <a href="../publications/articles/Pope2017.html" class="btn btn-primary">
+      Details
+    </a>
+    
+    <a href="https://doi.org/10.1017/S0954102016000390" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    
+    
+    
+    
+    
+  </li>
+
+  <li data-index="1" data-categories="b2NlYW5vZ3JhcGh5JTJDY2hsb3JvcGh5bGwlMkNjbGltYXRlJTIwY2hhbmdlJTJDYW50YXJjdGljYSUyQ2FydGljbGU=" data-listing-file-modified-sort="1746446312316" data-listing-reading-time-sort="2" data-listing-word-count-sort="280">
+    <span class="listing-title lead">Enhanced CO2 concentrations change the structure of Antarctic marine microbial communities</span><br>
+    <span class="listing-author">Davidson et al.</span><br>
+    <span class="listing-publication fst-italic ">Marine Ecology Progress Series</span>
+    <span class="listing-year">(2016)</span><br>
+    <a href="../publications/articles/Davidson2016.html" class="btn btn-primary">
+      Details
+    </a>
+    
+    <a href="https://doi.org/10.3354/meps11742" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    
+    
+    
+    
+    
+  </li>
+
+  <li data-index="2" data-categories="b2NlYW5vZ3JhcGh5JTJDcmVtb3RlJTIwc2Vuc2luZyUyQ2FydGljbGU=" data-listing-file-modified-sort="1746447578111" data-listing-reading-time-sort="1" data-listing-word-count-sort="48">
+    <span class="listing-title lead">The IMOS “Radiometry Task Team” Final Report</span><br>
+    <span class="listing-author">Antoine et al.</span><br>
+    <span class="listing-publication fst-italic ">Deep Sea Research Part II: Topical Studies in Oceanography</span>
+    <span class="listing-year">(2016)</span><br>
+    <a href="../publications/articles/Antoine2017.html" class="btn btn-primary">
+      Details
+    </a>
+    
+    
+    
+    
+    
+      <a href="" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf"></i> URL
+      </a>
+    
+  </li>
+
+  <li data-index="3" data-categories="b2NlYW5vZ3JhcGh5JTJDem9vcGxhbmt0b24lMkNjaGxvcm9waHlsbCUyQ2FudGFyY3RpY2ElMkNhcnRpY2xl" data-listing-file-modified-sort="1746446478636" data-listing-reading-time-sort="2" data-listing-word-count-sort="233">
+    <span class="listing-title lead">Zooplankton abundance and biomass size spectra in the East Antarctic sea-ice zone during the winter–spring transition</span><br>
+    <span class="listing-author">Wallis et al.</span><br>
+    <span class="listing-publication fst-italic ">Deep Sea Research Part II: Topical Studies in Oceanography</span>
+    <span class="listing-year">(2016)</span><br>
+    <a href="../publications/articles/Wallis2016.html" class="btn btn-primary">
+      Details
+    </a>
+    
+    <a href="https://doi.org/10.1016/j.dsr2.2015.10.002" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    
+    
+    
+    
+    
+  </li>
+
+  <li data-index="4" data-categories="b2NlYW5vZ3JhcGh5JTJDY2hsb3JvcGh5bGwlMkNjaGVtaXN0cnklMkNhbnRhcmN0aWNhJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1746445292227" data-listing-reading-time-sort="2" data-listing-word-count-sort="309">
+    <span class="listing-title lead">Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation?</span><br>
+    <span class="listing-author">Humphries et al.</span><br>
+    <span class="listing-publication fst-italic ">Atmospheric Chemistry and Physics</span>
+    <span class="listing-year">(2015)</span><br>
+    <a href="../publications/articles/Humphries2015.html" class="btn btn-primary">
+      Details
+    </a>
+    
+    <a href="https://doi.org/10.5194/acp-15-13339-2015" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    
+    
+    
+    
+    
+  </li>
+
+  <li data-index="5" data-categories="b2NlYW5vZ3JhcGh5JTJDcmVtb3RlJTIwc2Vuc2luZyUyQ3NvdXRoZXJuJTIwb2NlYW4lMkNjaGxvcm9waHlsbCUyQ2FydGljbGU=" data-listing-file-modified-sort="1746446970167" data-listing-reading-time-sort="2" data-listing-word-count-sort="208">
+    <span class="listing-title lead">Three improved satellite chlorophyll algorithms for the Southern Ocean</span><br>
+    <span class="listing-author">Johnson et al.</span><br>
+    <span class="listing-publication fst-italic ">Journal of Geophysical Research: Oceans</span>
+    <span class="listing-year">(2013)</span><br>
+    <a href="../publications/articles/Johnson2013.html" class="btn btn-primary">
+      Details
+    </a>
+    
+    <a href="https://doi.org/10.1002/jgrc.20270" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    
+    
+    
+    
+    
+  </li>
+
+  <li data-index="6" data-categories="b2NlYW5vZ3JhcGh5JTJDY2hsb3JvcGh5bGwlMkNhbnRhcmN0aWNhJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1746445035372" data-listing-reading-time-sort="2" data-listing-word-count-sort="267">
+    <span class="listing-title lead">Photoprotection Of Sea-Ice Microalgal Communities From The East Antarctic Pack Ice</span><br>
+    <span class="listing-author">Petrou et al.</span><br>
+    <span class="listing-publication fst-italic ">Journal of Phycology</span>
+    <span class="listing-year">(2011)</span><br>
+    <a href="../publications/articles/Petrou2011.html" class="btn btn-primary">
+      Details
+    </a>
+    
+    <a href="https://doi.org/10.1111/j.1529-8817.2010.00944.x" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    
+    
+    
+    
+    
+  </li>
+
+</ul>
+
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -151,6 +388,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
@@ -214,7 +458,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("http:\/\/robjohnson\.computer");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

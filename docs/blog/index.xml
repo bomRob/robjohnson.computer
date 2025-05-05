@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Blog</title>
+<link>http://robjohnson.computer/blog/</link>
+<atom:link href="http://robjohnson.computer/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Blog posts by Dr Robert Johnson</description>
+<generator>quarto-1.6.43</generator>
+<lastBuildDate>Sun, 30 Jun 2024 14:00:00 GMT</lastBuildDate>
+<item>
+  <title>What is Culture and how to change it?</title>
+  <dc:creator>Dr Robert Johnson</dc:creator>
+  <link>http://robjohnson.computer/blog/culture/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<blockquote class="blockquote">
+<p>“Culture eats strategy for breakfast” Peter Drucker</p>
+</blockquote>
+<p><img src="http://robjohnson.computer/blog/culture/culture.jpeg" class="img-fluid"></p>
+<p>Reflecting on ten years at my current organisation, I’ve realised how crucial culture is in the workplace. No matter how brilliant our strategies and research plans are, they won’t succeed without a strong and positive culture.</p>
+<p>But what is culture? I’ve come to think of it as <strong>“the way we do things around here.”</strong></p>
+<section id="why-care-about-culture" class="level2">
+<h2 class="anchored" data-anchor-id="why-care-about-culture">Why Care About Culture?</h2>
+<p>Culture permeates every aspect of an organisation, shaping interactions, decision-making, and our daily work. It’s the invisible hand that guides behaviour and emotions at work. Unlike strategy, which can be meticulously planned and documented, culture evolves organically from individual people’s the behaviours, actions, and attitudes.</p>
+</section>
+<section id="culture-ways-of-working" class="level2">
+<h2 class="anchored" data-anchor-id="culture-ways-of-working">Culture == Ways of Working</h2>
+<p>Culture isn’t set by strategic statements or values written on posters in the tearoom. It’s defined by our everyday ways of working. For example, consider the seemingly insignificant behaviour of regularly being 5 minutes late to meetings or “working” on smartphones during meetings. These actions reflect our cultural norms and how we value our time, attention, and that of our colleagues.</p>
+<p>Over the years, I have seen that in research teams where meetings start late and attendees are distracted, the culture is one of low respect and low accountability. This undermines efforts to implement new ideas or achieve goals. Conversely, in teams where meetings start on time, and attendees are trying to listen to their colleagues, it fosters a culture of respect, innovation, and collaboration.</p>
+</section>
+<section id="culture-is-reflected-in-our-daily-work" class="level2">
+<h2 class="anchored" data-anchor-id="culture-is-reflected-in-our-daily-work">Culture is Reflected in Our Daily Work</h2>
+<p>Every interaction within a team contributes to culture. How do we communicate with each other? Are we open and collaborative or guarded and competitive? Do we encourage innovation and risk-taking, or do we punish those who question the status quo? The answers reveal our underlying culture, driven by our behaviours.</p>
+<p>For example, if leaders routinely dismiss new ideas without consideration, team members learn that innovation is not valued, stifling creativity and work satisfaction. On the other hand, actively seeking out and celebrating new ideas and diverse thinking cultivates a culture of growth and continuous improvement.</p>
+</section>
+<section id="leaders-set-the-tone" class="level2">
+<h2 class="anchored" data-anchor-id="leaders-set-the-tone">Leaders Set the Tone</h2>
+<p>While every team member contributes to culture, leaders play a pivotal role in shaping and enacting it. Leaders set the tone through their actions, decisions, and the behaviours they reward or discourage. A leader who consistently demonstrates integrity, transparency, and respect fosters a culture that mirrors these values.</p>
+<p>e.g A leader who acknowledges and addresses every team member’s contributions reinforces a culture of appreciation and recognition, motivating team members to go above and beyond. In contrast, a leader who is indifferent or ignores individual efforts, as they are either too busy or not paying attention, creates a culture of apathy and disengagement.</p>
+</section>
+<section id="building-a-culture" class="level2">
+<h2 class="anchored" data-anchor-id="building-a-culture">Building a Culture</h2>
+<p>Building and maintaining a culture requires active participation and changes in “how we do things”.</p>
+<ol type="1">
+<li><p><strong>Lead by Example:</strong> Model the behaviour you expect from your colleagues. Consistency in actions, words, and decisions is crucial.</p></li>
+<li><p><strong>Explicit Ways of Working:</strong> Transparent, written-down ways of working builds trust and ensures alignment with expectations. This is how culture scales.</p></li>
+<li><p><strong>Recognise:</strong> Acknowledge and reward people who reflect the desired ways of working and therefore the desired culture. This encourages others to follow suit.</p></li>
+<li><p><strong>Provide Support:</strong> Create an environment where people feel empowered to improve the way we work - culture can and is set by anyone.</p></li>
+</ol>
+<p>While values and strategy provide nice posters for our office walls, culture determines how work actually unfolds long term. By focusing on actions and ways of working that define “how we do things around here”, you can change a culture.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>culture</category>
+  <category>leaership</category>
+  <guid>http://robjohnson.computer/blog/culture/</guid>
+  <pubDate>Sun, 30 Jun 2024 14:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Post With Code</title>
+  <dc:creator>Dr Robert Johnson</dc:creator>
+  <link>http://robjohnson.computer/blog/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is a post with executable code.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>code</category>
+  <category>analysis</category>
+  <guid>http://robjohnson.computer/blog/post-with-code/</guid>
+  <pubDate>Sun, 28 Apr 2024 14:00:00 GMT</pubDate>
+  <media:content url="http://robjohnson.computer/blog/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
