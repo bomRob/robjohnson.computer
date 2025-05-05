@@ -63,25 +63,60 @@
     "text": "Abstract\nThis review represents the Southern Ocean community’s satellite data needs for the coming decade. Developed through widespread engagement and incorporating perspectives from a range of stakeholders (both research and operational), it is designed as an important community-driven strategy paper that provides the rationale and information required for future planning and investment. The Southern Ocean is vast but globally connected, and the communities that require satellite-derived data in the region are diverse. This review includes many observable variables, including sea ice properties, sea surface temperature, sea surface height, atmospheric parameters, marine biology (both micro and macro) and related activities, terrestrial cryospheric connections, sea surface salinity, and a discussion of coincident and in situ data collection. Recommendations include commitment to data continuity, increases in particular capabilities (sensor types, spatial, temporal), improvements in dissemination of data/products/uncertainties, and innovation in calibration/validation capabilities. Full recommendations are detailed by variable as well as summarized. This review provides a starting point for scientists to understand more about Southern Ocean processes and their global roles, for funders to understand the desires of the community, for commercial operators to safely conduct their activities in the Southern Ocean, and for space agencies to gain greater impact from Southern Ocean-related acquisitions and missions."
   },
   {
-    "objectID": "publications/articles/Humphries2015.html",
-    "href": "publications/articles/Humphries2015.html",
-    "title": "Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation?",
+    "objectID": "publications/articles/Johnson2013.html",
+    "href": "publications/articles/Johnson2013.html",
+    "title": "Three improved satellite chlorophyll algorithms for the Southern Ocean",
     "section": "",
-    "text": "Humphries, R.S., Schofield, R., Keywood, M.D., Ward, J., Pierce, J.R., Gionfriddo, C.M., Tate, M.T., Krabbenhoft, D.P., Galbally, I.E., Molloy, S.B. and Klekociuk, A.R., 2015. Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation?. Atmospheric Chemistry and Physics, 15(23), pp.13339-13364."
+    "text": "Johnson, R., Strutton, P.G., Wright, S.W., McMinn, A. and Meiners, K.M., 2013. Three improved satellite chlorophyll algorithms for the Southern Ocean. Journal of Geophysical Research: Oceans, 118(7), pp.3694-3703."
   },
   {
-    "objectID": "publications/articles/Humphries2015.html#citation-harvard",
-    "href": "publications/articles/Humphries2015.html#citation-harvard",
-    "title": "Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation?",
+    "objectID": "publications/articles/Johnson2013.html#citation-harvard",
+    "href": "publications/articles/Johnson2013.html#citation-harvard",
+    "title": "Three improved satellite chlorophyll algorithms for the Southern Ocean",
     "section": "",
-    "text": "Humphries, R.S., Schofield, R., Keywood, M.D., Ward, J., Pierce, J.R., Gionfriddo, C.M., Tate, M.T., Krabbenhoft, D.P., Galbally, I.E., Molloy, S.B. and Klekociuk, A.R., 2015. Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation?. Atmospheric Chemistry and Physics, 15(23), pp.13339-13364."
+    "text": "Johnson, R., Strutton, P.G., Wright, S.W., McMinn, A. and Meiners, K.M., 2013. Three improved satellite chlorophyll algorithms for the Southern Ocean. Journal of Geophysical Research: Oceans, 118(7), pp.3694-3703."
   },
   {
-    "objectID": "publications/articles/Humphries2015.html#abstract",
-    "href": "publications/articles/Humphries2015.html#abstract",
-    "title": "Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation?",
+    "objectID": "publications/articles/Johnson2013.html#abstract",
+    "href": "publications/articles/Johnson2013.html#abstract",
+    "title": "Three improved satellite chlorophyll algorithms for the Southern Ocean",
     "section": "Abstract",
-    "text": "Abstract\nAerosol observations above the Southern Ocean and Antarctic sea ice are scarce. Measurements of aerosols and atmospheric composition were made in East Antarctic pack ice on board the Australian icebreaker Aurora Australis during the spring of 2012. One particle formation event was observed during the 32 days of observations. This event occurred on the only day to exhibit extended periods of global irradiance in excess of 600 W m−2. Within the single air mass influencing the measurements, number concentrations of particles larger than 3 nm (CN3) reached almost 7700 cm−3 within a few hours of clouds clearing, and grew at rates of 5.6 nm h−1. Formation rates of 3 nm particles were in the range of those measured at other Antarctic locations at 0.2–1.1 ± 0.1 cm−3 s−1. Our investigations into the nucleation chemistry found that there were insufficient precursor concentrations for known halogen or organic chemistry to explain the nucleation event. Modelling studies utilising known sulfuric acid nucleation schemes could not simultaneously reproduce both particle formation or growth rates. Surprising correlations with total gaseous mercury (TGM) were found that, together with other data, suggest a mercury-driven photochemical nucleation mechanism may be responsible for aerosol nucleation. Given the very low vapour pressures of the mercury species involved, this nucleation chemistry is likely only possible where pre-existing aerosol concentrations are low and both TGM concentrations and solar radiation levels are relatively high (∼ 1.5 ng m−3 and ≥ 600 W m−2, respectively), such as those observed in the Antarctic sea ice boundary layer in this study or in the global free troposphere, particularly in the Northern Hemisphere."
+    "text": "Abstract\nRemote sensing of Southern Ocean chlorophyll concentrations is the most effective way to detect large-scale changes in phytoplankton biomass driven by seasonality and climate change. However, the current algorithms for the Sea-viewing Wide Field-of-view Sensor (SeaWiFS, algorithm OC4v6), the Moderate Resolution Imaging Spectroradiometer (MODIS-Aqua, algorithm OC3M), and GlobColour significantly underestimate chlorophyll concentrations at high latitudes. Here, we use a long-term data set from the Southern Ocean (20°–160°E) to develop more accurate algorithms for all three of these products in southern high-latitude regions. These new algorithms improve in situ versus satellite chlorophyll coefficients of determination (r2) from 0.27 to 0.46, 0.26 to 0.51, and 0.25 to 0.27, for OC4v6, OC3M, and GlobColour, respectively, while addressing the underestimation problem. This study also revealed that pigment composition, which reflects species composition and physiology, is key to understanding the reasons for satellite chlorophyll underestimation in this region. These significantly improved algorithms will permit more accurate estimates of standing stocks and more sensitive detection of spatial and temporal changes in those stocks, with consequences for derived products such as primary production and carbon cycling."
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean\n    Pittman, N.A., Strutton, P.G., Johnson, R. and Matear, R.J.,\n    Journal of Geophysical Research: Oceans\n    (2019)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n  \n    Community review of Southern Ocean satellite data needs\n    Pope, A., Wagner, P., Johnson, R., Shutler, J.D., Baeseman, J. and Newman, L.\n    Antarctic Science\n    (2017)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n  \n    The IMOS “Radiometry Task Team” Final Report\n    Antoine, D., Schroeder, T., Slivkoff, M., Klonowski, W., Doblin, M., Lovell, J., Boadle, D., Baker, B., Botha, E., Robinson, C., King, E., Fearns, P., Hardman-Mountford, N., Johnson, R., Cherukuru, N., Dekker, A., Malthus, T., Mitchell, R., Thompson, P., Van Ruth, P.\n    \n    (2017)\n    \n      Details\n    \n    \n    \n    \n    \n      \n         URL\n      \n    \n    \n  \n\n  \n    Enhanced CO2 concentrations change the structure of Antarctic marine microbial communities\n    Davidson, A.T., McKinlay, J., Westwood, K., Thomson, P.G., van den Enden, R., de Salas, M., Wright, S., Johnson, R. and Berry, K.\n    Marine Ecology Progress Series\n    (2016)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n  \n    Zooplankton abundance and biomass size spectra in the East Antarctic sea-ice zone during the winter–spring transition\n    Wallis, J.R., Swadling, K.M., Everett, J.D., Suthers, I.M., Jones, H.J., Buchanan, P.J., Crawford, C.M., James, L.C., Johnson, R., Meiners, K.M. and Virtue, P.\n    Deep Sea Research Part II: Topical Studies in Oceanography\n    (2016)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n  \n    Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation?\n    Humphries, R.S., Schofield, R., Keywood, M.D., Ward, J., Pierce, J.R., Gionfriddo, C.M., Tate, M.T., Krabbenhoft, D.P., Galbally, I.E., Molloy, S.B. and Klekociuk, A.R.\n    Atmospheric Chemistry and Physics\n    (2015)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n  \n    Three improved satellite chlorophyll algorithms for the Southern Ocean\n    Johnson, R., Strutton, P.G., Wright, S.W., McMinn, A. and Meiners, K.M.\n    Journal of Geophysical Research: Oceans\n    (2013)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n  \n    Photoprotection Of Sea-Ice Microalgal Communities From The East Antarctic Pack Ice\n    Petrou, K., Hill, R., Doblin, M.A., McMinn, A., Johnson, R., Wright, S.W. and Ralph, P.J.\n    Journal of Phycology\n    (2011)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/post-with-code/index.html",
+    "href": "blog/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "RobJohnson.computer",
+    "section": "",
+    "text": "Dr Robert Johnson Senior Research Scientist  I’m a research scientist focused on forecast improvement and algorithm development across the Earth Sciences - from Ocean to Atmosphere. My work bridges numerical modeling, machine learning, and statistical post-processing to make environmental monitoring and forecasting more accurate, reliable, and useful. I also write about scientific leadership, research computing, and how AI is reshaping the way we understand and predict the natural world.  This is my personal website. The views and content expressed here are solely my own and do not represent the positions, policies, or opinions of my employer or any affiliated institutions."
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "Dr Robert Johnson Senior Research Scientist  I’m a senior research scientist leading a team focused on forecast improvement and algorithm development across the Earth sciences — from ocean to atmosphere. My work centres on enhancing the accuracy and usefulness of environmental forecasts through model post-processing, ensemble techniques, and machine learning.  My research background is broad and interdisciplinary, spanning from Antarctic phytoplankton photophysiology and satellite oceanography to AI applications in meteorology. Over the years, I’ve led multi-disciplinary teams of scientists and engineers, working on projects that integrate data science, numerical modelling, and operational systems. I contribute to international collaborations on probabilistic forecasting and post-processing, and my team’s innovations have delivered Australia’s first AI-driven post-processing system for public weather forecasts, replacing legacy statistical methods and modernising the weather forecast provided to millions of Australians.  Beyond research, I’m passionate about ensuring that science delivers real-world impact. I’ve worked with partners across sectors — including aviation, maritime, and emergency management — to make sure our advances support better decisions and safer outcomes. I live in Hobart, Tasmania, and use this blog to share ideas, reflections, and updates from the intersection of science, leadership, and technology."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWhat is Culture and how to change it?\n\n\n\n\n\n\nculture\n\n\nleaership\n\n\n\n\n\n\n\n\n\nJul 1, 2024\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 29, 2024\n\n\nDr Robert Johnson\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/culture/index.html",
@@ -126,60 +161,46 @@
     "text": "Building a Culture\nBuilding and maintaining a culture requires active participation and changes in “how we do things”.\n\nLead by Example: Model the behaviour you expect from your colleagues. Consistency in actions, words, and decisions is crucial.\nExplicit Ways of Working: Transparent, written-down ways of working builds trust and ensures alignment with expectations. This is how culture scales.\nRecognise: Acknowledge and reward people who reflect the desired ways of working and therefore the desired culture. This encourages others to follow suit.\nProvide Support: Create an environment where people feel empowered to improve the way we work - culture can and is set by anyone.\n\nWhile values and strategy provide nice posters for our office walls, culture determines how work actually unfolds long term. By focusing on actions and ways of working that define “how we do things around here”, you can change a culture."
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
+    "objectID": "publications/articles/Humphries2015.html",
+    "href": "publications/articles/Humphries2015.html",
+    "title": "Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation?",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWhat is Culture and how to change it?\n\n\n\n\n\n\nculture\n\n\nleaership\n\n\n\n\n\n\n\n\n\nJul 1, 2024\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 29, 2024\n\n\nDr Robert Johnson\n\n\n\n\n\n\nNo matching items"
+    "text": "Humphries, R.S., Schofield, R., Keywood, M.D., Ward, J., Pierce, J.R., Gionfriddo, C.M., Tate, M.T., Krabbenhoft, D.P., Galbally, I.E., Molloy, S.B. and Klekociuk, A.R., 2015. Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation?. Atmospheric Chemistry and Physics, 15(23), pp.13339-13364."
   },
   {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "About",
+    "objectID": "publications/articles/Humphries2015.html#citation-harvard",
+    "href": "publications/articles/Humphries2015.html#citation-harvard",
+    "title": "Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation?",
     "section": "",
-    "text": "Dr Robert Johnson Senior Research Scientist  I’m a senior research scientist leading a team focused on forecast improvement and algorithm development across the Earth sciences — from ocean to atmosphere. My work centres on enhancing the accuracy and usefulness of environmental forecasts through model post-processing, ensemble techniques, and machine learning.  My research background is broad and interdisciplinary, spanning from Antarctic phytoplankton photophysiology and satellite oceanography to AI applications in meteorology. Over the years, I’ve led multi-disciplinary teams of scientists and engineers, working on projects that integrate data science, numerical modelling, and operational systems. I contribute to international collaborations on probabilistic forecasting and post-processing, and my team’s innovations have delivered Australia’s first AI-driven post-processing system for public weather forecasts, replacing legacy statistical methods and modernising the weather forecast provided to millions of Australians.  Beyond research, I’m passionate about ensuring that science delivers real-world impact. I’ve worked with partners across sectors — including aviation, maritime, and emergency management — to make sure our advances support better decisions and safer outcomes. I live in Hobart, Tasmania, and use this blog to share ideas, reflections, and updates from the intersection of science, leadership, and technology."
+    "text": "Humphries, R.S., Schofield, R., Keywood, M.D., Ward, J., Pierce, J.R., Gionfriddo, C.M., Tate, M.T., Krabbenhoft, D.P., Galbally, I.E., Molloy, S.B. and Klekociuk, A.R., 2015. Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation?. Atmospheric Chemistry and Physics, 15(23), pp.13339-13364."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "RobJohnson.computer",
-    "section": "",
-    "text": "Dr Robert Johnson Senior Research Scientist  I’m a research scientist focused on forecast improvement and algorithm development across the Earth Sciences - from Ocean to Atmosphere. My work bridges numerical modeling, machine learning, and statistical post-processing to make environmental monitoring and forecasting more accurate, reliable, and useful. I also write about scientific leadership, research computing, and how AI is reshaping the way we understand and predict the natural world.  This is my personal website. The views and content expressed here are solely my own and do not represent the positions, policies, or opinions of my employer or any affiliated institutions."
-  },
-  {
-    "objectID": "blog/post-with-code/index.html",
-    "href": "blog/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    Community review of Southern Ocean satellite data needs\n    Pope et al.\n    Antarctic Science\n    (2017)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n  \n    Enhanced CO2 concentrations change the structure of Antarctic marine microbial communities\n    Davidson et al.\n    Marine Ecology Progress Series\n    (2016)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n  \n    The IMOS “Radiometry Task Team” Final Report\n    Antoine et al.\n    Deep Sea Research Part II: Topical Studies in Oceanography\n    (2016)\n    \n      Details\n    \n    \n    \n    \n    \n    \n      \n         URL\n      \n    \n  \n\n  \n    Zooplankton abundance and biomass size spectra in the East Antarctic sea-ice zone during the winter–spring transition\n    Wallis et al.\n    Deep Sea Research Part II: Topical Studies in Oceanography\n    (2016)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n  \n    Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation?\n    Humphries et al.\n    Atmospheric Chemistry and Physics\n    (2015)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n  \n    Three improved satellite chlorophyll algorithms for the Southern Ocean\n    Johnson et al.\n    Journal of Geophysical Research: Oceans\n    (2013)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n  \n    Photoprotection Of Sea-Ice Microalgal Communities From The East Antarctic Pack Ice\n    Petrou et al.\n    Journal of Phycology\n    (2011)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/articles/Johnson2013.html",
-    "href": "publications/articles/Johnson2013.html",
-    "title": "Three improved satellite chlorophyll algorithms for the Southern Ocean",
-    "section": "",
-    "text": "Johnson, R., Strutton, P.G., Wright, S.W., McMinn, A. and Meiners, K.M., 2013. Three improved satellite chlorophyll algorithms for the Southern Ocean. Journal of Geophysical Research: Oceans, 118(7), pp.3694-3703."
-  },
-  {
-    "objectID": "publications/articles/Johnson2013.html#citation-harvard",
-    "href": "publications/articles/Johnson2013.html#citation-harvard",
-    "title": "Three improved satellite chlorophyll algorithms for the Southern Ocean",
-    "section": "",
-    "text": "Johnson, R., Strutton, P.G., Wright, S.W., McMinn, A. and Meiners, K.M., 2013. Three improved satellite chlorophyll algorithms for the Southern Ocean. Journal of Geophysical Research: Oceans, 118(7), pp.3694-3703."
-  },
-  {
-    "objectID": "publications/articles/Johnson2013.html#abstract",
-    "href": "publications/articles/Johnson2013.html#abstract",
-    "title": "Three improved satellite chlorophyll algorithms for the Southern Ocean",
+    "objectID": "publications/articles/Humphries2015.html#abstract",
+    "href": "publications/articles/Humphries2015.html#abstract",
+    "title": "Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation?",
     "section": "Abstract",
-    "text": "Abstract\nRemote sensing of Southern Ocean chlorophyll concentrations is the most effective way to detect large-scale changes in phytoplankton biomass driven by seasonality and climate change. However, the current algorithms for the Sea-viewing Wide Field-of-view Sensor (SeaWiFS, algorithm OC4v6), the Moderate Resolution Imaging Spectroradiometer (MODIS-Aqua, algorithm OC3M), and GlobColour significantly underestimate chlorophyll concentrations at high latitudes. Here, we use a long-term data set from the Southern Ocean (20°–160°E) to develop more accurate algorithms for all three of these products in southern high-latitude regions. These new algorithms improve in situ versus satellite chlorophyll coefficients of determination (r2) from 0.27 to 0.46, 0.26 to 0.51, and 0.25 to 0.27, for OC4v6, OC3M, and GlobColour, respectively, while addressing the underestimation problem. This study also revealed that pigment composition, which reflects species composition and physiology, is key to understanding the reasons for satellite chlorophyll underestimation in this region. These significantly improved algorithms will permit more accurate estimates of standing stocks and more sensitive detection of spatial and temporal changes in those stocks, with consequences for derived products such as primary production and carbon cycling."
+    "text": "Abstract\nAerosol observations above the Southern Ocean and Antarctic sea ice are scarce. Measurements of aerosols and atmospheric composition were made in East Antarctic pack ice on board the Australian icebreaker Aurora Australis during the spring of 2012. One particle formation event was observed during the 32 days of observations. This event occurred on the only day to exhibit extended periods of global irradiance in excess of 600 W m−2. Within the single air mass influencing the measurements, number concentrations of particles larger than 3 nm (CN3) reached almost 7700 cm−3 within a few hours of clouds clearing, and grew at rates of 5.6 nm h−1. Formation rates of 3 nm particles were in the range of those measured at other Antarctic locations at 0.2–1.1 ± 0.1 cm−3 s−1. Our investigations into the nucleation chemistry found that there were insufficient precursor concentrations for known halogen or organic chemistry to explain the nucleation event. Modelling studies utilising known sulfuric acid nucleation schemes could not simultaneously reproduce both particle formation or growth rates. Surprising correlations with total gaseous mercury (TGM) were found that, together with other data, suggest a mercury-driven photochemical nucleation mechanism may be responsible for aerosol nucleation. Given the very low vapour pressures of the mercury species involved, this nucleation chemistry is likely only possible where pre-existing aerosol concentrations are low and both TGM concentrations and solar radiation levels are relatively high (∼ 1.5 ng m−3 and ≥ 600 W m−2, respectively), such as those observed in the Antarctic sea ice boundary layer in this study or in the global free troposphere, particularly in the Northern Hemisphere."
+  },
+  {
+    "objectID": "publications/articles/Pittman2019.html",
+    "href": "publications/articles/Pittman2019.html",
+    "title": "An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean",
+    "section": "",
+    "text": "Pittman, N.A., Strutton, P.G., Johnson, R. and Matear, R.J., 2019. An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean. Journal of Geophysical Research: Oceans, 124(12), pp.9020-9039."
+  },
+  {
+    "objectID": "publications/articles/Pittman2019.html#citation-harvard",
+    "href": "publications/articles/Pittman2019.html#citation-harvard",
+    "title": "An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean",
+    "section": "",
+    "text": "Pittman, N.A., Strutton, P.G., Johnson, R. and Matear, R.J., 2019. An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean. Journal of Geophysical Research: Oceans, 124(12), pp.9020-9039."
+  },
+  {
+    "objectID": "publications/articles/Pittman2019.html#abstract",
+    "href": "publications/articles/Pittman2019.html#abstract",
+    "title": "An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean",
+    "section": "Abstract",
+    "text": "Abstract\nThe tropical Pacific Ocean is a globally significant region of climate-driven biogeochemical variability. Satellite ocean color algorithms have been used for over 20 years, providing a substantial historical record of global ocean chlorophyll-a variability. Current chlorophyll algorithms perform better in the tropical Pacific than for the globe. Nevertheless, improvements can be made to produce a robust historical record of chlorophyll variability, which is essential to accurately identify ocean-atmosphere carbon fluxes and long-term trends in ocean productivity. We use a large in situ chlorophyll database to tune empirical ocean color algorithms to reduce bias in the equatorial Pacific. Traditional band ratio chlorophyll algorithms (OCx) perform adequately but exhibit errors at low chlorophyll concentrations. A new algorithm, the Ocean Color Index (OCI; Hu et al., 2012, https://doi.org/10.1029/2011JC007395), is more effective at calculating low chlorophyll concentrations in the mesotrophic tropical Pacific Ocean. Existing ocean color algorithms underestimate tropical Pacific chlorophyll by 5.8%, 14%, and 2% for three satellite ocean color sensors: SeaWiFS, MODIS-Aqua, and MERIS. In this paper, we develop regionally tuned sensor-specific coefficients and blending windows between the OCI to OCx algorithms to reduce systematic biases in the tropical Pacific. We assess cross-sensor consistency to produce robust 21-year time series trends. These updated estimates increase chlorophyll concentrations in open water and decrease around island and warm-pool regions, with implications for our understanding of El Niño-Southern Oscillation driven carbon fluxes and net primary productivity."
   },
   {
     "objectID": "publications/articles/Antoine2017.html",

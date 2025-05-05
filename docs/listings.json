@@ -1,21 +1,22 @@
 [
   {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/culture/index.html",
-      "/blog/post-with-code/index.html"
-    ]
-  },
-  {
     "listing": "/publications/index.html",
     "items": [
+      "/publications/articles/Pittman2019.html",
       "/publications/articles/Pope2017.html",
-      "/publications/articles/Davidson2016.html",
       "/publications/articles/Antoine2017.html",
+      "/publications/articles/Davidson2016.html",
       "/publications/articles/Wallis2016.html",
       "/publications/articles/Humphries2015.html",
       "/publications/articles/Johnson2013.html",
       "/publications/articles/Petrou2011.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/culture/index.html",
+      "/blog/post-with-code/index.html"
     ]
   }
 ]
