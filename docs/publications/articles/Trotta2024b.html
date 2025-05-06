@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Humphries, R.S., Schofield, R., Keywood, M.D., Ward, J., Pierce, J.R., Gionfriddo, C.M., Tate, M.T., Krabbenhoft, D.P., Galbally, I.E., Molloy, S.B. and Klekociuk, A.R.">
+<meta name="author" content="Trotta, B., Owen, B., Liu, J., Weymouth, G., Gale, T., Hume, T., Schubert, A., Canvin, J., Mentiplay, D., Whelan, J. and Johnson, R.">
 
-<title>Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation? – RobJohnson.computer</title>
+<title>RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts – RobJohnson.computer</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -112,11 +112,13 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation?</h1>
+      <h1 class="title">RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">oceanography</div>
-                <div class="quarto-category">chlorophyll</div>
-                <div class="quarto-category">antarctica</div>
+                <div class="quarto-category">post-processing</div>
+                <div class="quarto-category">meteorology</div>
+                <div class="quarto-category">IMPROVER</div>
+                <div class="quarto-category">machine learning</div>
+                <div class="quarto-category">AI</div>
                 <div class="quarto-category">article</div>
               </div>
                   </div>
@@ -128,7 +130,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>Humphries, R.S., Schofield, R., Keywood, M.D., Ward, J., Pierce, J.R., Gionfriddo, C.M., Tate, M.T., Krabbenhoft, D.P., Galbally, I.E., Molloy, S.B. and Klekociuk, A.R. </p>
+               <p>Trotta, B., Owen, B., Liu, J., Weymouth, G., Gale, T., Hume, T., Schubert, A., Canvin, J., Mentiplay, D., Whelan, J. and Johnson, R. </p>
             </div>
     </div>
       
@@ -138,7 +140,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="quarto-title-meta-heading">Doi</div>
       <div class="quarto-title-meta-contents">
         <p class="doi">
-          <a href="https://doi.org/https://doi.org/10.5194/acp-15-13339-2015">https://doi.org/10.5194/acp-15-13339-2015</a>
+          <a href="https://doi.org/https://doi.org/10.1175/WAF-D-23-0211.1">https://doi.org/10.1175/WAF-D-23-0211.1</a>
         </p>
       </div>
     </div>
@@ -159,12 +161,12 @@ ul.task-list li input[type="checkbox"] {
 <section id="citation-harvard" class="level2">
 <h2 class="anchored" data-anchor-id="citation-harvard">Citation (Harvard)</h2>
 <blockquote class="blockquote">
-<p>Humphries, R.S., Schofield, R., Keywood, M.D., Ward, J., Pierce, J.R., Gionfriddo, C.M., Tate, M.T., Krabbenhoft, D.P., Galbally, I.E., Molloy, S.B. and Klekociuk, A.R., 2015. Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation?. Atmospheric Chemistry and Physics, 15(23), pp.13339-13364.</p>
+<p>Trotta, B., Owen, B., Liu, J., Weymouth, G., Gale, T., Hume, T., Schubert, A., Canvin, J., Mentiplay, D., Whelan, J. and Johnson, R., 2024. RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts. Weather and Forecasting, 39(11), pp.1715-1732.</p>
 </blockquote>
 </section>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Aerosol observations above the Southern Ocean and Antarctic sea ice are scarce. Measurements of aerosols and atmospheric composition were made in East Antarctic pack ice on board the Australian icebreaker Aurora Australis during the spring of 2012. One particle formation event was observed during the 32 days of observations. This event occurred on the only day to exhibit extended periods of global irradiance in excess of 600 W m−2. Within the single air mass influencing the measurements, number concentrations of particles larger than 3 nm (CN3) reached almost 7700 cm−3 within a few hours of clouds clearing, and grew at rates of 5.6 nm h−1. Formation rates of 3 nm particles were in the range of those measured at other Antarctic locations at 0.2–1.1 ± 0.1 cm−3 s−1. Our investigations into the nucleation chemistry found that there were insufficient precursor concentrations for known halogen or organic chemistry to explain the nucleation event. Modelling studies utilising known sulfuric acid nucleation schemes could not simultaneously reproduce both particle formation or growth rates. Surprising correlations with total gaseous mercury (TGM) were found that, together with other data, suggest a mercury-driven photochemical nucleation mechanism may be responsible for aerosol nucleation. Given the very low vapour pressures of the mercury species involved, this nucleation chemistry is likely only possible where pre-existing aerosol concentrations are low and both TGM concentrations and solar radiation levels are relatively high (∼ 1.5 ng m−3 and ≥ 600 W m−2, respectively), such as those observed in the Antarctic sea ice boundary layer in this study or in the global free troposphere, particularly in the Northern Hemisphere.</p>
+<p>Probabilistic forecasts derived from ensemble prediction systems (EPSs) have become the standard basis for many products and services produced by modern operational forecasting centers. However, statistical postprocessing is generally required to ensure forecasts have the desired properties expected for probability-based outputs. Precipitation, a core component of any operational forecast, is particularly challenging to calibrate due to its discontinuous nature and the extreme skew in rainfall amounts. A skillful forecasting system must maintain accuracy for low-to-moderate precipitation amounts, but preserve resolvability for high-to-extreme rainfall amounts, which, though rare, are important to forecast accurately in the interest of public safety. Existing statistical and machine learning approaches to rainfall calibration address this problem, but each has drawbacks in design, training approaches, and/or performance. We describe RainForests, a machine learning approach for calibrating ensemble rainfall forecasts using gradient-boosted decision trees. The model is based on the ecPoint system recently developed at ECMWF by Hewson and Pillosu, but uses machine learning models in place of the semisubjective decision trees of ecPoint, along with some other improvements to the model structure. We evaluate RainForests on the Australian domain against some simple benchmarks and show that it outperforms standard calibration approaches both in overall skill and in accurately forecasting high rainfall conditions, while being computationally efficient enough to be used in an operational forecasting system.</p>
 
 
 </section>

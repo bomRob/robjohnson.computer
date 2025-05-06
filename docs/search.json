@@ -1,122 +1,164 @@
 [
   {
-    "objectID": "publications/articles/Wallis2016.html",
-    "href": "publications/articles/Wallis2016.html",
-    "title": "Zooplankton abundance and biomass size spectra in the East Antarctic sea-ice zone during the winter–spring transition",
+    "objectID": "publications/articles/Trotta2024a.html",
+    "href": "publications/articles/Trotta2024a.html",
+    "title": "An initial benchmarking of IMPROVER – Part 2: evaluation of precipitation diagnostics",
     "section": "",
-    "text": "Wallis, J.R., Swadling, K.M., Everett, J.D., Suthers, I.M., Jones, H.J., Buchanan, P.J., Crawford, C.M., James, L.C., Johnson, R., Meiners, K.M. and Virtue, P., 2016. Zooplankton abundance and biomass size spectra in the East Antarctic sea-ice zone during the winter–spring transition. Deep Sea Research Part II: Topical Studies in Oceanography, 131, pp.170-181."
+    "text": "Trotta, B., Canvin, J., Gale, T., Hume, T., Johnson, R., Liu, J., Mentiplay, D., Owen, B., Schubert, A., Weymouth, G., Whelan, J. 2024. An initial benchmarking of IMPROVER – Part 2: evaluation of precipitation diagnostics. Bureau Research Report No. 093"
   },
   {
-    "objectID": "publications/articles/Wallis2016.html#citation-harvard",
-    "href": "publications/articles/Wallis2016.html#citation-harvard",
-    "title": "Zooplankton abundance and biomass size spectra in the East Antarctic sea-ice zone during the winter–spring transition",
+    "objectID": "publications/articles/Trotta2024a.html#citation-harvard",
+    "href": "publications/articles/Trotta2024a.html#citation-harvard",
+    "title": "An initial benchmarking of IMPROVER – Part 2: evaluation of precipitation diagnostics",
     "section": "",
-    "text": "Wallis, J.R., Swadling, K.M., Everett, J.D., Suthers, I.M., Jones, H.J., Buchanan, P.J., Crawford, C.M., James, L.C., Johnson, R., Meiners, K.M. and Virtue, P., 2016. Zooplankton abundance and biomass size spectra in the East Antarctic sea-ice zone during the winter–spring transition. Deep Sea Research Part II: Topical Studies in Oceanography, 131, pp.170-181."
+    "text": "Trotta, B., Canvin, J., Gale, T., Hume, T., Johnson, R., Liu, J., Mentiplay, D., Owen, B., Schubert, A., Weymouth, G., Whelan, J. 2024. An initial benchmarking of IMPROVER – Part 2: evaluation of precipitation diagnostics. Bureau Research Report No. 093"
   },
   {
-    "objectID": "publications/articles/Wallis2016.html#abstract",
-    "href": "publications/articles/Wallis2016.html#abstract",
-    "title": "Zooplankton abundance and biomass size spectra in the East Antarctic sea-ice zone during the winter–spring transition",
+    "objectID": "publications/articles/Trotta2024a.html#abstract",
+    "href": "publications/articles/Trotta2024a.html#abstract",
+    "title": "An initial benchmarking of IMPROVER – Part 2: evaluation of precipitation diagnostics",
     "section": "Abstract",
-    "text": "Abstract\nSea ice is an influential feature in Southern Ocean-Antarctic marine environments creating a 2-phase vertical ecosystem. The lack of information on how this system influences community structure during the winter-spring transition, however, is largely lacking. Zooplankton form the link that bridges these environments, with the meiofaunal and algal communities within sea ice directly influencing the epipelagic zooplankton community at the ice-water interface. A combination of methods including sea-ice coring, umbrella net sampling and Laser Optical Plankton Counter were used to describe the vertical structure of zooplankton and meiofaunal communities. The distribution of meiofauna and chlorophyll a both played important roles in structuring the zooplankton community within this dynamic region. Many dominant taxa, including Calanus propinquus and Oithona similis, directly responded to the high availability of algae present within the bottom strata of sea ice. The sea-ice associated species Stephos longipes represented a strong link between this 2-phase ecosystem. Observations of the vertical distribution of biomass obtained from the LOPC suggests that the responses of these species to the sea ice directly influences the vertical structure of zooplankton during the winter-spring transition."
+    "text": "Abstract\nFor over a decade, the Gridded Operational Consensus Forecast (GOCF) system has been the Bureau’s post-processing platform and over that time it has become an essential element in the forecast production process. Nevertheless, GOCF is a primarily a deterministic framework, both in the input models it uses and in the outputs it produces (with the exception of the GOCF rainfall forecast). As Ensemble Prediction Systems (EPS) become the global standard for numerical weather prediction (NWP), it is essential for the Bureau’s post-processing capability to leverage EPS models and to transition to a probabilistic framework for all outputs. Therefore, the Bureau has adopted the IMPROVER (Integrated Model post-PROcessing and VERification) system as the successor to GOCF. IMPROVER, a project started at the UK Met Office and now developed in partnership with the Bureau, is a post-processing platform designed to use EPS and is a fully probabilistic framework, both in the post-processing techniques and in the outputs it produces. This research report describes the modelling approach for RainForests, the Bureau’s new machine-learning rainfall calibration methodology within IMPROVER. RainForests is one of the Bureau’s major contributions to the IMPROVER partnership. This is the second in a pair of research reports that benchmarks IMPROVER Release 5 diagnostics against GOCF. This report presents a summary of IMPROVER Release 5 precipitation diagnostics and benchmarks against GOCF; a summary and benchmark of non-precipitation diagnostics can be found in a separate companion report Owen et al. (2024). Release 5 of IMPROVER using RainForests makes significant accuracy gains when compared to the GOCF rainfall calibration. In particular, the 3-hour forecast has approximately one additional day of skill, and its consistency with the daily forecast is greatly improved."
   },
   {
-    "objectID": "publications/articles/Davidson2016.html",
-    "href": "publications/articles/Davidson2016.html",
-    "title": "Enhanced CO2 concentrations change the structure of Antarctic marine microbial communities",
+    "objectID": "publications/articles/Petrou2011.html",
+    "href": "publications/articles/Petrou2011.html",
+    "title": "Photoprotection Of Sea-Ice Microalgal Communities From The East Antarctic Pack Ice",
     "section": "",
-    "text": "Davidson, A.T., McKinlay, J., Westwood, K., Thomson, P.G., van den Enden, R., de Salas, M., Wright, S., Johnson, R. and Berry, K., 2016. Enhanced CO2 concentrations change the structure of Antarctic marine microbial communities. Marine Ecology Progress Series, 552, pp.93-113."
+    "text": "Petrou, K., Hill, R., Doblin, M.A., McMinn, A., Johnson, R., Wright, S.W. and Ralph, P.J., 2011. Photoprotection of sea‐ice microalgal communities from the east antarctic pack ice 1. Journal of Phycology, 47(1), pp.77-86."
   },
   {
-    "objectID": "publications/articles/Davidson2016.html#citation-harvard",
-    "href": "publications/articles/Davidson2016.html#citation-harvard",
-    "title": "Enhanced CO2 concentrations change the structure of Antarctic marine microbial communities",
+    "objectID": "publications/articles/Petrou2011.html#citation-harvard",
+    "href": "publications/articles/Petrou2011.html#citation-harvard",
+    "title": "Photoprotection Of Sea-Ice Microalgal Communities From The East Antarctic Pack Ice",
     "section": "",
-    "text": "Davidson, A.T., McKinlay, J., Westwood, K., Thomson, P.G., van den Enden, R., de Salas, M., Wright, S., Johnson, R. and Berry, K., 2016. Enhanced CO2 concentrations change the structure of Antarctic marine microbial communities. Marine Ecology Progress Series, 552, pp.93-113."
+    "text": "Petrou, K., Hill, R., Doblin, M.A., McMinn, A., Johnson, R., Wright, S.W. and Ralph, P.J., 2011. Photoprotection of sea‐ice microalgal communities from the east antarctic pack ice 1. Journal of Phycology, 47(1), pp.77-86."
   },
   {
-    "objectID": "publications/articles/Davidson2016.html#abstract",
-    "href": "publications/articles/Davidson2016.html#abstract",
-    "title": "Enhanced CO2 concentrations change the structure of Antarctic marine microbial communities",
+    "objectID": "publications/articles/Petrou2011.html#abstract",
+    "href": "publications/articles/Petrou2011.html#abstract",
+    "title": "Photoprotection Of Sea-Ice Microalgal Communities From The East Antarctic Pack Ice",
     "section": "Abstract",
-    "text": "Abstract\nThe impacts of anthropogenic enhancement of the partial pressure of carbon dioxide (pCO2) on marine organisms remain unclear, especially in Antarctic waters, which are predicted to be amongst the earliest and most severely affected by the consequent changes in ocean chemistry. Marine microbes are the base of the Antarctic food chain, and the nature of their response to elevated pCO2 is important as they are key determinants of the biogeochemical cycles that affect global climate. We studied the response of a natural community of Antarctic marine microbes from near-shore waters off Davis Station, Antarctica, to pCO2 ranging from the concentration in the water column at the time the experiment began (ambient, 84 μatm) to that predicted by the year 2300 (2423 μatm) using 6 gas-tight, environmentally controlled tanks (minicosms; 650 l) to which CO2-saturated seawater was added. The microbial community showed little difference between 84 and 643 μatm CO2 (0.2 to 1.7 times present), indicating that they can tolerate the large seasonal range in pCO2 in Antarctic coastal waters. Concentrations ≥1281 μatm reduced the accumulation rate of chlorophyll and particulate carbon, changed the microbial community, and enhanced the relative abundance of small phytoplankton. If our results are indicative of the future responses of Antarctic marine microbes, elevated CO2 could profoundly affect the structure and function of the Antarctic food web by reducing the availability of food for higher trophic levels and decreasing the efficiency of the biological pump."
+    "text": "Abstract\nAll photosynthetic organisms endeavor to balance energy supply with demand. For sea-ice diatoms, as with all marine photoautotrophs, light is the most important factor for determining growth and carbon-fixation rates. Light varies from extremely low to often relatively high irradiances within the sea-ice environment, meaning that sea-ice algae require moderate physiological plasticity that is necessary for rapid light acclimation and photoprotection. This study investigated photoprotective mechanisms employed by bottom Antarctic sea-ice algae in response to relatively high irradiances to understand how they acclimate to the environmental conditions presented during early spring, as the light climate begins to intensify and snow and sea-ice thinning commences. The sea-ice microalgae displayed high photosynthetic plasticity to increased irradiance, with a rapid decline in photochemical efficiency that was completely reversible when placed under low light. Similarly, the photoprotective xanthophyll pigment diatoxanthin (Dt) was immediately activated but reversed during recovery under low light. The xanthophyll inhibitor dithiothreitol (DTT) and state transition inhibitor sodium fluoride (NaF) were used in under-ice in situ incubations and revealed that nonphotochemical quenching (NPQ) via xanthophyll-cycle activation was the preferred method for light acclimation and photoprotection by bottom sea-ice algae. This study showed that bottom sea-ice algae from the east Antarctic possess a high level of plasticity in their light-acclimation capabilities and identified the xanthophyll cycle as a critical mechanism in photoprotection and the preferred means by which sea-ice diatoms regulate energy flow to PSII."
   },
   {
-    "objectID": "publications/articles/Pope2017.html",
-    "href": "publications/articles/Pope2017.html",
-    "title": "Community review of Southern Ocean satellite data needs",
+    "objectID": "publications/articles/Baldry2024.html",
+    "href": "publications/articles/Baldry2024.html",
+    "title": "A biological ocean data reformatting effort",
     "section": "",
-    "text": "Pope, A., Wagner, P., Johnson, R., Shutler, J.D., Baeseman, J. and Newman, L., 2017. Community review of Southern Ocean satellite data needs. Antarctic Science, 29(2), pp.97-138."
+    "text": "Baldry, K., Johnson, R., Strutton, P.G. and Boyd, P.W., 2024. A biological ocean data reformatting effort. Scientific Data, 11(1), p.215."
   },
   {
-    "objectID": "publications/articles/Pope2017.html#citation-harvard",
-    "href": "publications/articles/Pope2017.html#citation-harvard",
-    "title": "Community review of Southern Ocean satellite data needs",
+    "objectID": "publications/articles/Baldry2024.html#citation-harvard",
+    "href": "publications/articles/Baldry2024.html#citation-harvard",
+    "title": "A biological ocean data reformatting effort",
     "section": "",
-    "text": "Pope, A., Wagner, P., Johnson, R., Shutler, J.D., Baeseman, J. and Newman, L., 2017. Community review of Southern Ocean satellite data needs. Antarctic Science, 29(2), pp.97-138."
+    "text": "Baldry, K., Johnson, R., Strutton, P.G. and Boyd, P.W., 2024. A biological ocean data reformatting effort. Scientific Data, 11(1), p.215."
   },
   {
-    "objectID": "publications/articles/Pope2017.html#abstract",
-    "href": "publications/articles/Pope2017.html#abstract",
-    "title": "Community review of Southern Ocean satellite data needs",
+    "objectID": "publications/articles/Baldry2024.html#abstract",
+    "href": "publications/articles/Baldry2024.html#abstract",
+    "title": "A biological ocean data reformatting effort",
     "section": "Abstract",
-    "text": "Abstract\nThis review represents the Southern Ocean community’s satellite data needs for the coming decade. Developed through widespread engagement and incorporating perspectives from a range of stakeholders (both research and operational), it is designed as an important community-driven strategy paper that provides the rationale and information required for future planning and investment. The Southern Ocean is vast but globally connected, and the communities that require satellite-derived data in the region are diverse. This review includes many observable variables, including sea ice properties, sea surface temperature, sea surface height, atmospheric parameters, marine biology (both micro and macro) and related activities, terrestrial cryospheric connections, sea surface salinity, and a discussion of coincident and in situ data collection. Recommendations include commitment to data continuity, increases in particular capabilities (sensor types, spatial, temporal), improvements in dissemination of data/products/uncertainties, and innovation in calibration/validation capabilities. Full recommendations are detailed by variable as well as summarized. This review provides a starting point for scientists to understand more about Southern Ocean processes and their global roles, for funders to understand the desires of the community, for commercial operators to safely conduct their activities in the Southern Ocean, and for space agencies to gain greater impact from Southern Ocean-related acquisitions and missions."
+    "text": "Abstract\nBiological ocean data collected from ships find reuse in aggregations of historical data. These data are heavily relied upon to document long term change, validate satellite algorithms for ocean biology and are useful in assessing the performance of autonomous platforms and biogeochemical models. Existing aggregate products have largely been restricted to the surface ocean, omit physical data or have limited biological data. We present the first version of a BIOlogical ocean data reforMATting Effort (BIO-MATE) to begin to fill a gap in subsurface bio-physical data aggregates in a reproducible way. BIO-MATE uses open-source R software that reformats openly sourced published datasets from oceanographic voyages. These reformatted biological and physical data from underway sensors, profiling sensors, pigments analysis and particulate organic carbon analysis are stored in an interoperable BIO-MATE data product for easy access and use. Specific QA/QC protocols can now be easily applied to the BIO-MATE data product to support a variety of surface and subsurface applications."
   },
   {
-    "objectID": "publications/articles/Johnson2013.html",
-    "href": "publications/articles/Johnson2013.html",
-    "title": "Three improved satellite chlorophyll algorithms for the Southern Ocean",
+    "objectID": "publications/articles/Antoine2017.html",
+    "href": "publications/articles/Antoine2017.html",
+    "title": "The IMOS “Radiometry Task Team” Final Report",
     "section": "",
-    "text": "Johnson, R., Strutton, P.G., Wright, S.W., McMinn, A. and Meiners, K.M., 2013. Three improved satellite chlorophyll algorithms for the Southern Ocean. Journal of Geophysical Research: Oceans, 118(7), pp.3694-3703."
+    "text": "Antoine, D., Schroeder, T., Slivkoff, M., Klonowski, W., Doblin, M., Lovell, J., Boadle, D., Baker, B., Botha, E., Robinson, C., King, E., Fearns, P., Hardman-Mountford, N., Johnson, R., Cherukuru, N., Dekker, A., Malthus, T., Mitchell, R., Thompson, P., Van Ruth, P., 2017. The IMOS “Radiometry Task Team”"
   },
   {
-    "objectID": "publications/articles/Johnson2013.html#citation-harvard",
-    "href": "publications/articles/Johnson2013.html#citation-harvard",
-    "title": "Three improved satellite chlorophyll algorithms for the Southern Ocean",
+    "objectID": "publications/articles/Antoine2017.html#citation-harvard",
+    "href": "publications/articles/Antoine2017.html#citation-harvard",
+    "title": "The IMOS “Radiometry Task Team” Final Report",
     "section": "",
-    "text": "Johnson, R., Strutton, P.G., Wright, S.W., McMinn, A. and Meiners, K.M., 2013. Three improved satellite chlorophyll algorithms for the Southern Ocean. Journal of Geophysical Research: Oceans, 118(7), pp.3694-3703."
+    "text": "Antoine, D., Schroeder, T., Slivkoff, M., Klonowski, W., Doblin, M., Lovell, J., Boadle, D., Baker, B., Botha, E., Robinson, C., King, E., Fearns, P., Hardman-Mountford, N., Johnson, R., Cherukuru, N., Dekker, A., Malthus, T., Mitchell, R., Thompson, P., Van Ruth, P., 2017. The IMOS “Radiometry Task Team”"
   },
   {
-    "objectID": "publications/articles/Johnson2013.html#abstract",
-    "href": "publications/articles/Johnson2013.html#abstract",
-    "title": "Three improved satellite chlorophyll algorithms for the Southern Ocean",
+    "objectID": "publications/articles/Pittman2019.html",
+    "href": "publications/articles/Pittman2019.html",
+    "title": "An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean",
+    "section": "",
+    "text": "Pittman, N.A., Strutton, P.G., Johnson, R. and Matear, R.J., 2019. An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean. Journal of Geophysical Research: Oceans, 124(12), pp.9020-9039."
+  },
+  {
+    "objectID": "publications/articles/Pittman2019.html#citation-harvard",
+    "href": "publications/articles/Pittman2019.html#citation-harvard",
+    "title": "An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean",
+    "section": "",
+    "text": "Pittman, N.A., Strutton, P.G., Johnson, R. and Matear, R.J., 2019. An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean. Journal of Geophysical Research: Oceans, 124(12), pp.9020-9039."
+  },
+  {
+    "objectID": "publications/articles/Pittman2019.html#abstract",
+    "href": "publications/articles/Pittman2019.html#abstract",
+    "title": "An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean",
     "section": "Abstract",
-    "text": "Abstract\nRemote sensing of Southern Ocean chlorophyll concentrations is the most effective way to detect large-scale changes in phytoplankton biomass driven by seasonality and climate change. However, the current algorithms for the Sea-viewing Wide Field-of-view Sensor (SeaWiFS, algorithm OC4v6), the Moderate Resolution Imaging Spectroradiometer (MODIS-Aqua, algorithm OC3M), and GlobColour significantly underestimate chlorophyll concentrations at high latitudes. Here, we use a long-term data set from the Southern Ocean (20°–160°E) to develop more accurate algorithms for all three of these products in southern high-latitude regions. These new algorithms improve in situ versus satellite chlorophyll coefficients of determination (r2) from 0.27 to 0.46, 0.26 to 0.51, and 0.25 to 0.27, for OC4v6, OC3M, and GlobColour, respectively, while addressing the underestimation problem. This study also revealed that pigment composition, which reflects species composition and physiology, is key to understanding the reasons for satellite chlorophyll underestimation in this region. These significantly improved algorithms will permit more accurate estimates of standing stocks and more sensitive detection of spatial and temporal changes in those stocks, with consequences for derived products such as primary production and carbon cycling."
+    "text": "Abstract\nThe tropical Pacific Ocean is a globally significant region of climate-driven biogeochemical variability. Satellite ocean color algorithms have been used for over 20 years, providing a substantial historical record of global ocean chlorophyll-a variability. Current chlorophyll algorithms perform better in the tropical Pacific than for the globe. Nevertheless, improvements can be made to produce a robust historical record of chlorophyll variability, which is essential to accurately identify ocean-atmosphere carbon fluxes and long-term trends in ocean productivity. We use a large in situ chlorophyll database to tune empirical ocean color algorithms to reduce bias in the equatorial Pacific. Traditional band ratio chlorophyll algorithms (OCx) perform adequately but exhibit errors at low chlorophyll concentrations. A new algorithm, the Ocean Color Index (OCI; Hu et al., 2012, https://doi.org/10.1029/2011JC007395), is more effective at calculating low chlorophyll concentrations in the mesotrophic tropical Pacific Ocean. Existing ocean color algorithms underestimate tropical Pacific chlorophyll by 5.8%, 14%, and 2% for three satellite ocean color sensors: SeaWiFS, MODIS-Aqua, and MERIS. In this paper, we develop regionally tuned sensor-specific coefficients and blending windows between the OCI to OCx algorithms to reduce systematic biases in the tropical Pacific. We assess cross-sensor consistency to produce robust 21-year time series trends. These updated estimates increase chlorophyll concentrations in open water and decrease around island and warm-pool regions, with implications for our understanding of El Niño-Southern Oscillation driven carbon fluxes and net primary productivity."
   },
   {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Publications",
+    "objectID": "publications/articles/Pittman2022.html",
+    "href": "publications/articles/Pittman2022.html",
+    "title": "Relationships between air‐sea CO2 flux and new production in the Equatorial Pacific",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean\n    Pittman, N.A., Strutton, P.G., Johnson, R. and Matear, R.J.,\n    Journal of Geophysical Research: Oceans\n    (2019)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n  \n    Community review of Southern Ocean satellite data needs\n    Pope, A., Wagner, P., Johnson, R., Shutler, J.D., Baeseman, J. and Newman, L.\n    Antarctic Science\n    (2017)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n  \n    The IMOS “Radiometry Task Team” Final Report\n    Antoine, D., Schroeder, T., Slivkoff, M., Klonowski, W., Doblin, M., Lovell, J., Boadle, D., Baker, B., Botha, E., Robinson, C., King, E., Fearns, P., Hardman-Mountford, N., Johnson, R., Cherukuru, N., Dekker, A., Malthus, T., Mitchell, R., Thompson, P., Van Ruth, P.\n    \n    (2017)\n    \n      Details\n    \n    \n    \n    \n    \n      \n         URL\n      \n    \n    \n  \n\n  \n    Enhanced CO2 concentrations change the structure of Antarctic marine microbial communities\n    Davidson, A.T., McKinlay, J., Westwood, K., Thomson, P.G., van den Enden, R., de Salas, M., Wright, S., Johnson, R. and Berry, K.\n    Marine Ecology Progress Series\n    (2016)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n  \n    Zooplankton abundance and biomass size spectra in the East Antarctic sea-ice zone during the winter–spring transition\n    Wallis, J.R., Swadling, K.M., Everett, J.D., Suthers, I.M., Jones, H.J., Buchanan, P.J., Crawford, C.M., James, L.C., Johnson, R., Meiners, K.M. and Virtue, P.\n    Deep Sea Research Part II: Topical Studies in Oceanography\n    (2016)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n  \n    Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation?\n    Humphries, R.S., Schofield, R., Keywood, M.D., Ward, J., Pierce, J.R., Gionfriddo, C.M., Tate, M.T., Krabbenhoft, D.P., Galbally, I.E., Molloy, S.B. and Klekociuk, A.R.\n    Atmospheric Chemistry and Physics\n    (2015)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n  \n    Three improved satellite chlorophyll algorithms for the Southern Ocean\n    Johnson, R., Strutton, P.G., Wright, S.W., McMinn, A. and Meiners, K.M.\n    Journal of Geophysical Research: Oceans\n    (2013)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n  \n    Photoprotection Of Sea-Ice Microalgal Communities From The East Antarctic Pack Ice\n    Petrou, K., Hill, R., Doblin, M.A., McMinn, A., Johnson, R., Wright, S.W. and Ralph, P.J.\n    Journal of Phycology\n    (2011)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n  \n\n\n\n\nNo matching items"
+    "text": "Pittman, N.A., Strutton, P.G., Johnson, R., Matear, R.J. and Sutton, A.J., 2022. Relationships between air‐sea CO2 flux and new production in the Equatorial Pacific. Global Biogeochemical Cycles, 36(4), p.e2021GB007121."
   },
   {
-    "objectID": "blog/post-with-code/index.html",
-    "href": "blog/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "publications/articles/Pittman2022.html#citation-harvard",
+    "href": "publications/articles/Pittman2022.html#citation-harvard",
+    "title": "Relationships between air‐sea CO2 flux and new production in the Equatorial Pacific",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Pittman, N.A., Strutton, P.G., Johnson, R., Matear, R.J. and Sutton, A.J., 2022. Relationships between air‐sea CO2 flux and new production in the Equatorial Pacific. Global Biogeochemical Cycles, 36(4), p.e2021GB007121."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "RobJohnson.computer",
-    "section": "",
-    "text": "Dr Robert Johnson Senior Research Scientist  I’m a research scientist focused on forecast improvement and algorithm development across the Earth Sciences - from Ocean to Atmosphere. My work bridges numerical modeling, machine learning, and statistical post-processing to make environmental monitoring and forecasting more accurate, reliable, and useful. I also write about scientific leadership, research computing, and how AI is reshaping the way we understand and predict the natural world.  This is my personal website. The views and content expressed here are solely my own and do not represent the positions, policies, or opinions of my employer or any affiliated institutions."
+    "objectID": "publications/articles/Pittman2022.html#abstract",
+    "href": "publications/articles/Pittman2022.html#abstract",
+    "title": "Relationships between air‐sea CO2 flux and new production in the Equatorial Pacific",
+    "section": "Abstract",
+    "text": "Abstract\nThe equatorial Pacific is the largest oceanic source of carbon dioxide to the atmosphere. This outgassing varies depending on the El Niño-Southern Oscillation (ENSO) and decadal climate variability. New production, the amount of phytoplankton net primary production driven by upwelled nitrate, plays a significant role in modulating air-sea CO2 fluxes as the biological carbon pump removes carbon from the surface ocean. We aim to understand how the physical drivers of sea surface temperature and wind speed influence interannual and decadal variability of the equatorial Pacific carbon cycle. In the equatorial Pacific, there are three biogeochemical regimes: the upwelling cold tongue east of 140°W and south of the equator (3°N–15°S); the eastern Pacific warm pool north of the equator (3°–15°N); and the 28.5°C western Pacific warm pool, west of 140°W. We find that between 2000 and 2020, air-sea CO2 flux and ΔpCO2 increased in the cold tongue (45 mmolC m−2 yr−2, 1.5 μatm yr−1, respectively) but decreased elsewhere, while new production decreased everywhere. The western Pacific occasionally became a weak carbon sink, depending on ENSO and this sink was strongest at 165°E during central Pacific “Modoki” El Niño events. We find that changes in wind speed, temperature and ENSO frequency have altered the surface carbon budget. The mean basin-wide (150°E−90°W and 15°N–15°S) new production for 2000–2020 was 1.2 ± 0.1 PgC yr−1 and air-sea CO2 flux was 0.5 ± 0.1 PgC yr−1. New production decreased at −7.7 ± 1.6 TgC yr−2, compared to the CO2 flux trend of −1.7 ± 1.4 TgC yr−2."
   },
   {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "About",
+    "objectID": "publications/articles/Trotta2024b.html",
+    "href": "publications/articles/Trotta2024b.html",
+    "title": "RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts",
     "section": "",
-    "text": "Dr Robert Johnson Senior Research Scientist  I’m a senior research scientist leading a team focused on forecast improvement and algorithm development across the Earth sciences — from ocean to atmosphere. My work centres on enhancing the accuracy and usefulness of environmental forecasts through model post-processing, ensemble techniques, and machine learning.  My research background is broad and interdisciplinary, spanning from Antarctic phytoplankton photophysiology and satellite oceanography to AI applications in meteorology. Over the years, I’ve led multi-disciplinary teams of scientists and engineers, working on projects that integrate data science, numerical modelling, and operational systems. I contribute to international collaborations on probabilistic forecasting and post-processing, and my team’s innovations have delivered Australia’s first AI-driven post-processing system for public weather forecasts, replacing legacy statistical methods and modernising the weather forecast provided to millions of Australians.  Beyond research, I’m passionate about ensuring that science delivers real-world impact. I’ve worked with partners across sectors — including aviation, maritime, and emergency management — to make sure our advances support better decisions and safer outcomes. I live in Hobart, Tasmania, and use this blog to share ideas, reflections, and updates from the intersection of science, leadership, and technology."
+    "text": "Trotta, B., Owen, B., Liu, J., Weymouth, G., Gale, T., Hume, T., Schubert, A., Canvin, J., Mentiplay, D., Whelan, J. and Johnson, R., 2024. RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts. Weather and Forecasting, 39(11), pp.1715-1732."
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
+    "objectID": "publications/articles/Trotta2024b.html#citation-harvard",
+    "href": "publications/articles/Trotta2024b.html#citation-harvard",
+    "title": "RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWhat is Culture and how to change it?\n\n\n\n\n\n\nculture\n\n\nleaership\n\n\n\n\n\n\n\n\n\nJul 1, 2024\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 29, 2024\n\n\nDr Robert Johnson\n\n\n\n\n\n\nNo matching items"
+    "text": "Trotta, B., Owen, B., Liu, J., Weymouth, G., Gale, T., Hume, T., Schubert, A., Canvin, J., Mentiplay, D., Whelan, J. and Johnson, R., 2024. RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts. Weather and Forecasting, 39(11), pp.1715-1732."
+  },
+  {
+    "objectID": "publications/articles/Trotta2024b.html#abstract",
+    "href": "publications/articles/Trotta2024b.html#abstract",
+    "title": "RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts",
+    "section": "Abstract",
+    "text": "Abstract\nProbabilistic forecasts derived from ensemble prediction systems (EPSs) have become the standard basis for many products and services produced by modern operational forecasting centers. However, statistical postprocessing is generally required to ensure forecasts have the desired properties expected for probability-based outputs. Precipitation, a core component of any operational forecast, is particularly challenging to calibrate due to its discontinuous nature and the extreme skew in rainfall amounts. A skillful forecasting system must maintain accuracy for low-to-moderate precipitation amounts, but preserve resolvability for high-to-extreme rainfall amounts, which, though rare, are important to forecast accurately in the interest of public safety. Existing statistical and machine learning approaches to rainfall calibration address this problem, but each has drawbacks in design, training approaches, and/or performance. We describe RainForests, a machine learning approach for calibrating ensemble rainfall forecasts using gradient-boosted decision trees. The model is based on the ecPoint system recently developed at ECMWF by Hewson and Pillosu, but uses machine learning models in place of the semisubjective decision trees of ecPoint, along with some other improvements to the model structure. We evaluate RainForests on the Australian domain against some simple benchmarks and show that it outperforms standard calibration approaches both in overall skill and in accurately forecasting high rainfall conditions, while being computationally efficient enough to be used in an operational forecasting system."
+  },
+  {
+    "objectID": "publications/articles/Hellessey2020.html",
+    "href": "publications/articles/Hellessey2020.html",
+    "title": "Antarctic krill lipid and fatty acid content variability is associated to satellite derived chlorophyll a and sea surface temperatures",
+    "section": "",
+    "text": "Hellessey, N., Johnson, R., Ericson, J.A., Nichols, P.D., Kawaguchi, S., Nicol, S., Hoem, N. and Virtue, P., 2020. Antarctic krill lipid and fatty acid content variability is associated to satellite derived chlorophyll a and sea surface temperatures. Scientific Reports, 10(1), p.6060."
+  },
+  {
+    "objectID": "publications/articles/Hellessey2020.html#citation-harvard",
+    "href": "publications/articles/Hellessey2020.html#citation-harvard",
+    "title": "Antarctic krill lipid and fatty acid content variability is associated to satellite derived chlorophyll a and sea surface temperatures",
+    "section": "",
+    "text": "Hellessey, N., Johnson, R., Ericson, J.A., Nichols, P.D., Kawaguchi, S., Nicol, S., Hoem, N. and Virtue, P., 2020. Antarctic krill lipid and fatty acid content variability is associated to satellite derived chlorophyll a and sea surface temperatures. Scientific Reports, 10(1), p.6060."
+  },
+  {
+    "objectID": "publications/articles/Hellessey2020.html#abstract",
+    "href": "publications/articles/Hellessey2020.html#abstract",
+    "title": "Antarctic krill lipid and fatty acid content variability is associated to satellite derived chlorophyll a and sea surface temperatures",
+    "section": "Abstract",
+    "text": "Abstract\nAntarctic krill (Euphausia superba) are a key component of the Antarctic food web with considerable lipid reserves that are vital for their health and higher predator survival. Krill lipids are primarily derived from their diet of plankton, in particular diatoms and flagellates. Few attempts have been made to link the spatial and temporal variations in krill lipids to those in their food supply. Remotely-sensed environmental parameters provide large-scale information on the potential availability of krill food, although relating this to physiological and biochemical differences has only been performed on small scales and with limited samples. Our study utilised remotely-sensed data (chlorophyll a and sea surface temperature) coupled with krill lipid data obtained from 3 years of fishery-derived samples. We examined within and between year variation of trends in both the environment and krill biochemistry data. Chlorophyll a levels were positively related to krill lipid levels, particularly triacylglycerol. Plankton fatty acid biomarkers analysed in krill (such as n-3 polyunsaturated fatty acids) increased with decreasing sea surface temperature and increasing chlorophyll a levels. Our study demonstrates the utility of combining remote-sensing and biochemical data in examining biological and physiological relationships between Antarctic krill and the Southern Ocean environment."
   },
   {
     "objectID": "blog/culture/index.html",
@@ -161,6 +203,41 @@
     "text": "Building a Culture\nBuilding and maintaining a culture requires active participation and changes in “how we do things”.\n\nLead by Example: Model the behaviour you expect from your colleagues. Consistency in actions, words, and decisions is crucial.\nExplicit Ways of Working: Transparent, written-down ways of working builds trust and ensures alignment with expectations. This is how culture scales.\nRecognise: Acknowledge and reward people who reflect the desired ways of working and therefore the desired culture. This encourages others to follow suit.\nProvide Support: Create an environment where people feel empowered to improve the way we work - culture can and is set by anyone.\n\nWhile values and strategy provide nice posters for our office walls, culture determines how work actually unfolds long term. By focusing on actions and ways of working that define “how we do things around here”, you can change a culture."
   },
   {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWhat is Culture and how to change it?\n\n\n\n\n\n\nculture\n\n\nleaership\n\n\n\n\n\n\n\n\n\nJul 1, 2024\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 29, 2024\n\n\nDr Robert Johnson\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "Dr Robert Johnson Senior Research Scientist  I’m a senior research scientist leading a team focused on forecast improvement and algorithm development across the Earth sciences — from ocean to atmosphere. My work centres on enhancing the accuracy and usefulness of environmental forecasts through model post-processing, ensemble techniques, and machine learning.  My research background is broad and interdisciplinary, spanning from Antarctic phytoplankton photophysiology and satellite oceanography to AI applications in meteorology. Over the years, I’ve led multi-disciplinary teams of scientists and engineers, working on projects that integrate data science, numerical modelling, and operational systems. I contribute to international collaborations on probabilistic forecasting and post-processing, and my team’s innovations have delivered Australia’s first AI-driven post-processing system for public weather forecasts, replacing legacy statistical methods and modernising the weather forecast provided to millions of Australians.  Beyond research, I’m passionate about ensuring that science delivers real-world impact. I’ve worked with partners across sectors — including aviation, maritime, and emergency management — to make sure our advances support better decisions and safer outcomes. I live in Hobart, Tasmania, and use this blog to share ideas, reflections, and updates from the intersection of science, leadership, and technology."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "RobJohnson.computer",
+    "section": "",
+    "text": "Dr Robert Johnson Senior Research Scientist  I’m a research scientist focused on forecast improvement and algorithm development across the Earth Sciences - from Ocean to Atmosphere. My work bridges numerical modeling, machine learning, and statistical post-processing to make environmental monitoring and forecasting more accurate, reliable, and useful. I also write about scientific leadership, research computing, and how AI is reshaping the way we understand and predict the natural world.  This is my personal website. The views and content expressed here are solely my own and do not represent the positions, policies, or opinions of my employer or any affiliated institutions."
+  },
+  {
+    "objectID": "blog/post-with-code/index.html",
+    "href": "blog/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts\n    Trotta, B., Johnson, R., de Burgh-Day, C., Hudson, D., Abellan, E., Canvin, J., Kelly, A., Mentiplay, D., Owen, B. and Whelan, J.\n    arXiv\n    (2025)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n    A biological ocean data reformatting effort\n    Baldry, K., Johnson, R., Strutton, P.G. and Boyd, P.W.\n    Nature Scientific Data\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n    An initial benchmarking of IMPROVER – Part 1 : evaluation of non-precipitation diagnostics\n    Owen, B., Canvin, J., Gale, T., Hume, T., Johnson, R., Liu, J., Mentiplay, D., Schubert, A., Trotta, B., Weymouth, G., Whelan, J.\n    Bureau of Meteorology Research Report\n    (2024)\n    \n      Details\n    \n    \n    \n    \n    \n      \n         URL\n      \n    \n    \n    \n  \n\n  \n    An initial benchmarking of IMPROVER – Part 2: evaluation of precipitation diagnostics\n    Trotta, B., Canvin, J., Gale, T., Hume, T., Johnson, R., Liu, J., Mentiplay, D., Owen, B., Schubert, A., Weymouth, G., Whelan, J.\n    Bureau of Meteorology Research Report\n    (2024)\n    \n      Details\n    \n    \n    \n    \n    \n      \n         URL\n      \n    \n    \n    \n  \n\n  \n    RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts\n    Trotta, B., Owen, B., Liu, J., Weymouth, G., Gale, T., Hume, T., Schubert, A., Canvin, J., Mentiplay, D., Whelan, J. and Johnson, R.\n    Weather and Forecasting\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n    Relationships between air‐sea CO2 flux and new production in the Equatorial Pacific\n    Pittman, N.A., Strutton, P.G., Johnson, R., Matear, R.J. and Sutton, A.J.\n    Global Biogeochemical Cycles\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n    Antarctic krill lipid and fatty acid content variability is associated to satellite derived chlorophyll a and sea surface temperatures\n    Hellessey, N., Johnson, R., Ericson, J.A., Nichols, P.D., Kawaguchi, S., Nicol, S., Hoem, N. and Virtue, P.\n    Nature Scientific Reports\n    (2020)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n    An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean\n    Pittman, N.A., Strutton, P.G., Johnson, R. and Matear, R.J.,\n    Journal of Geophysical Research: Oceans\n    (2019)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n    Community review of Southern Ocean satellite data needs\n    Pope, A., Wagner, P., Johnson, R., Shutler, J.D., Baeseman, J. and Newman, L.\n    Antarctic Science\n    (2017)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n    The IMOS “Radiometry Task Team” Final Report\n    Antoine, D., Schroeder, T., Slivkoff, M., Klonowski, W., Doblin, M., Lovell, J., Boadle, D., Baker, B., Botha, E., Robinson, C., King, E., Fearns, P., Hardman-Mountford, N., Johnson, R., Cherukuru, N., Dekker, A., Malthus, T., Mitchell, R., Thompson, P., Van Ruth, P.\n    \n    (2017)\n    \n      Details\n    \n    \n    \n    \n    \n      \n         URL\n      \n    \n    \n    \n  \n\n  \n    Enhanced CO2 concentrations change the structure of Antarctic marine microbial communities\n    Davidson, A.T., McKinlay, J., Westwood, K., Thomson, P.G., van den Enden, R., de Salas, M., Wright, S., Johnson, R. and Berry, K.\n    Marine Ecology Progress Series\n    (2016)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n    Zooplankton abundance and biomass size spectra in the East Antarctic sea-ice zone during the winter–spring transition\n    Wallis, J.R., Swadling, K.M., Everett, J.D., Suthers, I.M., Jones, H.J., Buchanan, P.J., Crawford, C.M., James, L.C., Johnson, R., Meiners, K.M. and Virtue, P.\n    Deep Sea Research Part II: Topical Studies in Oceanography\n    (2016)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n    Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation?\n    Humphries, R.S., Schofield, R., Keywood, M.D., Ward, J., Pierce, J.R., Gionfriddo, C.M., Tate, M.T., Krabbenhoft, D.P., Galbally, I.E., Molloy, S.B. and Klekociuk, A.R.\n    Atmospheric Chemistry and Physics\n    (2015)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n    Three improved satellite chlorophyll algorithms for the Southern Ocean\n    Johnson, R., Strutton, P.G., Wright, S.W., McMinn, A. and Meiners, K.M.\n    Journal of Geophysical Research: Oceans\n    (2013)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n    Photoprotection Of Sea-Ice Microalgal Communities From The East Antarctic Pack Ice\n    Petrou, K., Hill, R., Doblin, M.A., McMinn, A., Johnson, R., Wright, S.W. and Ralph, P.J.\n    Journal of Phycology\n    (2011)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n    \n    \n  \n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "publications/articles/Humphries2015.html",
     "href": "publications/articles/Humphries2015.html",
     "title": "Boundary layer new particle formation over East Antarctic sea ice–possible Hg-driven nucleation?",
@@ -182,59 +259,129 @@
     "text": "Abstract\nAerosol observations above the Southern Ocean and Antarctic sea ice are scarce. Measurements of aerosols and atmospheric composition were made in East Antarctic pack ice on board the Australian icebreaker Aurora Australis during the spring of 2012. One particle formation event was observed during the 32 days of observations. This event occurred on the only day to exhibit extended periods of global irradiance in excess of 600 W m−2. Within the single air mass influencing the measurements, number concentrations of particles larger than 3 nm (CN3) reached almost 7700 cm−3 within a few hours of clouds clearing, and grew at rates of 5.6 nm h−1. Formation rates of 3 nm particles were in the range of those measured at other Antarctic locations at 0.2–1.1 ± 0.1 cm−3 s−1. Our investigations into the nucleation chemistry found that there were insufficient precursor concentrations for known halogen or organic chemistry to explain the nucleation event. Modelling studies utilising known sulfuric acid nucleation schemes could not simultaneously reproduce both particle formation or growth rates. Surprising correlations with total gaseous mercury (TGM) were found that, together with other data, suggest a mercury-driven photochemical nucleation mechanism may be responsible for aerosol nucleation. Given the very low vapour pressures of the mercury species involved, this nucleation chemistry is likely only possible where pre-existing aerosol concentrations are low and both TGM concentrations and solar radiation levels are relatively high (∼ 1.5 ng m−3 and ≥ 600 W m−2, respectively), such as those observed in the Antarctic sea ice boundary layer in this study or in the global free troposphere, particularly in the Northern Hemisphere."
   },
   {
-    "objectID": "publications/articles/Pittman2019.html",
-    "href": "publications/articles/Pittman2019.html",
-    "title": "An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean",
+    "objectID": "publications/articles/Owen2024.html",
+    "href": "publications/articles/Owen2024.html",
+    "title": "An initial benchmarking of IMPROVER – Part 1 : evaluation of non-precipitation diagnostics",
     "section": "",
-    "text": "Pittman, N.A., Strutton, P.G., Johnson, R. and Matear, R.J., 2019. An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean. Journal of Geophysical Research: Oceans, 124(12), pp.9020-9039."
+    "text": "Owen, B., Canvin, J., Gale, T., Hume, T., Johnson, R., Liu, J., Mentiplay, D., Schubert, A., Trotta, B., Weymouth, G., Whelan, J., 2024. An initial benchmarking of IMPROVER – Part 1: evaluation of non-precipitation diagnostics. Bureau Research Report No. 092"
   },
   {
-    "objectID": "publications/articles/Pittman2019.html#citation-harvard",
-    "href": "publications/articles/Pittman2019.html#citation-harvard",
-    "title": "An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean",
+    "objectID": "publications/articles/Owen2024.html#citation-harvard",
+    "href": "publications/articles/Owen2024.html#citation-harvard",
+    "title": "An initial benchmarking of IMPROVER – Part 1 : evaluation of non-precipitation diagnostics",
     "section": "",
-    "text": "Pittman, N.A., Strutton, P.G., Johnson, R. and Matear, R.J., 2019. An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean. Journal of Geophysical Research: Oceans, 124(12), pp.9020-9039."
+    "text": "Owen, B., Canvin, J., Gale, T., Hume, T., Johnson, R., Liu, J., Mentiplay, D., Schubert, A., Trotta, B., Weymouth, G., Whelan, J., 2024. An initial benchmarking of IMPROVER – Part 1: evaluation of non-precipitation diagnostics. Bureau Research Report No. 092"
   },
   {
-    "objectID": "publications/articles/Pittman2019.html#abstract",
-    "href": "publications/articles/Pittman2019.html#abstract",
-    "title": "An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean",
+    "objectID": "publications/articles/Owen2024.html#abstract",
+    "href": "publications/articles/Owen2024.html#abstract",
+    "title": "An initial benchmarking of IMPROVER – Part 1 : evaluation of non-precipitation diagnostics",
     "section": "Abstract",
-    "text": "Abstract\nThe tropical Pacific Ocean is a globally significant region of climate-driven biogeochemical variability. Satellite ocean color algorithms have been used for over 20 years, providing a substantial historical record of global ocean chlorophyll-a variability. Current chlorophyll algorithms perform better in the tropical Pacific than for the globe. Nevertheless, improvements can be made to produce a robust historical record of chlorophyll variability, which is essential to accurately identify ocean-atmosphere carbon fluxes and long-term trends in ocean productivity. We use a large in situ chlorophyll database to tune empirical ocean color algorithms to reduce bias in the equatorial Pacific. Traditional band ratio chlorophyll algorithms (OCx) perform adequately but exhibit errors at low chlorophyll concentrations. A new algorithm, the Ocean Color Index (OCI; Hu et al., 2012, https://doi.org/10.1029/2011JC007395), is more effective at calculating low chlorophyll concentrations in the mesotrophic tropical Pacific Ocean. Existing ocean color algorithms underestimate tropical Pacific chlorophyll by 5.8%, 14%, and 2% for three satellite ocean color sensors: SeaWiFS, MODIS-Aqua, and MERIS. In this paper, we develop regionally tuned sensor-specific coefficients and blending windows between the OCI to OCx algorithms to reduce systematic biases in the tropical Pacific. We assess cross-sensor consistency to produce robust 21-year time series trends. These updated estimates increase chlorophyll concentrations in open water and decrease around island and warm-pool regions, with implications for our understanding of El Niño-Southern Oscillation driven carbon fluxes and net primary productivity."
+    "text": "Abstract\nStatistical post-processing of numerical weather prediction (NWP) model output is a low-cost, efficient way to significantly improve the utility and applicability of direct model output. For over a decade, the Gridded Operational Consensus Forecast (GOCF) system has been the Bureau’s post-processing platform and over that time it has increasingly become an essential element in the forecast production process. Nevertheless, GOCF is primarily set in a deterministic framework, both in the input models it uses and in the outputs it produces. As Ensemble Prediction Systems (EPS) become the global standard for numerical weather prediction, it is essential to pivot the Bureau’s post-processing capability to leverage EPS models and to transition to a probabilistic framework for all outputs. To this end, the Bureau has adopted the IMPROVER (Integrated Model post-PROcessing and VERification) system as the successor to GOCF. IMPROVER, a project started at the UK Met Office and now developed in partnership with the Bureau (and other UM partners), is a post-processing platform designed for EPS models and is a fully probabilistic framework, both in the post-processing techniques and in the outputs the system produces. This is the first in a pair of research reports and presents a summary of the post-processing methodology and verification of the currently operational IMPROVER non-precipitation diagnostics and benchmarks against GOCF. A separate companion report presents a summary of IMPROVER Release 5 precipitation diagnostics and benchmarks against GOCF (Trotta et al., 2024)."
   },
   {
-    "objectID": "publications/articles/Antoine2017.html",
-    "href": "publications/articles/Antoine2017.html",
-    "title": "The IMOS “Radiometry Task Team” Final Report",
+    "objectID": "publications/articles/Johnson2013.html",
+    "href": "publications/articles/Johnson2013.html",
+    "title": "Three improved satellite chlorophyll algorithms for the Southern Ocean",
     "section": "",
-    "text": "Antoine, D., Schroeder, T., Slivkoff, M., Klonowski, W., Doblin, M., Lovell, J., Boadle, D., Baker, B., Botha, E., Robinson, C., King, E., Fearns, P., Hardman-Mountford, N., Johnson, R., Cherukuru, N., Dekker, A., Malthus, T., Mitchell, R., Thompson, P., Van Ruth, P., 2017. The IMOS “Radiometry Task Team”"
+    "text": "Johnson, R., Strutton, P.G., Wright, S.W., McMinn, A. and Meiners, K.M., 2013. Three improved satellite chlorophyll algorithms for the Southern Ocean. Journal of Geophysical Research: Oceans, 118(7), pp.3694-3703."
   },
   {
-    "objectID": "publications/articles/Antoine2017.html#citation-harvard",
-    "href": "publications/articles/Antoine2017.html#citation-harvard",
-    "title": "The IMOS “Radiometry Task Team” Final Report",
+    "objectID": "publications/articles/Johnson2013.html#citation-harvard",
+    "href": "publications/articles/Johnson2013.html#citation-harvard",
+    "title": "Three improved satellite chlorophyll algorithms for the Southern Ocean",
     "section": "",
-    "text": "Antoine, D., Schroeder, T., Slivkoff, M., Klonowski, W., Doblin, M., Lovell, J., Boadle, D., Baker, B., Botha, E., Robinson, C., King, E., Fearns, P., Hardman-Mountford, N., Johnson, R., Cherukuru, N., Dekker, A., Malthus, T., Mitchell, R., Thompson, P., Van Ruth, P., 2017. The IMOS “Radiometry Task Team”"
+    "text": "Johnson, R., Strutton, P.G., Wright, S.W., McMinn, A. and Meiners, K.M., 2013. Three improved satellite chlorophyll algorithms for the Southern Ocean. Journal of Geophysical Research: Oceans, 118(7), pp.3694-3703."
   },
   {
-    "objectID": "publications/articles/Petrou2011.html",
-    "href": "publications/articles/Petrou2011.html",
-    "title": "Photoprotection Of Sea-Ice Microalgal Communities From The East Antarctic Pack Ice",
-    "section": "",
-    "text": "Petrou, K., Hill, R., Doblin, M.A., McMinn, A., Johnson, R., Wright, S.W. and Ralph, P.J., 2011. Photoprotection of sea‐ice microalgal communities from the east antarctic pack ice 1. Journal of Phycology, 47(1), pp.77-86."
-  },
-  {
-    "objectID": "publications/articles/Petrou2011.html#citation-harvard",
-    "href": "publications/articles/Petrou2011.html#citation-harvard",
-    "title": "Photoprotection Of Sea-Ice Microalgal Communities From The East Antarctic Pack Ice",
-    "section": "",
-    "text": "Petrou, K., Hill, R., Doblin, M.A., McMinn, A., Johnson, R., Wright, S.W. and Ralph, P.J., 2011. Photoprotection of sea‐ice microalgal communities from the east antarctic pack ice 1. Journal of Phycology, 47(1), pp.77-86."
-  },
-  {
-    "objectID": "publications/articles/Petrou2011.html#abstract",
-    "href": "publications/articles/Petrou2011.html#abstract",
-    "title": "Photoprotection Of Sea-Ice Microalgal Communities From The East Antarctic Pack Ice",
+    "objectID": "publications/articles/Johnson2013.html#abstract",
+    "href": "publications/articles/Johnson2013.html#abstract",
+    "title": "Three improved satellite chlorophyll algorithms for the Southern Ocean",
     "section": "Abstract",
-    "text": "Abstract\nAll photosynthetic organisms endeavor to balance energy supply with demand. For sea-ice diatoms, as with all marine photoautotrophs, light is the most important factor for determining growth and carbon-fixation rates. Light varies from extremely low to often relatively high irradiances within the sea-ice environment, meaning that sea-ice algae require moderate physiological plasticity that is necessary for rapid light acclimation and photoprotection. This study investigated photoprotective mechanisms employed by bottom Antarctic sea-ice algae in response to relatively high irradiances to understand how they acclimate to the environmental conditions presented during early spring, as the light climate begins to intensify and snow and sea-ice thinning commences. The sea-ice microalgae displayed high photosynthetic plasticity to increased irradiance, with a rapid decline in photochemical efficiency that was completely reversible when placed under low light. Similarly, the photoprotective xanthophyll pigment diatoxanthin (Dt) was immediately activated but reversed during recovery under low light. The xanthophyll inhibitor dithiothreitol (DTT) and state transition inhibitor sodium fluoride (NaF) were used in under-ice in situ incubations and revealed that nonphotochemical quenching (NPQ) via xanthophyll-cycle activation was the preferred method for light acclimation and photoprotection by bottom sea-ice algae. This study showed that bottom sea-ice algae from the east Antarctic possess a high level of plasticity in their light-acclimation capabilities and identified the xanthophyll cycle as a critical mechanism in photoprotection and the preferred means by which sea-ice diatoms regulate energy flow to PSII."
+    "text": "Abstract\nRemote sensing of Southern Ocean chlorophyll concentrations is the most effective way to detect large-scale changes in phytoplankton biomass driven by seasonality and climate change. However, the current algorithms for the Sea-viewing Wide Field-of-view Sensor (SeaWiFS, algorithm OC4v6), the Moderate Resolution Imaging Spectroradiometer (MODIS-Aqua, algorithm OC3M), and GlobColour significantly underestimate chlorophyll concentrations at high latitudes. Here, we use a long-term data set from the Southern Ocean (20°–160°E) to develop more accurate algorithms for all three of these products in southern high-latitude regions. These new algorithms improve in situ versus satellite chlorophyll coefficients of determination (r2) from 0.27 to 0.46, 0.26 to 0.51, and 0.25 to 0.27, for OC4v6, OC3M, and GlobColour, respectively, while addressing the underestimation problem. This study also revealed that pigment composition, which reflects species composition and physiology, is key to understanding the reasons for satellite chlorophyll underestimation in this region. These significantly improved algorithms will permit more accurate estimates of standing stocks and more sensitive detection of spatial and temporal changes in those stocks, with consequences for derived products such as primary production and carbon cycling."
+  },
+  {
+    "objectID": "publications/articles/Pope2017.html",
+    "href": "publications/articles/Pope2017.html",
+    "title": "Community review of Southern Ocean satellite data needs",
+    "section": "",
+    "text": "Pope, A., Wagner, P., Johnson, R., Shutler, J.D., Baeseman, J. and Newman, L., 2017. Community review of Southern Ocean satellite data needs. Antarctic Science, 29(2), pp.97-138."
+  },
+  {
+    "objectID": "publications/articles/Pope2017.html#citation-harvard",
+    "href": "publications/articles/Pope2017.html#citation-harvard",
+    "title": "Community review of Southern Ocean satellite data needs",
+    "section": "",
+    "text": "Pope, A., Wagner, P., Johnson, R., Shutler, J.D., Baeseman, J. and Newman, L., 2017. Community review of Southern Ocean satellite data needs. Antarctic Science, 29(2), pp.97-138."
+  },
+  {
+    "objectID": "publications/articles/Pope2017.html#abstract",
+    "href": "publications/articles/Pope2017.html#abstract",
+    "title": "Community review of Southern Ocean satellite data needs",
+    "section": "Abstract",
+    "text": "Abstract\nThis review represents the Southern Ocean community’s satellite data needs for the coming decade. Developed through widespread engagement and incorporating perspectives from a range of stakeholders (both research and operational), it is designed as an important community-driven strategy paper that provides the rationale and information required for future planning and investment. The Southern Ocean is vast but globally connected, and the communities that require satellite-derived data in the region are diverse. This review includes many observable variables, including sea ice properties, sea surface temperature, sea surface height, atmospheric parameters, marine biology (both micro and macro) and related activities, terrestrial cryospheric connections, sea surface salinity, and a discussion of coincident and in situ data collection. Recommendations include commitment to data continuity, increases in particular capabilities (sensor types, spatial, temporal), improvements in dissemination of data/products/uncertainties, and innovation in calibration/validation capabilities. Full recommendations are detailed by variable as well as summarized. This review provides a starting point for scientists to understand more about Southern Ocean processes and their global roles, for funders to understand the desires of the community, for commercial operators to safely conduct their activities in the Southern Ocean, and for space agencies to gain greater impact from Southern Ocean-related acquisitions and missions."
+  },
+  {
+    "objectID": "publications/articles/Davidson2016.html",
+    "href": "publications/articles/Davidson2016.html",
+    "title": "Enhanced CO2 concentrations change the structure of Antarctic marine microbial communities",
+    "section": "",
+    "text": "Davidson, A.T., McKinlay, J., Westwood, K., Thomson, P.G., van den Enden, R., de Salas, M., Wright, S., Johnson, R. and Berry, K., 2016. Enhanced CO2 concentrations change the structure of Antarctic marine microbial communities. Marine Ecology Progress Series, 552, pp.93-113."
+  },
+  {
+    "objectID": "publications/articles/Davidson2016.html#citation-harvard",
+    "href": "publications/articles/Davidson2016.html#citation-harvard",
+    "title": "Enhanced CO2 concentrations change the structure of Antarctic marine microbial communities",
+    "section": "",
+    "text": "Davidson, A.T., McKinlay, J., Westwood, K., Thomson, P.G., van den Enden, R., de Salas, M., Wright, S., Johnson, R. and Berry, K., 2016. Enhanced CO2 concentrations change the structure of Antarctic marine microbial communities. Marine Ecology Progress Series, 552, pp.93-113."
+  },
+  {
+    "objectID": "publications/articles/Davidson2016.html#abstract",
+    "href": "publications/articles/Davidson2016.html#abstract",
+    "title": "Enhanced CO2 concentrations change the structure of Antarctic marine microbial communities",
+    "section": "Abstract",
+    "text": "Abstract\nThe impacts of anthropogenic enhancement of the partial pressure of carbon dioxide (pCO2) on marine organisms remain unclear, especially in Antarctic waters, which are predicted to be amongst the earliest and most severely affected by the consequent changes in ocean chemistry. Marine microbes are the base of the Antarctic food chain, and the nature of their response to elevated pCO2 is important as they are key determinants of the biogeochemical cycles that affect global climate. We studied the response of a natural community of Antarctic marine microbes from near-shore waters off Davis Station, Antarctica, to pCO2 ranging from the concentration in the water column at the time the experiment began (ambient, 84 μatm) to that predicted by the year 2300 (2423 μatm) using 6 gas-tight, environmentally controlled tanks (minicosms; 650 l) to which CO2-saturated seawater was added. The microbial community showed little difference between 84 and 643 μatm CO2 (0.2 to 1.7 times present), indicating that they can tolerate the large seasonal range in pCO2 in Antarctic coastal waters. Concentrations ≥1281 μatm reduced the accumulation rate of chlorophyll and particulate carbon, changed the microbial community, and enhanced the relative abundance of small phytoplankton. If our results are indicative of the future responses of Antarctic marine microbes, elevated CO2 could profoundly affect the structure and function of the Antarctic food web by reducing the availability of food for higher trophic levels and decreasing the efficiency of the biological pump."
+  },
+  {
+    "objectID": "publications/articles/Trotta2025.html",
+    "href": "publications/articles/Trotta2025.html",
+    "title": "RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts",
+    "section": "",
+    "text": "Trotta, B., Johnson, R., de Burgh-Day, C., Hudson, D., Abellan, E., Canvin, J., Kelly, A., Mentiplay, D., Owen, B. and Whelan, J., 2025. Post-processing improves accuracy of Artificial Intelligence weather forecasts. arXiv preprint arXiv:2504.12672."
+  },
+  {
+    "objectID": "publications/articles/Trotta2025.html#citation-harvard",
+    "href": "publications/articles/Trotta2025.html#citation-harvard",
+    "title": "RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts",
+    "section": "",
+    "text": "Trotta, B., Johnson, R., de Burgh-Day, C., Hudson, D., Abellan, E., Canvin, J., Kelly, A., Mentiplay, D., Owen, B. and Whelan, J., 2025. Post-processing improves accuracy of Artificial Intelligence weather forecasts. arXiv preprint arXiv:2504.12672."
+  },
+  {
+    "objectID": "publications/articles/Trotta2025.html#abstract",
+    "href": "publications/articles/Trotta2025.html#abstract",
+    "title": "RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts",
+    "section": "Abstract",
+    "text": "Abstract\nArtificial Intelligence (AI) weather models are now reaching operational-grade performance for some variables, but like traditional Numerical Weather Prediction (NWP) models, they exhibit systematic biases and reliability issues. We test the application of the Bureau of Meteorology’s existing statistical post-processing system, IMPROVER, to ECMWF’s deterministic Artificial Intelligence Forecasting System (AIFS), and compare results against post-processed outputs from the ECMWF HRES and ENS models. Without any modification to configuration or processing workflows, post-processing yields comparable accuracy improvements for AIFS as for traditional NWP forecasts, in both expected value and probabilistic outputs. We show that blending AIFS with NWP models improves overall forecast skill, even when AIFS alone is not the most accurate component. These findings show that statistical post-processing methods developed for NWP are directly applicable to AI models, enabling national meteorological centres to incorporate AI forecasts into existing workflows in a low-risk, incremental fashion."
+  },
+  {
+    "objectID": "publications/articles/Wallis2016.html",
+    "href": "publications/articles/Wallis2016.html",
+    "title": "Zooplankton abundance and biomass size spectra in the East Antarctic sea-ice zone during the winter–spring transition",
+    "section": "",
+    "text": "Wallis, J.R., Swadling, K.M., Everett, J.D., Suthers, I.M., Jones, H.J., Buchanan, P.J., Crawford, C.M., James, L.C., Johnson, R., Meiners, K.M. and Virtue, P., 2016. Zooplankton abundance and biomass size spectra in the East Antarctic sea-ice zone during the winter–spring transition. Deep Sea Research Part II: Topical Studies in Oceanography, 131, pp.170-181."
+  },
+  {
+    "objectID": "publications/articles/Wallis2016.html#citation-harvard",
+    "href": "publications/articles/Wallis2016.html#citation-harvard",
+    "title": "Zooplankton abundance and biomass size spectra in the East Antarctic sea-ice zone during the winter–spring transition",
+    "section": "",
+    "text": "Wallis, J.R., Swadling, K.M., Everett, J.D., Suthers, I.M., Jones, H.J., Buchanan, P.J., Crawford, C.M., James, L.C., Johnson, R., Meiners, K.M. and Virtue, P., 2016. Zooplankton abundance and biomass size spectra in the East Antarctic sea-ice zone during the winter–spring transition. Deep Sea Research Part II: Topical Studies in Oceanography, 131, pp.170-181."
+  },
+  {
+    "objectID": "publications/articles/Wallis2016.html#abstract",
+    "href": "publications/articles/Wallis2016.html#abstract",
+    "title": "Zooplankton abundance and biomass size spectra in the East Antarctic sea-ice zone during the winter–spring transition",
+    "section": "Abstract",
+    "text": "Abstract\nSea ice is an influential feature in Southern Ocean-Antarctic marine environments creating a 2-phase vertical ecosystem. The lack of information on how this system influences community structure during the winter-spring transition, however, is largely lacking. Zooplankton form the link that bridges these environments, with the meiofaunal and algal communities within sea ice directly influencing the epipelagic zooplankton community at the ice-water interface. A combination of methods including sea-ice coring, umbrella net sampling and Laser Optical Plankton Counter were used to describe the vertical structure of zooplankton and meiofaunal communities. The distribution of meiofauna and chlorophyll a both played important roles in structuring the zooplankton community within this dynamic region. Many dominant taxa, including Calanus propinquus and Oithona similis, directly responded to the high availability of algae present within the bottom strata of sea ice. The sea-ice associated species Stephos longipes represented a strong link between this 2-phase ecosystem. Observations of the vertical distribution of biomass obtained from the LOPC suggests that the responses of these species to the sea ice directly influences the vertical structure of zooplankton during the winter-spring transition."
   }
 ]

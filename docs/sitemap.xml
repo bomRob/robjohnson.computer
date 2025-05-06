@@ -1,59 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://robjohnson.computer/publications/articles/Wallis2016.html</loc>
-    <lastmod>2025-05-05T12:48:42.311Z</lastmod>
+    <loc>http://robjohnson.computer/publications/articles/Trotta2024a.html</loc>
+    <lastmod>2025-05-06T10:20:22.599Z</lastmod>
   </url>
   <url>
-    <loc>http://robjohnson.computer/publications/articles/Davidson2016.html</loc>
-    <lastmod>2025-05-05T12:46:03.658Z</lastmod>
+    <loc>http://robjohnson.computer/publications/articles/Petrou2011.html</loc>
+    <lastmod>2025-05-05T12:47:09.439Z</lastmod>
   </url>
   <url>
-    <loc>http://robjohnson.computer/publications/articles/Pope2017.html</loc>
-    <lastmod>2025-05-05T12:47:36.688Z</lastmod>
+    <loc>http://robjohnson.computer/publications/articles/Baldry2024.html</loc>
+    <lastmod>2025-05-06T10:20:27.575Z</lastmod>
   </url>
   <url>
-    <loc>http://robjohnson.computer/publications/articles/Johnson2013.html</loc>
-    <lastmod>2025-05-05T12:46:50.310Z</lastmod>
-  </url>
-  <url>
-    <loc>http://robjohnson.computer/publications/index.html</loc>
-    <lastmod>2025-05-05T11:30:36.439Z</lastmod>
-  </url>
-  <url>
-    <loc>http://robjohnson.computer/blog/post-with-code/index.html</loc>
-    <lastmod>2025-05-05T10:41:34.806Z</lastmod>
-  </url>
-  <url>
-    <loc>http://robjohnson.computer/index.html</loc>
-    <lastmod>2025-05-05T10:49:06.753Z</lastmod>
-  </url>
-  <url>
-    <loc>http://robjohnson.computer/about/index.html</loc>
-    <lastmod>2025-05-05T09:24:14.959Z</lastmod>
-  </url>
-  <url>
-    <loc>http://robjohnson.computer/blog/index.html</loc>
-    <lastmod>2025-05-05T01:01:18.580Z</lastmod>
-  </url>
-  <url>
-    <loc>http://robjohnson.computer/blog/culture/index.html</loc>
-    <lastmod>2025-05-05T10:41:25.510Z</lastmod>
-  </url>
-  <url>
-    <loc>http://robjohnson.computer/publications/articles/Humphries2015.html</loc>
-    <lastmod>2025-05-05T12:46:29.721Z</lastmod>
+    <loc>http://robjohnson.computer/publications/articles/Antoine2017.html</loc>
+    <lastmod>2025-05-06T10:20:29.005Z</lastmod>
   </url>
   <url>
     <loc>http://robjohnson.computer/publications/articles/Pittman2019.html</loc>
     <lastmod>2025-05-05T12:45:26.986Z</lastmod>
   </url>
   <url>
-    <loc>http://robjohnson.computer/publications/articles/Antoine2017.html</loc>
-    <lastmod>2025-05-05T12:45:48.298Z</lastmod>
+    <loc>http://robjohnson.computer/publications/articles/Pittman2022.html</loc>
+    <lastmod>2025-05-06T10:20:25.311Z</lastmod>
   </url>
   <url>
-    <loc>http://robjohnson.computer/publications/articles/Petrou2011.html</loc>
-    <lastmod>2025-05-05T12:47:09.439Z</lastmod>
+    <loc>http://robjohnson.computer/publications/articles/Trotta2024b.html</loc>
+    <lastmod>2025-05-06T10:20:21.442Z</lastmod>
+  </url>
+  <url>
+    <loc>http://robjohnson.computer/publications/articles/Hellessey2020.html</loc>
+    <lastmod>2025-05-06T10:20:30.567Z</lastmod>
+  </url>
+  <url>
+    <loc>http://robjohnson.computer/blog/culture/index.html</loc>
+    <lastmod>2025-05-05T10:41:25.510Z</lastmod>
+  </url>
+  <url>
+    <loc>http://robjohnson.computer/blog/index.html</loc>
+    <lastmod>2025-05-05T01:01:18.580Z</lastmod>
+  </url>
+  <url>
+    <loc>http://robjohnson.computer/about/index.html</loc>
+    <lastmod>2025-05-05T09:24:14.959Z</lastmod>
+  </url>
+  <url>
+    <loc>http://robjohnson.computer/index.html</loc>
+    <lastmod>2025-05-05T10:49:06.753Z</lastmod>
+  </url>
+  <url>
+    <loc>http://robjohnson.computer/blog/post-with-code/index.html</loc>
+    <lastmod>2025-05-05T10:41:34.806Z</lastmod>
+  </url>
+  <url>
+    <loc>http://robjohnson.computer/publications/index.html</loc>
+    <lastmod>2025-05-06T10:20:26.462Z</lastmod>
+  </url>
+  <url>
+    <loc>http://robjohnson.computer/publications/articles/Humphries2015.html</loc>
+    <lastmod>2025-05-06T10:20:28.312Z</lastmod>
+  </url>
+  <url>
+    <loc>http://robjohnson.computer/publications/articles/Owen2024.html</loc>
+    <lastmod>2025-05-06T10:20:17.014Z</lastmod>
+  </url>
+  <url>
+    <loc>http://robjohnson.computer/publications/articles/Johnson2013.html</loc>
+    <lastmod>2025-05-05T12:46:50.310Z</lastmod>
+  </url>
+  <url>
+    <loc>http://robjohnson.computer/publications/articles/Pope2017.html</loc>
+    <lastmod>2025-05-06T10:20:24.206Z</lastmod>
+  </url>
+  <url>
+    <loc>http://robjohnson.computer/publications/articles/Davidson2016.html</loc>
+    <lastmod>2025-05-06T10:20:29.711Z</lastmod>
+  </url>
+  <url>
+    <loc>http://robjohnson.computer/publications/articles/Trotta2025.html</loc>
+    <lastmod>2025-05-06T10:21:13.508Z</lastmod>
+  </url>
+  <url>
+    <loc>http://robjohnson.computer/publications/articles/Wallis2016.html</loc>
+    <lastmod>2025-05-06T10:20:18.469Z</lastmod>
   </url>
 </urlset>
