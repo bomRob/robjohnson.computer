@@ -1,0 +1,26 @@
+---
+title: "Community review of Southern Ocean satellite data needs"
+type: "article"
+author: "Pope, A., Wagner, P., Johnson, R., Shutler, J.D., Baeseman, J. and Newman, L."
+year: "2017"
+publication: "Antarctic Science"
+# preprint: "https://psyarxiv.com/gqhjr"
+doi: "https://doi.org/10.1017/S0954102016000390"
+# materials: "https://osf.io/qu3f6/"
+toc: false
+categories:
+  - oceanography
+  - remote sensing
+  - chlorophyll
+  - antarctica
+  - southern ocean
+  - article
+---
+
+## Citation (Harvard)
+
+> Pope, A., Wagner, P., Johnson, R., Shutler, J.D., Baeseman, J. and Newman, L., 2017. Community review of Southern Ocean satellite data needs. Antarctic Science, 29(2), pp.97-138.
+
+## Abstract
+
+This review represents the Southern Ocean community’s satellite data needs for the coming decade. Developed through widespread engagement and incorporating perspectives from a range of stakeholders (both research and operational), it is designed as an important community-driven strategy paper that provides the rationale and information required for future planning and investment. The Southern Ocean is vast but globally connected, and the communities that require satellite-derived data in the region are diverse. This review includes many observable variables, including sea ice properties, sea surface temperature, sea surface height, atmospheric parameters, marine biology (both micro and macro) and related activities, terrestrial cryospheric connections, sea surface salinity, and a discussion of coincident and in situ data collection. Recommendations include commitment to data continuity, increases in particular capabilities (sensor types, spatial, temporal), improvements in dissemination of data/products/uncertainties, and innovation in calibration/validation capabilities. Full recommendations are detailed by variable as well as summarized. This review provides a starting point for scientists to understand more about Southern Ocean processes and their global roles, for funders to understand the desires of the community, for commercial operators to safely conduct their activities in the Southern Ocean, and for space agencies to gain greater impact from Southern Ocean-related acquisitions and missions.

@@ -1,0 +1,24 @@
+---
+title: "Photoprotection Of Sea-Ice Microalgal Communities From The East Antarctic Pack Ice"
+type: "article"
+author: "Petrou, K., Hill, R., Doblin, M.A., McMinn, A., Johnson, R., Wright, S.W. and Ralph, P.J."
+year: "2011"
+publication: "Journal of Phycology"
+# preprint: "https://psyarxiv.com/gqhjr"
+doi: "https://doi.org/10.1111/j.1529-8817.2010.00944.x"
+# materials: "https://osf.io/qu3f6/"
+toc: false
+categories:
+  - oceanography
+  - chlorophyll
+  - antarctica
+  - article
+---
+
+## Citation (Harvard)
+
+> Petrou, K., Hill, R., Doblin, M.A., McMinn, A., Johnson, R., Wright, S.W. and Ralph, P.J., 2011. Photoprotection of sea‐ice microalgal communities from the east antarctic pack ice 1. Journal of Phycology, 47(1), pp.77-86.
+
+## Abstract
+
+All photosynthetic organisms endeavor to balance energy supply with demand. For sea-ice diatoms, as with all marine photoautotrophs, light is the most important factor for determining growth and carbon-fixation rates. Light varies from extremely low to often relatively high irradiances within the sea-ice environment, meaning that sea-ice algae require moderate physiological plasticity that is necessary for rapid light acclimation and photoprotection. This study investigated photoprotective mechanisms employed by bottom Antarctic sea-ice algae in response to relatively high irradiances to understand how they acclimate to the environmental conditions presented during early spring, as the light climate begins to intensify and snow and sea-ice thinning commences. The sea-ice microalgae displayed high photosynthetic plasticity to increased irradiance, with a rapid decline in photochemical efficiency that was completely reversible when placed under low light. Similarly, the photoprotective xanthophyll pigment diatoxanthin (Dt) was immediately activated but reversed during recovery under low light. The xanthophyll inhibitor dithiothreitol (DTT) and state transition inhibitor sodium fluoride (NaF) were used in under-ice in situ incubations and revealed that nonphotochemical quenching (NPQ) via xanthophyll-cycle activation was the preferred method for light acclimation and photoprotection by bottom sea-ice algae. This study showed that bottom sea-ice algae from the east Antarctic possess a high level of plasticity in their light-acclimation capabilities and identified the xanthophyll cycle as a critical mechanism in photoprotection and the preferred means by which sea-ice diatoms regulate energy flow to PSII.

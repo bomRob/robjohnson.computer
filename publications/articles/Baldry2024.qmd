@@ -1,0 +1,25 @@
+---
+title: "A biological ocean data reformatting effort"
+type: "article"
+author: "Baldry, K., Johnson, R., Strutton, P.G. and Boyd, P.W."
+year: "2024"
+publication: "Nature Scientific Data"
+# preprint: "https://psyarxiv.com/gqhjr"
+doi: "https://doi.org/10.1038/s41597-024-03038-0"
+# url: "http://www.bom.gov.au/research/publications/researchreports/BRR-092.pdf"
+# materials: "https://osf.io/qu3f6/"
+toc: false
+categories:
+  - oceanography
+  - software
+  - article
+---
+
+## Citation (Harvard)
+
+> Baldry, K., Johnson, R., Strutton, P.G. and Boyd, P.W., 2024. A biological ocean data reformatting effort. Scientific Data, 11(1), p.215.
+
+
+## Abstract
+
+Biological ocean data collected from ships find reuse in aggregations of historical data. These data are heavily relied upon to document long term change, validate satellite algorithms for ocean biology and are useful in assessing the performance of autonomous platforms and biogeochemical models. Existing aggregate products have largely been restricted to the surface ocean, omit physical data or have limited biological data. We present the first version of a BIOlogical ocean data reforMATting Effort (BIO-MATE) to begin to fill a gap in subsurface bio-physical data aggregates in a reproducible way. BIO-MATE uses open-source R software that reformats openly sourced published datasets from oceanographic voyages. These reformatted biological and physical data from underway sensors, profiling sensors, pigments analysis and particulate organic carbon analysis are stored in an interoperable BIO-MATE data product for easy access and use. Specific QA/QC protocols can now be easily applied to the BIO-MATE data product to support a variety of surface and subsurface applications.

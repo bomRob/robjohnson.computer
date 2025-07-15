@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Dr Robert Johnson">
-<meta name="description" content="Thoughts on research, forecasting, statistics, and other distractions">
+<meta name="description" content="Thoughts and reflections on research, coding, leadership, and other distractions">
 
 <title>Blog – RobJohnson.computer</title>
 <style>
@@ -81,7 +81,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
-      
+      page: 25,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-date","listing-title","listing-categories"],
     };
 
@@ -176,7 +177,7 @@ window.Quarto = {
       <h1 class="title">Blog</h1>
                   <div>
         <div class="description">
-          Thoughts on research, forecasting, statistics, and other distractions
+          Thoughts and reflections on research, coding, leadership, and other distractions
         </div>
       </div>
                 </div>
@@ -202,7 +203,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Topics</h5><div class="quarto-listing-category category-cloud"><div class="category" data-category="YW5hbHlzaXM="><span class="quarto-category-count category-cloud-5">analysis</span></div><div class="category" data-category="Y29kZQ=="><span class="quarto-category-count category-cloud-5">code</span></div><div class="category" data-category="Y3VsdHVyZQ=="><span class="quarto-category-count category-cloud-5">culture</span></div><div class="category" data-category="bGVhZXJzaGlw"><span class="quarto-category-count category-cloud-5">leaership</span></div><div class="category" data-category="bmV3cw=="><span class="quarto-category-count category-cloud-5">news</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Topics</h5><div class="quarto-listing-category category-cloud"><div class="category" data-category="YWdpbGU="><span class="quarto-category-count category-cloud-4">agile</span></div><div class="category" data-category="YW5hbHlzaXM="><span class="quarto-category-count category-cloud-1">analysis</span></div><div class="category" data-category="Y29hY2hpbmc="><span class="quarto-category-count category-cloud-3">coaching</span></div><div class="category" data-category="Y29kZQ=="><span class="quarto-category-count category-cloud-1">code</span></div><div class="category" data-category="ZGF0YQ=="><span class="quarto-category-count category-cloud-1">data</span></div><div class="category" data-category="ZGF0YSUyMGVuZ2luZWVyaW5n"><span class="quarto-category-count category-cloud-1">data engineering</span></div><div class="category" data-category="aW5ub3ZhdGlvbg=="><span class="quarto-category-count category-cloud-2">innovation</span></div><div class="category" data-category="bGVhZGVyc2hpcA=="><span class="quarto-category-count category-cloud-10">leadership</span></div><div class="category" data-category="cHJvZHVjdGl2aXR5"><span class="quarto-category-count category-cloud-1">productivity</span></div><div class="category" data-category="cHl0aG9u"><span class="quarto-category-count category-cloud-1">python</span></div><div class="category" data-category="cmVmbGVjdGlvbg=="><span class="quarto-category-count category-cloud-3">reflection</span></div><div class="category" data-category="c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA="><span class="quarto-category-count category-cloud-8">scientific leadership</span></div><div class="category" data-category="c3RhdGlzdGljcw=="><span class="quarto-category-count category-cloud-1">statistics</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -238,10 +239,10 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Y3VsdHVyZSUyQ2xlYWVyc2hpcA==" data-listing-date-sort="1719756000000" data-listing-file-modified-sort="1746441685510" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="578">
+<div class="quarto-post image-right" data-index="0" data-categories="bGVhZGVyc2hpcCUyQ3NjaWVudGlmaWMlMjBsZWFkZXJzaGlw" data-listing-date-sort="1719756000000" data-listing-file-modified-sort="1752574284020" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="580">
 <div class="thumbnail">
 <p><a href="../blog/culture/index.html" class="no-external"></a></p><a href="../blog/culture/index.html" class="no-external">
-<p class="card-img-top"><img src="culture/culture.jpeg"  class="thumbnail-image card-img"/></p>
+<p><img loading="lazy" src="../blog/culture/culture.jpeg" class="thumbnail-image"></p>
 </a><p><a href="../blog/culture/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
@@ -252,11 +253,11 @@ window.Quarto = {
 <a href="../blog/culture/index.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Y3VsdHVyZQ=='); return false;">
-culture
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('bGVhZXJzaGlw'); return false;">
-leaership
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
 </div>
 </div>
 <div class="listing-description">
@@ -274,22 +275,1024 @@ Dr Robert Johnson
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="bmV3cyUyQ2NvZGUlMkNhbmFseXNpcw==" data-listing-date-sort="1714312800000" data-listing-file-modified-sort="1746441694806" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
+<div class="quarto-post image-right" data-index="1" data-categories="bGVhZGVyc2hpcCUyQ3NjaWVudGlmaWMlMjBsZWFkZXJzaGlw" data-listing-date-sort="1713448800000" data-listing-file-modified-sort="1752574030777" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="488">
 <div class="thumbnail">
-<p><a href="../blog/post-with-code/index.html" class="no-external"></a></p><a href="../blog/post-with-code/index.html" class="no-external">
-<p><img loading="lazy" src="../blog/post-with-code/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="../blog/post-with-code/index.html" class="no-external"></a></p>
+<p><a href="../blog/trust-your-team/index.html" class="no-external"></a></p><a href="../blog/trust-your-team/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/trust-your-team/trust.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../blog/trust-your-team/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../blog/post-with-code/index.html" class="no-external">Post With Code</a>
+<a href="../blog/trust-your-team/index.html" class="no-external">The Importance of Trusting Your Team’s Judgment</a>
 </h3>
 <div class="listing-subtitle">
-<a href="../blog/post-with-code/index.html" class="no-external"></a>
+<a href="../blog/trust-your-team/index.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">
-news
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/trust-your-team/index.html" class="no-external">As a team leader, one of the most critical aspects of my role is to cultivate trust. Trust is not just a feel-good fuzzy thing - it is the foundation upon which…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/trust-your-team/index.html" class="no-external">
+<div class="listing-date">
+Apr 19, 2024
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="YW5hbHlzaXMlMkNkYXRhJTJDc3RhdGlzdGljcw==" data-listing-date-sort="1708952400000" data-listing-file-modified-sort="1752573526901" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="301">
+<div class="thumbnail">
+<p><a href="../blog/percentiles-probabilites/index.html" class="no-external"></a></p><a href="../blog/percentiles-probabilites/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/percentiles-probabilites/percentvprob.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/percentiles-probabilites/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/percentiles-probabilites/index.html" class="no-external">What are percentiles and probabilites?</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/percentiles-probabilites/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('YW5hbHlzaXM='); return false;">
+analysis
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('ZGF0YQ=='); return false;">
+data
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c3RhdGlzdGljcw=='); return false;">
+statistics
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/percentiles-probabilites/index.html" class="no-external">I’m just back from an extended summer break - highly recommended - and so to kick things off here’s a little explainer.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/percentiles-probabilites/index.html" class="no-external">
+<div class="listing-date">
+Feb 27, 2024
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="bGVhZGVyc2hpcCUyQ3NjaWVudGlmaWMlMjBsZWFkZXJzaGlw" data-listing-date-sort="1702472400000" data-listing-file-modified-sort="1752572888340" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="544">
+<div class="thumbnail">
+<p><a href="../blog/reading-groups/index.html" class="no-external"></a></p><a href="../blog/reading-groups/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/reading-groups/readinggroup.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/reading-groups/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/reading-groups/index.html" class="no-external">Running a Scientific Paper Reading Group</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/reading-groups/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/reading-groups/index.html" class="no-external">As a part of my team’s regular activities we run a fortnightly scientific paper reading group. In this post I’d like to share how we operate our reading group, the…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/reading-groups/index.html" class="no-external">
+<div class="listing-date">
+Dec 14, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="bGVhZGVyc2hpcCUyQ3NjaWVudGlmaWMlMjBsZWFkZXJzaGlw" data-listing-date-sort="1701867600000" data-listing-file-modified-sort="1752573808900" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="414">
+<div class="thumbnail">
+<p><a href="../blog/stand-ups/index.html" class="no-external"></a></p><a href="../blog/stand-ups/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/stand-ups/stand-up.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/stand-ups/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/stand-ups/index.html" class="no-external">Reflecting on Stand-up meetings</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/stand-ups/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/stand-ups/index.html" class="no-external">Looking back on my journey over the last few years, I’ve come to realise the nuanced complexities of team meetings, in particular the famous “stand-up”. There was a time in…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/stand-ups/index.html" class="no-external">
+<div class="listing-date">
+Dec 7, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="bGVhZGVyc2hpcCUyQ3NjaWVudGlmaWMlMjBsZWFkZXJzaGlw" data-listing-date-sort="1701262800000" data-listing-file-modified-sort="1752569197083" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="348">
+<div class="thumbnail">
+<p><a href="../blog/celeb/index.html" class="no-external"></a></p><a href="../blog/celeb/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/celeb/celeb.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/celeb/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/celeb/index.html" class="no-external">The Celebrity Interview</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/celeb/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/celeb/index.html" class="no-external">Liberating Structures “Celebrity Interview” technique offers an innovative approach to fostering human connections and knowledge sharing between the elders of science and…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/celeb/index.html" class="no-external">
+<div class="listing-date">
+Nov 30, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="bGVhZGVyc2hpcCUyQ3NjaWVudGlmaWMlMjBsZWFkZXJzaGlw" data-listing-date-sort="1700658000000" data-listing-file-modified-sort="1752568625910" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="637">
+<div class="thumbnail">
+<p><a href="../blog/voting/index.html" class="no-external"></a></p><a href="../blog/voting/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/voting/thumbs-up.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/voting/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/voting/index.html" class="no-external">5 Fingers, 1 Team: How to Build an Unstoppable Team with Voting!</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/voting/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/voting/index.html" class="no-external">Voting is an essential process in any democratic system, and it can be just as effectively applied to decision-making in research teams. In the collaborative hub of a…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/voting/index.html" class="no-external">
+<div class="listing-date">
+Nov 23, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-categories="bGVhZGVyc2hpcCUyQ3NjaWVudGlmaWMlMjBsZWFkZXJzaGlw" data-listing-date-sort="1700053200000" data-listing-file-modified-sort="1752568125798" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="725">
+<div class="thumbnail">
+<p><a href="../blog/check-ins/index.html" class="no-external"></a></p><a href="../blog/check-ins/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/check-ins/checkin.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/check-ins/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/check-ins/index.html" class="no-external">The ‘Check-In’ Ritual: How to Create a Welcoming Meeting Environment</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/check-ins/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/check-ins/index.html" class="no-external">Have you ever tried starting a meeting with everyone saying how they’re feeling or what they’ve been pondering? This idea is a riff on the “Check-In” ritual from the Core…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/check-ins/index.html" class="no-external">
+<div class="listing-date">
+Nov 16, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="8" data-categories="aW5ub3ZhdGlvbiUyQ2FnaWxlJTJDbGVhZGVyc2hpcCUyQ3NjaWVudGlmaWMlMjBsZWFkZXJzaGlw" data-listing-date-sort="1699448400000" data-listing-file-modified-sort="1752567049165" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="593">
+<div class="thumbnail">
+<p><a href="../blog/innovation-sprints2/index.html" class="no-external"></a></p><a href="../blog/innovation-sprints2/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/innovation-sprints2/innovationsprint2.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/innovation-sprints2/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/innovation-sprints2/index.html" class="no-external">Getting started with Innovation Sprints</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/innovation-sprints2/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('aW5ub3ZhdGlvbg=='); return false;">
+innovation
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('YWdpbGU='); return false;">
+agile
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/innovation-sprints2/index.html" class="no-external">People have been asking me how they can get started with Innovation Sprints, so I’ve put together a quick start guide on how to do your first Innovation Sprint with your team.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/innovation-sprints2/index.html" class="no-external">
+<div class="listing-date">
+Nov 9, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="9" data-categories="aW5ub3ZhdGlvbiUyQ2FnaWxlJTJDbGVhZGVyc2hpcCUyQ3NjaWVudGlmaWMlMjBsZWFkZXJzaGlw" data-listing-date-sort="1698843600000" data-listing-file-modified-sort="1752476046769" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="849">
+<div class="thumbnail">
+<p><a href="../blog/innovation-sprints/index.html" class="no-external"></a></p><a href="../blog/innovation-sprints/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/innovation-sprints/innovationsprint.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/innovation-sprints/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/innovation-sprints/index.html" class="no-external">A Scientist’s Guide to Innovation Sprints</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/innovation-sprints/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('aW5ub3ZhdGlvbg=='); return false;">
+innovation
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('YWdpbGU='); return false;">
+agile
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/innovation-sprints/index.html" class="no-external">In today’s fast-paced research environment it’s easy to become so focused on meeting project deadlines that we forget to make time for innovation and creative exploration.…<em></em></a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/innovation-sprints/index.html" class="no-external">
+<div class="listing-date">
+Nov 2, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="10" data-categories="bGVhZGVyc2hpcCUyQ3NjaWVudGlmaWMlMjBsZWFkZXJzaGlw" data-listing-date-sort="1698238800000" data-listing-file-modified-sort="1752474745169" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="531">
+<div class="thumbnail">
+<p><a href="../blog/my-boss/index.html" class="no-external"></a></p><a href="../blog/my-boss/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/my-boss/coffeeshop.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/my-boss/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/my-boss/index.html" class="no-external">My Boss Doesn’t Know What I Do</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/my-boss/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/my-boss/index.html" class="no-external">When I first transitioned to remote work in 2016, I quickly realized that the physical distance between my boss and me created a gap in visibility and understanding of what…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/my-boss/index.html" class="no-external">
+<div class="listing-date">
+Oct 26, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="11" data-categories="cHJvZHVjdGl2aXR5JTJDbGVhZGVyc2hpcCUyQ3NjaWVudGlmaWMlMjBsZWFkZXJzaGlw" data-listing-date-sort="1697634000000" data-listing-file-modified-sort="1752473995782" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="822">
+<div class="thumbnail">
+<p><a href="../blog/calendar/index.html" class="no-external"></a></p><a href="../blog/calendar/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/calendar/calendar.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/calendar/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/calendar/index.html" class="no-external">The Calendar Cure</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/calendar/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('cHJvZHVjdGl2aXR5'); return false;">
+productivity
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/calendar/index.html" class="no-external">I’ve always liked productivity apps - Things, OmniFocus, TickTick. There’s a particular kind of relief that comes from dumping everything floating around in my head into one…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/calendar/index.html" class="no-external">
+<div class="listing-date">
+Oct 19, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="12" data-categories="aW5ub3ZhdGlvbiUyQ2xlYWRlcnNoaXAlMkNzY2llbnRpZmljJTIwbGVhZGVyc2hpcA==" data-listing-date-sort="1697029200000" data-listing-file-modified-sort="1752472776334" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="482">
+<div class="thumbnail">
+<p><a href="../blog/innovation/index.html" class="no-external"></a></p><a href="../blog/innovation/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/innovation/innovation.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/innovation/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/innovation/index.html" class="no-external">What is Innovation?</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/innovation/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('aW5ub3ZhdGlvbg=='); return false;">
+innovation
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/innovation/index.html" class="no-external">“Innovation is free pizza and an unsupervised workshop” - the moment I heard this quote from Saul Griffith’s it captivated me. I am a career scientist and Saul’s statement…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/innovation/index.html" class="no-external">
+<div class="listing-date">
+Oct 12, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="13" data-categories="bGVhZGVyc2hpcCUyQ3NjaWVudGlmaWMlMjBsZWFkZXJzaGlw" data-listing-date-sort="1696424400000" data-listing-file-modified-sort="1752454880815" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="908">
+<div class="thumbnail">
+<p><a href="../blog/make/index.html" class="no-external"></a></p><a href="../blog/make/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/make/make.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/make/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/make/index.html" class="no-external">Is Make the answer to the Reproducible Research Crisis?</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/make/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/make/index.html" class="no-external">Reproducibility is the backbone of science. It’s the ability to re-conduct an experiment or piece of research to validate the findings. In the era where every modern…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/make/index.html" class="no-external">
+<div class="listing-date">
+Oct 5, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="14" data-categories="bGVhZGVyc2hpcCUyQ3NjaWVudGlmaWMlMjBsZWFkZXJzaGlw" data-listing-date-sort="1695823200000" data-listing-file-modified-sort="1752453487612" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="379">
+<div class="thumbnail">
+<p><a href="../blog/decentralized-decision-making/index.html" class="no-external"></a></p><a href="../blog/decentralized-decision-making/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/decentralized-decision-making/decentral.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/decentralized-decision-making/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/decentralized-decision-making/index.html" class="no-external">Decentralized Decision-Making</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/decentralized-decision-making/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/decentralized-decision-making/index.html" class="no-external">Over the past few years, i’ve noticed a significant improvement in morale and effectiveness when decision-making is decentralized - meaning that those involved in the daily…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/decentralized-decision-making/index.html" class="no-external">
+<div class="listing-date">
+Sep 28, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="15" data-categories="bGVhZGVyc2hpcCUyQ3NjaWVudGlmaWMlMjBsZWFkZXJzaGlw" data-listing-date-sort="1695304800000" data-listing-file-modified-sort="1752452685848" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="419">
+<div class="thumbnail">
+<p><a href="../blog/scientist-as-surgeon/index.html" class="no-external"></a></p><a href="../blog/scientist-as-surgeon/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/scientist-as-surgeon/surgeon.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/scientist-as-surgeon/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/scientist-as-surgeon/index.html" class="no-external">Scientist as Surgeon - shift your view and protect your time</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/scientist-as-surgeon/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/scientist-as-surgeon/index.html" class="no-external">I’ve been trying out a new time management mindset I think you might find interesting. It’s based on how surgeons structure their day between surgeries and consultations.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/scientist-as-surgeon/index.html" class="no-external">
+<div class="listing-date">
+Sep 22, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="16" data-categories="bGVhZGVyc2hpcCUyQ3NjaWVudGlmaWMlMjBsZWFkZXJzaGlw" data-listing-date-sort="1691244000000" data-listing-file-modified-sort="1752450822622" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="280">
+<div class="thumbnail">
+<p><a href="../blog/liberating-structures/index.html" class="no-external"></a></p><a href="../blog/liberating-structures/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/liberating-structures/libstructs.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/liberating-structures/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/liberating-structures/index.html" class="no-external">What are Liberating Structures?</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/liberating-structures/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/liberating-structures/index.html" class="no-external">Do you struggle to get people on the same page or with effective cross team collaborations?</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/liberating-structures/index.html" class="no-external">
+<div class="listing-date">
+Aug 6, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="17" data-categories="bGVhZGVyc2hpcCUyQ3NjaWVudGlmaWMlMjBsZWFkZXJzaGlw" data-listing-date-sort="1687356000000" data-listing-file-modified-sort="1752452299651" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="482">
+<div class="thumbnail">
+<p><a href="../blog/personal-user-manuals/index.html" class="no-external"></a></p><a href="../blog/personal-user-manuals/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/personal-user-manuals/pum_example.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/personal-user-manuals/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/personal-user-manuals/index.html" class="no-external">Personal User Manuals</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/personal-user-manuals/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/personal-user-manuals/index.html" class="no-external">Have you ever tried to assemble a piece of Ikea furniture without instructions? That exasperating feeling of not knowing where to start, the recurring thought of “If only I…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/personal-user-manuals/index.html" class="no-external">
+<div class="listing-date">
+Jun 22, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="18" data-categories="bGVhZGVyc2hpcCUyQ3NjaWVudGlmaWMlMjBsZWFkZXJzaGlw" data-listing-date-sort="1686751200000" data-listing-file-modified-sort="1752451597124" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="580">
+<div class="thumbnail">
+<p><a href="../blog/giving-an-a/index.html" class="no-external"></a></p><a href="../blog/giving-an-a/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/giving-an-a/givingA.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/giving-an-a/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/giving-an-a/index.html" class="no-external">Give people an ‘A’…</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/giving-an-a/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/giving-an-a/index.html" class="no-external">We often judge others based on their past or their perceived limitations? As humans, it is natural for us to form opinions and categorize people in this way. Nevertheless…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/giving-an-a/index.html" class="no-external">
+<div class="listing-date">
+Jun 15, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="19" data-categories="YWdpbGUlMkNyZWZsZWN0aW9uJTJDbGVhZGVyc2hpcCUyQ2NvYWNoaW5n" data-listing-date-sort="1681394400000" data-listing-file-modified-sort="1752448629866" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="665">
+<div class="thumbnail">
+<p><a href="../blog/acl8/index.html" class="no-external"></a></p><a href="../blog/acl8/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/acl8/acl-e.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../blog/acl8/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/acl8/index.html" class="no-external">Agile Coaching Lab - Week 8</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/acl8/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('YWdpbGU='); return false;">
+agile
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('cmVmbGVjdGlvbg=='); return false;">
+reflection
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Y29hY2hpbmc='); return false;">
+coaching
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/acl8/index.html" class="no-external">As the Agile Coaching Lab (ACL) draws to a close, I am filled with a sense of happiness and gratitude for being part of this beautiful cohort. ACL is a transformative…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/acl8/index.html" class="no-external">
+<div class="listing-date">
+Apr 14, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="20" data-categories="YWdpbGUlMkNyZWZsZWN0aW9uJTJDbGVhZGVyc2hpcCUyQ2NvYWNoaW5n" data-listing-date-sort="1681048800000" data-listing-file-modified-sort="1752447226677" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="371">
+<div class="thumbnail">
+<p><a href="../blog/acl7/index.html" class="no-external"></a></p><a href="../blog/acl7/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/acl7/acl-e.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../blog/acl7/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/acl7/index.html" class="no-external">Agile Coaching Lab - Week 7</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/acl7/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('YWdpbGU='); return false;">
+agile
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('cmVmbGVjdGlvbg=='); return false;">
+reflection
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Y29hY2hpbmc='); return false;">
+coaching
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/acl7/index.html" class="no-external">As part of our reading for the final Agile Coaching Lab (ACL) class next week we were tasked with reading up on the First Follower phenomenon. This is beautifully captured…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/acl7/index.html" class="no-external">
+<div class="listing-date">
+Apr 10, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="21" data-categories="YWdpbGUlMkNyZWZsZWN0aW9uJTJDbGVhZGVyc2hpcCUyQ2NvYWNoaW5n" data-listing-date-sort="1678798800000" data-listing-file-modified-sort="1752397183504" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="795">
+<div class="thumbnail">
+<p><a href="../blog/acl5/index.html" class="no-external"></a></p><a href="../blog/acl5/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/acl5/acl-e.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../blog/acl5/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/acl5/index.html" class="no-external">Agile Coaching Lab - Week 5</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/acl5/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('YWdpbGU='); return false;">
+agile
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('cmVmbGVjdGlvbg=='); return false;">
+reflection
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Y29hY2hpbmc='); return false;">
+coaching
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/acl5/index.html" class="no-external">As part of the Agile Coaching Lab (ACL) homework this week we were asked to read the work of Daniel Mezick on Agile Coaching Lessons and reflect on what we learnt and what…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/acl5/index.html" class="no-external">
+<div class="listing-date">
+Mar 15, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="22" data-categories="aW5ub3ZhdGlvbiUyQ2xlYWRlcnNoaXAlMkNzY2llbnRpZmljJTIwbGVhZGVyc2hpcCUyQ2FnaWxl" data-listing-date-sort="1678712400000" data-listing-file-modified-sort="1752453455676" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="697">
+<div class="thumbnail">
+<p><a href="../blog/agile-decision-records/index.html" class="no-external"></a></p><a href="../blog/agile-decision-records/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/agile-decision-records/agile_decision_records.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/agile-decision-records/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/agile-decision-records/index.html" class="no-external">Agile Decision Records</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/agile-decision-records/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('aW5ub3ZhdGlvbg=='); return false;">
+innovation
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('YWdpbGU='); return false;">
+agile
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/agile-decision-records/index.html" class="no-external">In agile development, teams work in a fast-paced and iterative way, constantly making decisions that impact the project’s progress and direction. As a project evolves, team…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/agile-decision-records/index.html" class="no-external">
+<div class="listing-date">
+Mar 14, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="23" data-categories="YWdpbGUlMkNyZWZsZWN0aW9uJTJDbGVhZGVyc2hpcCUyQ2NvYWNoaW5n" data-listing-date-sort="1677416400000" data-listing-file-modified-sort="1752395959075" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="630">
+<div class="thumbnail">
+<p><a href="../blog/acl3/index.html" class="no-external"></a></p><a href="../blog/acl3/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/acl3/acl-e.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../blog/acl3/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/acl3/index.html" class="no-external">Agile Coaching Lab - Week 3</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/acl3/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('YWdpbGU='); return false;">
+agile
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('cmVmbGVjdGlvbg=='); return false;">
+reflection
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Y29hY2hpbmc='); return false;">
+coaching
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/acl3/index.html" class="no-external">During week 3 of the Agile Coaching Lab (ACL) we focused on the craft of coaching. We explored many tools, techniques, and strategies, but the three that stuck with me were…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/acl3/index.html" class="no-external">
+<div class="listing-date">
+Feb 27, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="24" data-categories="aW5ub3ZhdGlvbiUyQ2xlYWRlcnNoaXAlMkNzY2llbnRpZmljJTIwbGVhZGVyc2hpcA==" data-listing-date-sort="1677157200000" data-listing-file-modified-sort="1752395130754" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="176">
+<div class="thumbnail">
+<p><a href="../blog/innovation-checklist/index.html" class="no-external"></a></p><a href="../blog/innovation-checklist/index.html" class="no-external">
+<p><img loading="lazy" src="../blog/innovation-checklist/innovation_image.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/innovation-checklist/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/innovation-checklist/index.html" class="no-external">A Checklist for Adopting Innovations</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/innovation-checklist/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('aW5ub3ZhdGlvbg=='); return false;">
+innovation
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW50aWZpYyUyMGxlYWRlcnNoaXA='); return false;">
+scientific leadership
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/innovation-checklist/index.html" class="no-external">Lately i’ve been thinking about how one decides to adopt a new technology or tool. There’s a lot of push for scientists and organisations to keep up with the latest and…<em></em><em></em></a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/innovation-checklist/index.html" class="no-external">
+<div class="listing-date">
+Feb 24, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="25" data-categories="YWdpbGUlMkNyZWZsZWN0aW9uJTJDbGVhZGVyc2hpcCUyQ2NvYWNoaW5n" data-listing-date-sort="1676898000000" data-listing-file-modified-sort="1752394334075" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="563">
+<div class="thumbnail">
+<p><a href="../blog/acl2/index.html" class="no-external"></a></p><a href="../blog/acl2/index.html" class="no-external">
+<p><img loading="lazy" data-src="../blog/acl2/acl-e.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../blog/acl2/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/acl2/index.html" class="no-external">Agile Coaching Lab - Week 2</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/acl2/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('YWdpbGU='); return false;">
+agile
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('cmVmbGVjdGlvbg=='); return false;">
+reflection
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Y29hY2hpbmc='); return false;">
+coaching
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/acl2/index.html" class="no-external">So, this is week 2 of the 9th cohort of the Agile Coaching Lab (ACL). We worked through so many activities, readings, techniques and podcasts each week that I just can’t…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/acl2/index.html" class="no-external">
+<div class="listing-date">
+Feb 21, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="26" data-categories="YWdpbGUlMkNyZWZsZWN0aW9uJTJDbGVhZGVyc2hpcCUyQ2NvYWNoaW5n" data-listing-date-sort="1676120400000" data-listing-file-modified-sort="1752394160042" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="189">
+<div class="thumbnail">
+<p><a href="../blog/acl1/index.html" class="no-external"></a></p><a href="../blog/acl1/index.html" class="no-external">
+<p><img loading="lazy" data-src="../blog/acl1/acl-e.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../blog/acl1/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/acl1/index.html" class="no-external">Agile Coaching Lab - Week 1</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/acl1/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('YWdpbGU='); return false;">
+agile
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('cmVmbGVjdGlvbg=='); return false;">
+reflection
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhZGVyc2hpcA=='); return false;">
+leadership
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Y29hY2hpbmc='); return false;">
+coaching
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/acl1/index.html" class="no-external">On the 7th of Feb 2023 I joined the 9th cohort of the Agile Coaching Lab (ACL). The ACL is “An intensive 8-weeks program for agile coaches, scrum masters and leaders who…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/acl1/index.html" class="no-external">
+<div class="listing-date">
+Feb 12, 2023
+</div>
+<div class="listing-author">
+Dr Robert Johnson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="27" data-categories="cHl0aG9uJTJDY29kZSUyQ2FuYWx5c2lzJTJDZGF0YSUyMGVuZ2luZWVyaW5n" data-listing-date-sort="1652450400000" data-listing-file-modified-sort="1752449526096" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="254">
+<div class="thumbnail">
+<p><a href="../blog/pyduct/index.html" class="no-external"></a></p><a href="../blog/pyduct/index.html" class="no-external">
+<p><img loading="lazy" data-src="../blog/pyduct/pyduct_small.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/pyduct/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/pyduct/index.html" class="no-external">PyDuct - a Data Engineering pipeline in Python</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/pyduct/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('cHl0aG9u'); return false;">
+python
 </div>
 <div class="listing-category" onclick="window.quartoListingCategory('Y29kZQ=='); return false;">
 code
@@ -297,15 +1300,18 @@ code
 <div class="listing-category" onclick="window.quartoListingCategory('YW5hbHlzaXM='); return false;">
 analysis
 </div>
+<div class="listing-category" onclick="window.quartoListingCategory('ZGF0YSUyMGVuZ2luZWVyaW5n'); return false;">
+data engineering
+</div>
 </div>
 <div class="listing-description">
-<a href="../blog/post-with-code/index.html" class="no-external">This is a post with executable code.</a>
+<a href="../blog/pyduct/index.html" class="no-external">In Data Science or Data Engineering you constantly hear term “data pipeline”. But there are so many meanings to this term and people often are refering to very specific…</a>
 </div>
 </div>
 <div class="metadata">
-<a href="../blog/post-with-code/index.html" class="no-external">
+<a href="../blog/pyduct/index.html" class="no-external">
 <div class="listing-date">
-Apr 29, 2024
+May 14, 2022
 </div>
 <div class="listing-author">
 Dr Robert Johnson
@@ -317,6 +1323,9 @@ Dr Robert Johnson
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {

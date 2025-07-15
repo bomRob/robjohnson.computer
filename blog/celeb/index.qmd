@@ -1,0 +1,19 @@
+---
+title: "The Celebrity Interview"
+date: "2023-11-30"
+categories: [leadership, scientific leadership]
+image: "celeb.png"
+---
+Liberating Structures "Celebrity Interview" technique offers an innovative approach to fostering human connections and knowledge sharing between the elders of science and our teams. This method transforms "traditional science presentations" into captivating personal narratives that create a direct connection between humans.
+
+In a scientific institute, this method can be particularly valuable. It can be used to explore the experiences and insights of a seasoned scientist or a team leader and allow others to understand their approaches to big organisational challenges, their career trajectories, and to dig into their science itself. The structured yet informal nature of a Celebrity Interview often encourages more open and genuine conversations, where questions are not just about the 'what' but also the 'how' and 'why' of the persons life and work. It's a tool to foster a culture of openness and curiosity, which is vital for innovation and collaboration in science. The detailed process of a Celebrity Interview, including the five structural elements—structuring invitation, space arrangement, participation distribution, group configuration, and sequence of steps—ensures that everyone gets an opportunity to engage and contribute as much as they feel like.
+
+Head over to [https://www.liberatingstructures.com/22-celebrity-interview/](https://www.liberatingstructures.com/22-celebrity-interview/) for specific details, but the basics are as follows...
+
+The process begins before the session even starts by selecting an expert who has valuable insights for your team and by having your team prepare engaging questions ahead of time. Then, during the session, the expert is introduced by the interviewer (usually a team lead or one of the team members), and a dynamic Q&A unfolds based on the prepared questions, with the audience participating actively by generating further questions as you go. This interaction not only facilitates a deep dive into the expert's experiences and life but also fosters an open and friendly group dynamic that results in a shared experience.
+
+![](celeb.png){width=300 fig-align="center"}
+
+Using this approach, scientists can avoid monotonous lectures, stimulate interactive and inter-generational learning, and encourage networking. Whether it's to welcome a new leader or to debrief after a major milestone the Celebrity Interview is a powerful way to knit together the fabric of a research community within any science organisation.
+
+Thanks for reading.

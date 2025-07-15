@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "RobJohnson.computer"
+  site-url: http://robjohnson.computer
+  navbar:
+    right:
+      - about/index.qmd
+      - blog/index.qmd
+      - publications/index.qmd
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

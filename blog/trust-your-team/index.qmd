@@ -1,0 +1,37 @@
+---
+title: "The Importance of Trusting Your Team's Judgment"
+date: "2024-04-19"
+categories: [leadership, scientific leadership]
+image: "trust.jpeg"
+---
+As a team leader, one of the most critical aspects of my role is to cultivate trust. Trust is not just a feel-good fuzzy thing - it is the foundation upon which high-performing teams are built. I recently has reason to reflect on why it's important to trust my team's judgment even when it is hard and even when I'm getting significant outside pressure to go against this judgment. So, I made an effort to sit down and work out why trusting my team's judgment is essential, especially when external pressures challenge their decisions. That's what I'm sharing with you today.
+
+## Empowerment
+
+When I trust my team's judgment, I empower them. This empowerment is a vote of confidence that they are capable, competent, and valued people. It encourages ownership and responsibility, which leads to a more engaged and motivated group of individuals. Empowerment also fosters a sense of pride in our work, driving us all to deliver our best.
+
+## Innovation
+
+Innovation can only thrive in an environment where trust is given. People and teams that are trusted are more likely to take calculated risks, knowing that their leader supports them and their endeavours. It is my experience that in my organisation this safe space for creativity is where real groundbreaking ideas are born and where the status quo is challenged.
+
+## Efficiency
+
+A team leader's trust streamlines the decision-making processes and avoids single points of decision making/failure. I think that avoiding a bottleneck of having all decisions go through me as a leader allows the team to respond more swiftly and effectively to challenges as they emerge in the environment. This true agility and I think is crucial in the type of research work I do - where efficiency can be a significant competitive advantage.
+
+## Resilience
+
+From my journey in science teams, a trusted team is a resilient team. They stand firm in their convictions and are less likely to be swayed by external scepticism or criticism. This resilience is vital when navigating highly bureaucratic and hierarchical and the often unpredictable landscape of science organisations.
+
+## Development
+
+Trusting a team's judgment is an investment in their development and growth. It allows people to learn from their experiences, refine their decision-making skills, and grow professionally. This not only benefits the individual but also the team and the organization as a whole.
+
+## Psychological Safety
+
+Psychological safety is often bandied around as the core of high-performing teams but how to build it is often overlooked. I think leadership trust in a team is the key to how. It creates an assurance that people can voice their opinions, concerns, and ideas without fear of retribution. Trust is the critical component of psychological safety and I've found leads to open communication and robust collaborative discussions when and where they're needed most.
+
+![](trust.jpeg){width=300 fig-align="center"}
+
+Trust is not just a leadership principle bandied about in leadership and management books - it is a testament to your leadership and the catalyst for your team's success.
+
+Thanks for reading.

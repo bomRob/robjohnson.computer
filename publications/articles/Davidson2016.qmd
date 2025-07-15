@@ -1,0 +1,25 @@
+---
+title: "Enhanced CO2 concentrations change the structure of Antarctic marine microbial communities"
+type: "article"
+author: "Davidson, A.T., McKinlay, J., Westwood, K., Thomson, P.G., van den Enden, R., de Salas, M., Wright, S., Johnson, R. and Berry, K."
+year: "2016"
+publication: "Marine Ecology Progress Series"
+# preprint: "https://psyarxiv.com/gqhjr"
+doi: "https://doi.org/10.3354/meps11742"
+# materials: "https://osf.io/qu3f6/"
+toc: false
+categories:
+  - oceanography
+  - chlorophyll
+  - CO2
+  - antarctica
+  - article
+---
+
+## Citation (Harvard)
+
+> Davidson, A.T., McKinlay, J., Westwood, K., Thomson, P.G., van den Enden, R., de Salas, M., Wright, S., Johnson, R. and Berry, K., 2016. Enhanced CO2 concentrations change the structure of Antarctic marine microbial communities. Marine Ecology Progress Series, 552, pp.93-113.
+
+## Abstract
+
+The impacts of anthropogenic enhancement of the partial pressure of carbon dioxide (pCO2) on marine organisms remain unclear, especially in Antarctic waters, which are predicted to be amongst the earliest and most severely affected by the consequent changes in ocean chemistry. Marine microbes are the base of the Antarctic food chain, and the nature of their response to elevated pCO2 is important as they are key determinants of the biogeochemical cycles that affect global climate. We studied the response of a natural community of Antarctic marine microbes from near-shore waters off Davis Station, Antarctica, to pCO2 ranging from the concentration in the water column at the time the experiment began (ambient, 84 μatm) to that predicted by the year 2300 (2423 μatm) using 6 gas-tight, environmentally controlled tanks (minicosms; 650 l) to which CO2-saturated seawater was added. The microbial community showed little difference between 84 and 643 μatm CO2 (0.2 to 1.7 times present), indicating that they can tolerate the large seasonal range in pCO2 in Antarctic coastal waters. Concentrations ≥1281 μatm reduced the accumulation rate of chlorophyll and particulate carbon, changed the microbial community, and enhanced the relative abundance of small phytoplankton. If our results are indicative of the future responses of Antarctic marine microbes, elevated CO2 could profoundly affect the structure and function of the Antarctic food web by reducing the availability of food for higher trophic levels and decreasing the efficiency of the biological pump. 

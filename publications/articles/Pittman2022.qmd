@@ -1,0 +1,25 @@
+---
+title: "Relationships between air‐sea CO2 flux and new production in the Equatorial Pacific"
+type: "article"
+author: "Pittman, N.A., Strutton, P.G., Johnson, R., Matear, R.J. and Sutton, A.J."
+year: "2022"
+publication: "Global Biogeochemical Cycles"
+# preprint: "https://psyarxiv.com/gqhjr"
+doi: "https://doi.org/10.1029/2021GB007121"
+# materials: "https://osf.io/qu3f6/"
+toc: false
+categories:
+  - oceanography
+  - CO2
+  - pacific ocean
+  - chlorophyll
+  - article
+---
+
+## Citation (Harvard)
+
+> Pittman, N.A., Strutton, P.G., Johnson, R., Matear, R.J. and Sutton, A.J., 2022. Relationships between air‐sea CO2 flux and new production in the Equatorial Pacific. Global Biogeochemical Cycles, 36(4), p.e2021GB007121.
+
+## Abstract
+
+The equatorial Pacific is the largest oceanic source of carbon dioxide to the atmosphere. This outgassing varies depending on the El Niño-Southern Oscillation (ENSO) and decadal climate variability. New production, the amount of phytoplankton net primary production driven by upwelled nitrate, plays a significant role in modulating air-sea CO2 fluxes as the biological carbon pump removes carbon from the surface ocean. We aim to understand how the physical drivers of sea surface temperature and wind speed influence interannual and decadal variability of the equatorial Pacific carbon cycle. In the equatorial Pacific, there are three biogeochemical regimes: the upwelling cold tongue east of 140°W and south of the equator (3°N–15°S); the eastern Pacific warm pool north of the equator (3°–15°N); and the 28.5°C western Pacific warm pool, west of 140°W. We find that between 2000 and 2020, air-sea CO2 flux and ΔpCO2 increased in the cold tongue (45 mmolC m−2 yr−2, 1.5 μatm yr−1, respectively) but decreased elsewhere, while new production decreased everywhere. The western Pacific occasionally became a weak carbon sink, depending on ENSO and this sink was strongest at 165°E during central Pacific “Modoki” El Niño events. We find that changes in wind speed, temperature and ENSO frequency have altered the surface carbon budget. The mean basin-wide (150°E−90°W and 15°N–15°S) new production for 2000–2020 was 1.2 ± 0.1 PgC yr−1 and air-sea CO2 flux was 0.5 ± 0.1 PgC yr−1. New production decreased at −7.7 ± 1.6 TgC yr−2, compared to the CO2 flux trend of −1.7 ± 1.4 TgC yr−2.

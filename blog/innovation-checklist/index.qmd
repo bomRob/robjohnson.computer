@@ -1,0 +1,14 @@
+---
+title: "A Checklist for Adopting Innovations"
+date: "2023-02-24"
+categories: [innovation, leadership, scientific leadership]
+image: "innovation_image.png"
+---
+Lately i’ve been thinking about how one decides to adopt a new technology or tool. There’s a lot of push for scientists and organisations to keep up with the latest and greatest innovation in technology or analysis (e.g. change to _git_ rather than staying with _svn_) but there’s rarely any objective analysis or thought put into whether or not one should invest the time and energy in doing this. Therefore I decided to put together a list of principles that I hold and use a a yard stick when presented with such situations.
+
+## A checklist for adopting an innovation:
+- The new tool or method should be cheaper than the one it replaces.
+- It should be at least as fast as the tool or method it replaces.
+- It should do work or produce work that is clearly and demonstrably ‘better’ than the one it replaces.
+- It should be repairable and maintainable by people inside the organisation, provided that they are provided with the necessary tools.
+- It should not replace or disrupt anything good that already exists, and this includes people and community relationships.

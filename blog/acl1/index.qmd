@@ -1,0 +1,15 @@
+---
+title: "Agile Coaching Lab - Week 1"
+date: "2023-02-12"
+categories: [agile, reflection, leadership, coaching]
+image: "acl-e.jpeg"
+---
+On the 7th of Feb 2023 I joined the 9th cohort of the [Agile Coaching Lab (ACL)](http://www.agilecoachinglab.com/). The ACL is “An intensive 8-weeks program for agile coaches, scrum masters and leaders who want to level up and lead”, run out of New Zealand by [Jakub Jurkiewicz](https://www.linkedin.com/in/jakubjurkiewicz/).
+
+<img src="acl-e.jpeg" alt="acl logo" class="center">
+
+During the pre-course homework we read chapters from ‘Steal Like an Artist’ and ‘The Art of Possibility, wrote a personal user manual, and a letter from our future selves – which I’m sure will be topics of future blog posts.
+
+Session 1 was fantastic. My fellow students are a diverse bunch with varied backgrounds, experiences, and personalities which makes for lively and interesting group work and discussions. Jakub introduced the Check In and Check out from the [Core Protocols](https://thecoreprotocols.org/), ran through an [Emotional Culture Deck](https://youtu.be/WZ2BgzccBl4) session, and finished up with collaboratively designing a team working agreement. These activities really set the tone for the class and for what's to come.
+
+I will keep this post short but state my intention to post a blog each week either reflecting on that weeks class or wondering about, exploring, and sharing a technique we discovered.

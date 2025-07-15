@@ -1,0 +1,26 @@
+---
+title: "An initial benchmarking of IMPROVER – Part 1 : evaluation of non-precipitation diagnostics"
+type: "article"
+author: "Owen, B., Canvin, J., Gale, T., Hume, T., Johnson, R., Liu, J., Mentiplay, D., Schubert, A., Trotta, B., Weymouth, G., Whelan, J."
+year: "2024"
+publication: "Bureau of Meteorology Research Report"
+# preprint: "https://psyarxiv.com/gqhjr"
+# doi: "https://doi.org/10.1002/jgrc.20270"
+url: "http://www.bom.gov.au/research/publications/researchreports/BRR-092.pdf"
+# materials: "https://osf.io/qu3f6/"
+toc: false
+categories:
+  - post-processing
+  - meteorology
+  - IMPROVER
+  - research report
+---
+
+## Citation (Harvard)
+
+> Owen, B., Canvin, J., Gale, T., Hume, T., Johnson, R., Liu, J., Mentiplay, D., Schubert, A., Trotta, B., Weymouth, G., Whelan, J., 2024. An initial benchmarking of IMPROVER – Part 1: evaluation of non-precipitation diagnostics. Bureau Research Report No. 092
+
+
+## Abstract
+
+Statistical post-processing of numerical weather prediction (NWP) model output is a low-cost, efficient way to significantly improve the utility and applicability of direct model output. For over a decade, the Gridded Operational Consensus Forecast (GOCF) system has been the Bureau's post-processing platform and over that time it has increasingly become an essential element in the forecast production process. Nevertheless, GOCF is primarily set in a deterministic framework, both in the input models it uses and in the outputs it produces. As Ensemble Prediction Systems (EPS) become the global standard for numerical weather prediction, it is essential to pivot the Bureau's post-processing capability to leverage EPS models and to transition to a probabilistic framework for all outputs. To this end, the Bureau has adopted the IMPROVER (Integrated Model post-PROcessing and VERification) system as the successor to GOCF. IMPROVER, a project started at the UK Met Office and now developed in partnership with the Bureau (and other UM partners), is a post-processing platform designed for EPS models and is a fully probabilistic framework, both in the post-processing techniques and in the outputs the system produces. This is the first in a pair of research reports and presents a summary of the post-processing methodology and verification of the currently operational IMPROVER non-precipitation diagnostics and benchmarks against GOCF. A separate companion report presents a summary of IMPROVER Release 5 precipitation diagnostics and benchmarks against GOCF (Trotta et al., 2024).

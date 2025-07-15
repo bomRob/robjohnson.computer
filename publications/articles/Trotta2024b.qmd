@@ -1,0 +1,28 @@
+---
+title: "RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts"
+type: "article"
+author: "Trotta, B., Owen, B., Liu, J., Weymouth, G., Gale, T., Hume, T., Schubert, A., Canvin, J., Mentiplay, D., Whelan, J. and Johnson, R."
+year: "2024"
+publication: "Weather and Forecasting"
+# preprint: "https://psyarxiv.com/gqhjr"
+doi: "https://doi.org/10.1175/WAF-D-23-0211.1"
+# url: "http://www.bom.gov.au/research/publications/researchreports/BRR-092.pdf"
+# materials: "https://osf.io/qu3f6/"
+toc: false
+categories:
+  - post-processing
+  - meteorology
+  - IMPROVER
+  - machine learning
+  - AI
+  - article
+---
+
+## Citation (Harvard)
+
+> Trotta, B., Owen, B., Liu, J., Weymouth, G., Gale, T., Hume, T., Schubert, A., Canvin, J., Mentiplay, D., Whelan, J. and Johnson, R., 2024. RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts. Weather and Forecasting, 39(11), pp.1715-1732.
+
+
+## Abstract
+
+Probabilistic forecasts derived from ensemble prediction systems (EPSs) have become the standard basis for many products and services produced by modern operational forecasting centers. However, statistical postprocessing is generally required to ensure forecasts have the desired properties expected for probability-based outputs. Precipitation, a core component of any operational forecast, is particularly challenging to calibrate due to its discontinuous nature and the extreme skew in rainfall amounts. A skillful forecasting system must maintain accuracy for low-to-moderate precipitation amounts, but preserve resolvability for high-to-extreme rainfall amounts, which, though rare, are important to forecast accurately in the interest of public safety. Existing statistical and machine learning approaches to rainfall calibration address this problem, but each has drawbacks in design, training approaches, and/or performance. We describe RainForests, a machine learning approach for calibrating ensemble rainfall forecasts using gradient-boosted decision trees. The model is based on the ecPoint system recently developed at ECMWF by Hewson and Pillosu, but uses machine learning models in place of the semisubjective decision trees of ecPoint, along with some other improvements to the model structure. We evaluate RainForests on the Australian domain against some simple benchmarks and show that it outperforms standard calibration approaches both in overall skill and in accurately forecasting high rainfall conditions, while being computationally efficient enough to be used in an operational forecasting system.

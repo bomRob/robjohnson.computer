@@ -161,6 +161,699 @@
     "text": "Abstract\nAntarctic krill (Euphausia superba) are a key component of the Antarctic food web with considerable lipid reserves that are vital for their health and higher predator survival. Krill lipids are primarily derived from their diet of plankton, in particular diatoms and flagellates. Few attempts have been made to link the spatial and temporal variations in krill lipids to those in their food supply. Remotely-sensed environmental parameters provide large-scale information on the potential availability of krill food, although relating this to physiological and biochemical differences has only been performed on small scales and with limited samples. Our study utilised remotely-sensed data (chlorophyll a and sea surface temperature) coupled with krill lipid data obtained from 3 years of fishery-derived samples. We examined within and between year variation of trends in both the environment and krill biochemistry data. Chlorophyll a levels were positively related to krill lipid levels, particularly triacylglycerol. Plankton fatty acid biomarkers analysed in krill (such as n-3 polyunsaturated fatty acids) increased with decreasing sea surface temperature and increasing chlorophyll a levels. Our study demonstrates the utility of combining remote-sensing and biochemical data in examining biological and physiological relationships between Antarctic krill and the Southern Ocean environment."
   },
   {
+    "objectID": "blog/scientist-as-surgeon/index.html",
+    "href": "blog/scientist-as-surgeon/index.html",
+    "title": "Scientist as Surgeon - shift your view and protect your time",
+    "section": "",
+    "text": "I’ve been trying out a new time management mindset I think you might find interesting. It’s based on how surgeons structure their day between surgeries and consultations.\nSurgeons have a unique perspective on time management. Their profession demands the precision of a craftsman, the concentration of a monk, and the strategic planning of a General. As professionals, their days are often divided into surgical operations and consultations. Both are essential components of their profession, yet they are vastly different in nature. So, I thought what if knowledge workers - scientists in my case - started thinking of their time the way surgeons do?\nHere’s what I’ve been playing with:"
+  },
+  {
+    "objectID": "blog/scientist-as-surgeon/index.html#surgery-time-deep-work-time",
+    "href": "blog/scientist-as-surgeon/index.html#surgery-time-deep-work-time",
+    "title": "Scientist as Surgeon - shift your view and protect your time",
+    "section": "“Surgery” Time (“Deep Work” Time)",
+    "text": "“Surgery” Time (“Deep Work” Time)\nFocused Blocks: I’ve started setting aside specific blocks of time on a few days per week where I go deep into my most important tasks, much like how a surgeon would during surgery. During these blocks, I’m 100% focused on the task at hand - usually doing or writing up research.\nNo Interruptions: During these periods, I don’t allow any interruptions. I don’t check my phone, answer emails, or do anything else that isn’t the task I’ve planned for that block.\nDeferred Responses: If someone tries to interrupt me during a deep work block, I kindly ask them to check my calendar and find a time that works during my scheduled “consultation” hours, even if it means meeting a few weeks out, that is okay - think how long it takes to get in to see a surgeon… your time is just as important!"
+  },
+  {
+    "objectID": "blog/scientist-as-surgeon/index.html#consultation-time-meetings-planning-time",
+    "href": "blog/scientist-as-surgeon/index.html#consultation-time-meetings-planning-time",
+    "title": "Scientist as Surgeon - shift your view and protect your time",
+    "section": "“Consultation” Time (“Meetings & Planning” Time)",
+    "text": "“Consultation” Time (“Meetings & Planning” Time)\nScheduled Chats: Outside of my deep work blocks, I’ve set aside specific times for meetings and planning, just like how a surgeon has allocate time for consultations and meetings.\nBreathing Room: I make sure to leave some space between meetings so that I’m not rushing from one to the next, allowing me to give each one my full attention. This doesn’t happen as often as i’d like but i’im working on it."
+  },
+  {
+    "objectID": "blog/scientist-as-surgeon/index.html#conclusion",
+    "href": "blog/scientist-as-surgeon/index.html#conclusion",
+    "title": "Scientist as Surgeon - shift your view and protect your time",
+    "section": "Conclusion",
+    "text": "Conclusion\nThis paradigm is all about balancing focused work with necessary collaborative time, creating a rhythm to my work week that I’ve found really beneficial so far. But, more importantly, it has been about being okay with being hard to reach or book time with - your time is important and if your patient is going to survive the operating table you need to hold space to do your best work.\nI wanted to share this with you because it’s been a positive shift in my routine. It might be something you find useful too.\nThanks for reading."
+  },
+  {
+    "objectID": "blog/make/index.html",
+    "href": "blog/make/index.html",
+    "title": "Is Make the answer to the Reproducible Research Crisis?",
+    "section": "",
+    "text": "Reproducibility is the backbone of science. It’s the ability to re-conduct an experiment or piece of research to validate the findings. In the era where every modern researcher leans heavily on software and code, how do we ensure that our in-silico experiments stand true to the age-old principles of the scientific method?\nExploring tools that can help me be more reproducible in my own scientific programming has been a recent quest of mine, and one tool has continually stood out - Make."
+  },
+  {
+    "objectID": "blog/make/index.html#make-and-reproducibility",
+    "href": "blog/make/index.html#make-and-reproducibility",
+    "title": "Is Make the answer to the Reproducible Research Crisis?",
+    "section": "Make and Reproducibility",
+    "text": "Make and Reproducibility\nMake has been a consistent figure in the realm of software build automation for decades, but it’s not just for software developers. Recently, it’s gained traction as an instrument for ensuring scientific reproducibility. This is largely driven by its ubiquity across various platforms and huge user community of software engineers making it an easy choice for the scientific community. It’s available on almost all Unix-based systems and has been adapted for most others. This accessibility ensures that scientific workflows can be transferred, shared, and executed seamlessly across different computing environments.\nIn my opinion, what gives Make its edge is the use of ‘Makefiles’ for dependency tracking. Makefiles are files that describe a workflow and its inputs and outputs and allow Make to track what should be produced by each step in your workflow. This means if a component of your experiment changes, Make will recognize it and execute tasks accordingly, ensuring consistency in results. This feature stands in the frontline of repeatability, a core tenet of the scientific method.\nFor more on why reproducibility is essential be sure to read: Irving D (2016). A minimum standard for publishing computational results in the weather and climate sciences. Bulletin of the American Meteorological Society. 97, 1149-1158.\nSome argue about the unique (weird?) syntax of Make’s ‘Makefile’, but the way I look at it is that it isn’t just code to be read by a machine - it’s the documentation of your scientific methodology. It serves as a roadmap, a procedural document that can guide peers and collaborators through your workflow.\nI reached out to Dr. Irving, a name many in the Australian scientific computing realm would recognize, to get some insights on his recommended resources for learning Make. Here are his suggestions:\n\nOur book delves into Make and its practicality- https://merely-useful.tech/py-rse/automate.html\nFor those more inclined to workshops, the Software Carpentry lesson on Make is invaluable - http://swcarpentry.github.io/make-novice/\nSpending a few hours on these resources is a worthy investment - Dr Damien Irving\n\nLet’s delve into a basic example of how to use Make."
+  },
+  {
+    "objectID": "blog/make/index.html#a-simple-introduction-to-make",
+    "href": "blog/make/index.html#a-simple-introduction-to-make",
+    "title": "Is Make the answer to the Reproducible Research Crisis?",
+    "section": "A Simple Introduction to Make",
+    "text": "A Simple Introduction to Make\nImagine you have a dataset that you process using a Python script that produces an output file. Let’s say the dataset is data.txt, the Python script is process.py, and the intended output is output.txt.\nThe sequence is straightforward:\n1 - Use process.py on data.txt to produce output.txt.\nBut, to automate this using Make, we’d write a ‘Makefile’. Here’s a simplified version:\noutput.txt: data.txt process.py\n    python process.py data.txt output.txt\nNow, let’s break this Makefile down into its component parts:\n\noutput.txt: This is the target. It’s what you want to produce.\ndata.txt process.py: These are the dependencies. They are what the target needs to be built.\npython process.py data.txt output.txt: This is the command that produces the target from the dependencies.\n\nOnce you have this ‘Makefile’ in place, to process your data, you simply type:\n$ make output.txt\nMake will then check if data.txt or process.py have changed since the last time output.txt was generated. If they have, it’ll run the command to produce a fresh output.txt. If not, it’ll say output.txt is up-to-date, saving you needlessly redoing your analysis and saving you computation time!\nBasic Interface:\n\nTargets and Dependencies: The general format of a Makefile rule is:\n\ntarget:dependencies\n    command\n    - target is the output you want to produce.\n    - dependencies are the files needed to produce the target.\n    - command is the shell command Make will run to produce the target from the dependencies.\n\nVariables: You can also set variables for repetitive content. For example:\n\nDATA = data.txt\nSCRIPT = process.py\nOUTPUT = output.txt\n$(OUTPUT): $(DATA) $(SCRIPT)\n    python $(SCRIPT) $(DATA) $(OUTPUT)\n\nPhony Targets: These aren’t real files but rather just labels for commands. For instance, to clean up temporary files, you might use:\n\n.PHONY: clean\nclean:\n    rm -f *.tmp\nAnd you’d invoke this with:\n$ make clean\nFor a more detailed look at how this can work check out the resources linked to above, but starting with basic Makefiles like the one above and then diving deeper as you familiarise yourself with its functionalities can enhance your scientific computing prowess significantly. Your friends and relatives will be impressed…"
+  },
+  {
+    "objectID": "blog/make/index.html#why-make-is-my-choice",
+    "href": "blog/make/index.html#why-make-is-my-choice",
+    "title": "Is Make the answer to the Reproducible Research Crisis?",
+    "section": "Why Make is My Choice",
+    "text": "Why Make is My Choice\nThroughout my exploration - while there are many good and effective tools available - Make stands out due to its reliability and wide acceptance. It’s been tried, tested, and proven time and again. Other tools have their merits, but Make’s blend of portability, reliability, and efficiency makes it a go-to choice for those serious about conducting reproducible scientific research in this digital age.\nIn the end, the heart of science lies in its reproducibility. If you’re looking to enhance your computational experiments’ integrity, I highly recommend giving Make a try. A few hours of investment might just transform your whole approach to scientific computing.\nThanks for reading."
+  },
+  {
+    "objectID": "blog/trust-your-team/index.html",
+    "href": "blog/trust-your-team/index.html",
+    "title": "The Importance of Trusting Your Team’s Judgment",
+    "section": "",
+    "text": "As a team leader, one of the most critical aspects of my role is to cultivate trust. Trust is not just a feel-good fuzzy thing - it is the foundation upon which high-performing teams are built. I recently has reason to reflect on why it’s important to trust my team’s judgment even when it is hard and even when I’m getting significant outside pressure to go against this judgment. So, I made an effort to sit down and work out why trusting my team’s judgment is essential, especially when external pressures challenge their decisions. That’s what I’m sharing with you today."
+  },
+  {
+    "objectID": "blog/trust-your-team/index.html#empowerment",
+    "href": "blog/trust-your-team/index.html#empowerment",
+    "title": "The Importance of Trusting Your Team’s Judgment",
+    "section": "Empowerment",
+    "text": "Empowerment\nWhen I trust my team’s judgment, I empower them. This empowerment is a vote of confidence that they are capable, competent, and valued people. It encourages ownership and responsibility, which leads to a more engaged and motivated group of individuals. Empowerment also fosters a sense of pride in our work, driving us all to deliver our best."
+  },
+  {
+    "objectID": "blog/trust-your-team/index.html#innovation",
+    "href": "blog/trust-your-team/index.html#innovation",
+    "title": "The Importance of Trusting Your Team’s Judgment",
+    "section": "Innovation",
+    "text": "Innovation\nInnovation can only thrive in an environment where trust is given. People and teams that are trusted are more likely to take calculated risks, knowing that their leader supports them and their endeavours. It is my experience that in my organisation this safe space for creativity is where real groundbreaking ideas are born and where the status quo is challenged."
+  },
+  {
+    "objectID": "blog/trust-your-team/index.html#efficiency",
+    "href": "blog/trust-your-team/index.html#efficiency",
+    "title": "The Importance of Trusting Your Team’s Judgment",
+    "section": "Efficiency",
+    "text": "Efficiency\nA team leader’s trust streamlines the decision-making processes and avoids single points of decision making/failure. I think that avoiding a bottleneck of having all decisions go through me as a leader allows the team to respond more swiftly and effectively to challenges as they emerge in the environment. This true agility and I think is crucial in the type of research work I do - where efficiency can be a significant competitive advantage."
+  },
+  {
+    "objectID": "blog/trust-your-team/index.html#resilience",
+    "href": "blog/trust-your-team/index.html#resilience",
+    "title": "The Importance of Trusting Your Team’s Judgment",
+    "section": "Resilience",
+    "text": "Resilience\nFrom my journey in science teams, a trusted team is a resilient team. They stand firm in their convictions and are less likely to be swayed by external scepticism or criticism. This resilience is vital when navigating highly bureaucratic and hierarchical and the often unpredictable landscape of science organisations."
+  },
+  {
+    "objectID": "blog/trust-your-team/index.html#development",
+    "href": "blog/trust-your-team/index.html#development",
+    "title": "The Importance of Trusting Your Team’s Judgment",
+    "section": "Development",
+    "text": "Development\nTrusting a team’s judgment is an investment in their development and growth. It allows people to learn from their experiences, refine their decision-making skills, and grow professionally. This not only benefits the individual but also the team and the organization as a whole."
+  },
+  {
+    "objectID": "blog/trust-your-team/index.html#psychological-safety",
+    "href": "blog/trust-your-team/index.html#psychological-safety",
+    "title": "The Importance of Trusting Your Team’s Judgment",
+    "section": "Psychological Safety",
+    "text": "Psychological Safety\nPsychological safety is often bandied around as the core of high-performing teams but how to build it is often overlooked. I think leadership trust in a team is the key to how. It creates an assurance that people can voice their opinions, concerns, and ideas without fear of retribution. Trust is the critical component of psychological safety and I’ve found leads to open communication and robust collaborative discussions when and where they’re needed most.\n\n\n\n\n\nTrust is not just a leadership principle bandied about in leadership and management books - it is a testament to your leadership and the catalyst for your team’s success.\nThanks for reading."
+  },
+  {
+    "objectID": "blog/calendar/index.html",
+    "href": "blog/calendar/index.html",
+    "title": "The Calendar Cure",
+    "section": "",
+    "text": "I’ve always liked productivity apps - Things, OmniFocus, TickTick. There’s a particular kind of relief that comes from dumping everything floating around in my head into one tidy list and knowing nothing’s been forgotten. That moment of clarity is genuinely satisfying.\nBut over time, I noticed a pattern: those lists just kept growing. And growing. Until the apps themselves became this unmanageable backlog of obligations. I’d try to prioritize, follow whatever system the app supported, but it didn’t matter. The sheer volume of tasks turned the whole thing into a source of stress. Not a tool but a burden.\nIt all clicked one day when I found myself staring at seven pages of to-dos and asking: is the problem me, or is it the app? Turns out it was neither, exactly, but my system itself did have a fundamental flaw. These apps let me (encouraged me, really) to keep adding things, endlessly. No constraints. No reality check. Just more and more tasks with no reference to how much time I actually had in a day… week… year… That’s not planning, it’s wishful thinking, and eventually it just collapses under its own weight.\nThe turning point came during a chat with a friend - we were chatting about how much time we spent on different categories of work. That conversation flipped a switch. I realized i’d been thinking about tasks in isolation when I should have been thinking about the time for a task - not the task itself.\n\nUsing a Calendar as a To-Do List\nSo I started using my calendar to block out time for everything I needed to do. Every task, no matter how small, got a slot. It was confronting at first - suddenly I had to reckon with two hard truths: how long things would take, and how many hours there actually are in a day. No more illusions. Just the simple math of time.\nIt changed everything. Tasks I would’ve added reflexively? I started letting go of them, because they clearly weren’t worth the time they’d take. The calendar became a filter — and a pretty effective one.\n\n\nWhy It Works\n1. Reality Check The calendar doesn’t lie. You want to do something? Find a time slot. If you can’t, maybe it’s not that important or maybe something else has to move to make space for it.\n2. Forced Prioritization There’s only so much you can fit in a day. Blocking time makes that unavoidable and in your face. You can’t just stack tasks on top of each other anymore. You have to make choices.\n3. Clarity Every task has a place. No more ambiguity, no more juggling. I can see my day, my week — and I can tell my team exactly when I’ll get to their request because it’s already scheduled.\n4. Less Stress The infinite scroll of a to-do list is gone. What’s left is a finite day. I don’t wake up wondering what I’m supposed to be doing — it’s all right there.\n5. Flexibility Of course, things come up. So I leave space — at least half the day — open. If I don’t, one unexpected task throws the whole system out. Rescheduling becomes a mess. The 50% rule keeps the calendar functional and not fragile.\n\n\nThe Nuts and Bolts\nTime Estimation I pulled tasks from old to-do lists and email (most of my tasks come from email) and started estimating how long they’d take. I was way off at first, but I got better with practice.\nScheduling In essence, i think of this as just booking a meeting with yourself. I already keep parts of my week blocked for deep work and recurring meetings, so I fit tasks into those existing structures. It’s not perfect, but it works for now.\nThe 50% Rule This part is, i have learnt, is a non-negotiable. Don’t fill the whole day. Keep half of it open. If you don’t, one disruption and the whole thing collapses in on itself. With 50% control over your time, the system holds.\nConsistency & Updates I keep my calendar open and my email closed (as much as possible… i stuggle with this one…). That helps me focus on what I said I’d do — and gives me the flexibility to adapt when things shift.\nDaily Review At the end of the day I check in with what actually got done. I like to do this is a short audio-note to myself that is auto-transcribed by an AI application. If something slipped i move it to a new timeslot. If I underestimated how long something took I make a note for next time. The review is where the system gets smarter.\n\n\n\n\n\n\n\nNot a New Idea\nThis isn’t original. Time blocking, time budgeting — pick your term — has been around forever. Cal Newport talks about it. Stephen Covey wrote about it. The best match to how i do it is probably from Sam Corcos. He lays it out well in this post and this podcast. I’m not reinventing anything. I’ve just found a version of it that works for me.\nThanks for reading."
+  },
+  {
+    "objectID": "blog/my-boss/index.html",
+    "href": "blog/my-boss/index.html",
+    "title": "My Boss Doesn’t Know What I Do",
+    "section": "",
+    "text": "When I first transitioned to remote work in 2016, I quickly realized that the physical distance between my boss and me created a gap in visibility and understanding of what I do every day. It was harder for them to see the day-to-day work I was doing and therefore we easily lost touch on the scope of my responsibilities and the effort I was putting in.\n\n\n\n\n\nTo bridge this gap, I started sending weekly update emails. These emails are not meant to be a comprehensive report, but rather a quick summary of highlights from the past week, a little of what I and my team accomplished, any challenges we’ve faced. I experiemented with the frequency and over time I’ve settled on fortnightly status emails as the best bang for buck. I also learnt to make it clear to my boss that they don’t need to reply to these emails unless they has questions or concerns so they didn’t feel obliged to reply to each and every update.\nHere’s a template of the email I typically send:\n\nSubject: Fortnightly update\nHi [boss],\nHere’s some things of note from the last two weeks - you don’t need to reply unless you see something I should fix or you want more info on.\nThanks!\n[yourname]\nThings of note this fortnight:\n\nI’ve been working closely with…\n…\n…\n\n\nThe benefits of this practice were immediate and significant for me. Here are a few of the ways it has helped me improve working relationships with four different bosses over the years:\n\nIncreased Visibility - short update emails give my boss a clear picture of what I’m doing, even though they aren’t physically around to see my work. This helped to increase their trust in me and has made me feel more visible, trusted, and understood.\nBetter Communication - the regular updates have opened up a channel of regular communication between us making my boss more aware of the challenges I’m facing and goals my team and I are kicking..\nImproved Accountability - knowing that I’ll be sending an update at the end of the fortnight helps to motivate me to track and stay focused on my goals. It also gives me an opportunity to reflect on my ways of working, productivity, and areas for improvement.\nIncreased Opportunities - by keeping myself and my team in our boss’s consciousness regularly, they are more likely to think of us as doing well and to send opportunities our way or respond well when we call for aid.\n\nI’ve continued this practice for over six years at the time of writing and it has become an integral part of my work routine. Everytime I get a new boss I just start sending short update emails, i don’t ask their permission i just do it, and without fail it has been a positive thing. Your boss has their own job to so and there is no way for your boss to know what you do all day - whether you’re working remotely or in the office right next to them - so regular communication is key to a successful working relationship, and sending update emails is an easy and effective way to achieve that.\nBe visible or vanish.\nThanks for reading."
+  },
+  {
+    "objectID": "blog/innovation-sprints2/index.html",
+    "href": "blog/innovation-sprints2/index.html",
+    "title": "Getting started with Innovation Sprints",
+    "section": "",
+    "text": "People have been asking me how they can get started with Innovation Sprints, so I’ve put together a quick start guide on how to do your first Innovation Sprint with your team.\n\n\n\n\n\n\nGet on the same page - meet with your pm and your team and discuss that you want to trial an Innovation Sprint and that at the end you will be asking them to vote on doing one again. Discuss when a good time would be to do a two-week sprint. Keep in mind that there is never a ‘right’ or ‘good’ time and you will just have to commit to it knowing that some things might get in the way or be delayed a little - this is okay.\nSet the guardrails - Hold a team meeting on day 1 of the Innovation Sprint for 15mins. Outline the rules of the game and ask what questions folk have. Rules of the game are:\n\n\nKeep it Relevant – What we choose to do during the Innovation Sprint should be relevant to our organization. Taking a pottery course might be a fun and creative endeavour, but it’s important to save that for the weekend and focus on ideas that can truly benefit our research work/organisation during the Innovation sprint.\nOpting for Regular Work is Okay – Understand that some people find it difficult to step away from project work and may feel guilty or like they’re neglecting their responsibilities. Make it clear that people can choose to continue with regular project tasks during the Innovation Sprint, that’s entirely up to them.\nTo Demo or Not to Demo – At the end of the Innovation Sprint, you will have a sharing session where folks can reflect on the sprint and demo or share what people have been working on. However, sharing is not a requirement. The goal of the Innovation Sprint is not to produce a new product or new research paper, but rather to give you space to think, innovate, try new things, and fail fast. The goal is learning and the creative journey, not the destination. Don’t make it about doing more, make it about having fun.\n\n\nGet out of the way - Seriously, cancel all meetings for the next two weeks. I know this is hard, but really really try to avoid all meetings for at least a full week.\nReflect - Hold a 30 or 45 min (depending on team size) reflection meeting on the last day of the Innovation Sprint. This is where you ask if anyone wants to share or discuss what they did. You can run this as an agile retrospective if you like but it really depends on your teams culture and what they’re comfortable with. During this meeting it is important to get the team to vote on doing this again or not. I like roman voting on three for this. If you don’t get a “yes” then have a discussion about why and unpack what the team got, or didn’t, from this experience.\nRepeat - If you got a yes, schedule the next Innovation Sprint for about 10 or 12 weeks from now - but check in with what else is happening in calendars at that time to and always be flexible.\n\nHere is an example of a schedule of Innovation Sprints I use with my team:\n\n\n\n\n\nOne final note… Please resist the urge to do a one week Innovation Sprint - two weeks is needed and the time will fly. Try it once for two weeks and see what happens.\nThanks for reading."
+  },
+  {
+    "objectID": "blog/giving-an-a/index.html",
+    "href": "blog/giving-an-a/index.html",
+    "title": "Give people an ‘A’…",
+    "section": "",
+    "text": "We often judge others based on their past or their perceived limitations? As humans, it is natural for us to form opinions and categorize people in this way. Nevertheless, this tendency can limit our ability to inspire growth and to unlock the full potential of those around us - particularly in a team. By giving people an ‘A’ upfront, we foster an environment that encourages personal development, ownership, and helps everyone reach their potential. I was first introduced to the concept of giving people an A in the Agile Coaching Lab when we were asked to read The Art of Possibility by Rosamund Stone Zander and Benjamin Zander."
+  },
+  {
+    "objectID": "blog/giving-an-a/index.html#so-what-does-it-mean-to-give-someone-an-a",
+    "href": "blog/giving-an-a/index.html#so-what-does-it-mean-to-give-someone-an-a",
+    "title": "Give people an ‘A’…",
+    "section": "So, what does it mean to give someone an ‘A’?",
+    "text": "So, what does it mean to give someone an ‘A’?\nGiving someone an ‘A’ is a mindset and a practice in which we choose to see the best in others, regardless of their past performance. It means acknowledging that everyone has the ability to improve, and it means treating them as if they have already achieved that potential. This approach shifts the focus from a person’s shortcomings to their possibilities, creating a positive environment that nurtures growth and development."
+  },
+  {
+    "objectID": "blog/giving-an-a/index.html#what-are-the-benefits-of-giving-people-an-a",
+    "href": "blog/giving-an-a/index.html#what-are-the-benefits-of-giving-people-an-a",
+    "title": "Give people an ‘A’…",
+    "section": "What are the benefits of giving people an ‘A’?",
+    "text": "What are the benefits of giving people an ‘A’?\n\nEmpowerment: When we give someone an ‘A’ we empower them to take ownership of their actions and decisions. This newfound sense of responsibility can lead to increased motivation and drive, as the person is no longer limited by negative expectations.\nTrust: By giving people an ‘A’ we demonstrate our faith in a person’s abilities and in their potential. This trust can strengthen relationships, improve communication, and foster a sense of teamwork and collaboration.\nGrowth: When we believe in someone’s potential for growth, we create a safe space for them to take risks and make mistakes. This willingness to learn and grow is essential for personal and professional development.\nImproved performance: High expectations can lead to improved performance. By giving someone an ‘A’ we set high standards that encourage them to strive for excellence rather than settle for mediocrity.\nEncourages self-reflection: When we receive an ‘A’ we are inspired to reflect on our own actions and behaviors. This self-reflection can lead to increased self-awareness and personal growth."
+  },
+  {
+    "objectID": "blog/giving-an-a/index.html#how-do-we-give-someone-an-a",
+    "href": "blog/giving-an-a/index.html#how-do-we-give-someone-an-a",
+    "title": "Give people an ‘A’…",
+    "section": "How do we give someone an ‘A’?",
+    "text": "How do we give someone an ‘A’?\n\nSuspend judgment: Let go of your preconceived notions and past experiences. Approach each person with an open mind and a willingness to see their untapped potential.\nActively listen: Pay attention to what the person is saying and try to understand their perspective. This will allow you to see their strengths and abilities more clearly.\nOffer feedback: When offering feedback, focus on the person’s potential for growth, rather than ramming home their past mistakes or shortcomings. Be specific about what they can improve upon and provide specific guidance on how they can achieve their goals. Challenge directly.\nEncourage risk-taking: Support and encourage the person to take risks and try new things. This will help them build confidence in their abilities and allow them to learn from their experiences.\nCelebrate successes: Praise and acknowledge and celebrate the person’s achievements, no matter how small. This will reinforce their belief in their own abilities and help them continue to strive for excellence. Care personally."
+  },
+  {
+    "objectID": "blog/giving-an-a/index.html#conclusion",
+    "href": "blog/giving-an-a/index.html#conclusion",
+    "title": "Give people an ‘A’…",
+    "section": "Conclusion",
+    "text": "Conclusion\nBy giving people an ‘A’ we create space for empowerment and growth. This practice encourages trust, collaboration, and personal development, ultimately leading to improved performance and success. The next time you interact with someone, consider giving them an ‘A’ in your mind and watch as they rise to meet your expectations. Everyone deserves the opportunity to reach their full potential.\nThanks for reading."
+  },
+  {
+    "objectID": "blog/check-ins/index.html",
+    "href": "blog/check-ins/index.html",
+    "title": "The ‘Check-In’ Ritual: How to Create a Welcoming Meeting Environment",
+    "section": "",
+    "text": "Have you ever tried starting a meeting with everyone saying how they’re feeling or what they’ve been pondering? This idea is a riff on the “Check-In” ritual from the Core Protocols, a set of practices for building great human teams. At the beginning of a meeting, each person takes a turn to speak their mind briefly - by answering a question or finishing a sentence - and ends with “I’m in.” Then everyone else says, “Welcome.” It’s a straightforward and effective way to begin a weekly team meeting.\nI’ve been using “Check-Ins” for over a year in all sorts of team settings. I must admit, I’m always a bit anxious about how new people or teams will react. But, time and again, it’s been a hit. It makes meetings feel more personal and helps us all feel closer.\nHere’s what makes “Check-Ins” so helpful:\n\nEveryone Gets to Talk: It gives each person a moment to be heard right from the start. It promotes engagement and commitment by ensuring everyone’s voice is heard from the outset. For me the most important part is that it allows each team member to feel valued and understood​.\nIt’s Efficient: It doesn’t take much time, and it sets a collaborative tone for the meeting.\nTrust Grows: When people share even a little about their current state of mind, it can help build trust within the group. Check-ins help a new team to rapidly establish a sense of value, belonging, and connectedness. It builds a deeper relationship between the team leader and the team.\n\nYou don’t need to be super open or share your deepest feelings. You can share as much or as little as you like. It’s just about showing up, being present, and letting others know you’re ready to participate.\nThe Core Protocols, where “Check-Ins” come from, have lots of great ideas for making teams better. I’ve found “Check-Ins” to be a fantastic starting point, and I’m excited to explore and share more about the Core Protocols in future writings.\nSo if you’re looking for a small way to make your meetings better, why not try a “Check-Ins”? It might feel a bit odd the first time, but it can lead to a stronger, more connected team.\nHere’s what i usually put on team meeting agendas\nCheck in:\n\nSpeaker says “[insert a question here…]” (or passes)\nSpeaker may provide a brief explanation but doesn’t have to.\nSpeaker says “I’m in.” - this signifies that Speaker intends to be ‘in’ and present in the meeting.\nListeners respond, “Welcome.”\n\n\n\n\n\n\nAnd, here is my list of check-in questions to get you started:\n\n“This week I would like to try…”\n“One boring thing about me is…”\n“One thing that brings me joy and energy is…?”\n“I feel…?”\n“I am thankful for…?”\n“My hope for today is…?”\n“I feel [one of more of MAD, GLAD, SAD, AFRAID]…?”\n“What’s the one thing that could bring you energy and joy this week?”\n“This week I would like to try…”\n“This week will be successful if…”\n“This week I have learned…”\n“A challenge for me this week has been…”\n“One thing that I wish I had more time for is…?”\n“One thing that I’m proud of this week is…?”\n“One thing that surprised me this week was…?”\n“One thing that I’d recommend (a book, tv show, podcast, etc.) is…?”\n“One small win from my past week was…?”\n“If you were a superhero, what power would you wish to have this week?”\n“One thing that I’ve been pondering about lately is…?”\n“One thing I wish others knew about me is…?”\n“One thing I’m looking forward to this week is…?”\n“A hobby or activity I’ve been enjoying lately is…?”\n“One word that encapsulates my goals for this week is…?”\n“What’s one small thing that made you smile this week?”\n“If your week had a color, what would it be and why?”\n“What’s a book you’ve recently read or want to read?”\n“What’s something new you’ve tried or would like to try soon?”\n“What’s one goal you’ve set for yourself this month?”\n“What’s a piece of advice you’ve received that you’d like to share with the team?”\n“One thing that challenged me this week…?”\n“One thing that I’m looking forward to is…?”\n“One thing that I’ve recently discovered about myself is…?”\n“One thing that has been a source of inspiration for me is…?”\n“One thing that I want to accomplish by the end of this month is…?”\n“One thing that I’d like feedback on is…?”\n“One thing that I’ve been avoiding is…?”\n“One thing on my bucket list is…?”\n“One thing that I’m currently passionate about is…?”\n\nThanks for reading."
+  },
+  {
+    "objectID": "blog/innovation-checklist/index.html",
+    "href": "blog/innovation-checklist/index.html",
+    "title": "A Checklist for Adopting Innovations",
+    "section": "",
+    "text": "Lately i’ve been thinking about how one decides to adopt a new technology or tool. There’s a lot of push for scientists and organisations to keep up with the latest and greatest innovation in technology or analysis (e.g. change to git rather than staying with svn) but there’s rarely any objective analysis or thought put into whether or not one should invest the time and energy in doing this. Therefore I decided to put together a list of principles that I hold and use a a yard stick when presented with such situations."
+  },
+  {
+    "objectID": "blog/innovation-checklist/index.html#a-checklist-for-adopting-an-innovation",
+    "href": "blog/innovation-checklist/index.html#a-checklist-for-adopting-an-innovation",
+    "title": "A Checklist for Adopting Innovations",
+    "section": "A checklist for adopting an innovation:",
+    "text": "A checklist for adopting an innovation:\n\nThe new tool or method should be cheaper than the one it replaces.\nIt should be at least as fast as the tool or method it replaces.\nIt should do work or produce work that is clearly and demonstrably ‘better’ than the one it replaces.\nIt should be repairable and maintainable by people inside the organisation, provided that they are provided with the necessary tools.\nIt should not replace or disrupt anything good that already exists, and this includes people and community relationships."
+  },
+  {
+    "objectID": "blog/personal-user-manuals/index.html",
+    "href": "blog/personal-user-manuals/index.html",
+    "title": "Personal User Manuals",
+    "section": "",
+    "text": "Have you ever tried to assemble a piece of Ikea furniture without instructions? That exasperating feeling of not knowing where to start, the recurring thought of “If only I knew how this works!” is a good metaphor for new teams trying to understand each other and how to build effective relationships. This is where Personal User Manuals (PUMs) comes in."
+  },
+  {
+    "objectID": "blog/personal-user-manuals/index.html#decoding-the-personal-user-manual",
+    "href": "blog/personal-user-manuals/index.html#decoding-the-personal-user-manual",
+    "title": "Personal User Manuals",
+    "section": "Decoding the Personal User Manual",
+    "text": "Decoding the Personal User Manual\nA Personal User Manual is an ‘About Me’ page, but for work. It’s a snapshot of your working style, preferences, quirks, and values - all bundled into a neat, accessible guide for your team. This is not about broadcasting personal secrets, fetishes, or whims. Instead, it’s a practical, professional tool to bridge gaps in understanding and accelerate team synergy."
+  },
+  {
+    "objectID": "blog/personal-user-manuals/index.html#a-catalyst-for-new-teams",
+    "href": "blog/personal-user-manuals/index.html#a-catalyst-for-new-teams",
+    "title": "Personal User Manuals",
+    "section": "A Catalyst for New Teams",
+    "text": "A Catalyst for New Teams\nIn the early stages of team-building, understanding how each member ticks can be a time-consuming, often frustrating process. Personal User Manuals come to the rescue by providing a cheat sheet for understanding your colleagues.\nImagine knowing right off the bat that Xiao thrives on quick Slack responses, while Emily prefers detailed emails. This eliminates guesswork and miscommunication, saving precious time, energy, and frustration."
+  },
+  {
+    "objectID": "blog/personal-user-manuals/index.html#the-role-of-personal-user-manuals-in-crafting-team-culture",
+    "href": "blog/personal-user-manuals/index.html#the-role-of-personal-user-manuals-in-crafting-team-culture",
+    "title": "Personal User Manuals",
+    "section": "The Role of Personal User Manuals in Crafting Team Culture",
+    "text": "The Role of Personal User Manuals in Crafting Team Culture\nThe beauty of PUMs isn’t just their operational advantage; it’s their innate power to shape a vibrant, inclusive team culture. They foster an environment of transparency and empathy, encouraging open conversation about individual needs and preferences.\nThe simple act of creating a PUM nudges individuals towards greater self-awareness. Simultaneously, reading other’s PUMs sparks empathy and understanding, sowing the seeds of a positive team culture."
+  },
+  {
+    "objectID": "blog/personal-user-manuals/index.html#guidelines-for-drafting-your-own-personal-user-manual",
+    "href": "blog/personal-user-manuals/index.html#guidelines-for-drafting-your-own-personal-user-manual",
+    "title": "Personal User Manuals",
+    "section": "Guidelines for Drafting Your own Personal User Manual",
+    "text": "Guidelines for Drafting Your own Personal User Manual\nSo, how do you make your own PUM? The journey towards crafting a useful Personal User Manual begins with introspection and concludes with sharing this newfound knowledge with your team. Here’s a simplified roadmap to help you on your way:\n\nReflect: Ponder your working style, communication preferences, peak productivity hours, and the circumstances under which you do your best work.\nIdentify: Pinpoint what motivates you, your core professional values, and how you handle stress or pressure.\nCompile & Share: Write these insights in a clear, concise manner. Your manual should be an authentic reflection of your professional self, so don’t be afraid to infuse it with your personality. I like to use a shared slide deck to do this – as inspired by my Agile Coaching Lab cohort – and so i’ve included a template for you at the end of this post to get you started.\nEvolve: Your manual should be a living document that evolves as you grow professionally. Make sure to schedule time every 6 months or so to review and revise it with your team.\n\n\nIncorporating Personal User Manuals into the building and shaping of your team is a strategic move towards effective communication and collaboration. By creating and sharing PUMs, you foster a work environment where everyone feels heard, understood, and respected.\nPUM TemplateDownload\nThanks for reading."
+  },
+  {
+    "objectID": "blog/acl1/index.html",
+    "href": "blog/acl1/index.html",
+    "title": "Agile Coaching Lab - Week 1",
+    "section": "",
+    "text": "On the 7th of Feb 2023 I joined the 9th cohort of the Agile Coaching Lab (ACL). The ACL is “An intensive 8-weeks program for agile coaches, scrum masters and leaders who want to level up and lead”, run out of New Zealand by Jakub Jurkiewicz.\n\nDuring the pre-course homework we read chapters from ‘Steal Like an Artist’ and ’The Art of Possibility, wrote a personal user manual, and a letter from our future selves – which I’m sure will be topics of future blog posts.\nSession 1 was fantastic. My fellow students are a diverse bunch with varied backgrounds, experiences, and personalities which makes for lively and interesting group work and discussions. Jakub introduced the Check In and Check out from the Core Protocols, ran through an Emotional Culture Deck session, and finished up with collaboratively designing a team working agreement. These activities really set the tone for the class and for what’s to come.\nI will keep this post short but state my intention to post a blog each week either reflecting on that weeks class or wondering about, exploring, and sharing a technique we discovered."
+  },
+  {
+    "objectID": "blog/stand-ups/index.html",
+    "href": "blog/stand-ups/index.html",
+    "title": "Reflecting on Stand-up meetings",
+    "section": "",
+    "text": "Looking back on my journey over the last few years, I’ve come to realise the nuanced complexities of team meetings, in particular the famous “stand-up”. There was a time in my recent past when mandating stand-ups felt like an uphill battle, met with resistance and scepticism. This reflection has led me to consider three things that reshaped my perspective on stand-ups over the last year of so and i’d like to share them with you: “Walk the Board”, “Impediments”, and “Getting Out of The Way”."
+  },
+  {
+    "objectID": "blog/stand-ups/index.html#walking-the-board-a-shift-in-focus",
+    "href": "blog/stand-ups/index.html#walking-the-board-a-shift-in-focus",
+    "title": "Reflecting on Stand-up meetings",
+    "section": "Walking the Board: A Shift in Focus",
+    "text": "Walking the Board: A Shift in Focus\nMany stand up devolved into individual updates that overshadowed the collective progress towards our collective goals. This is when i tried “Walking the Board”. This approach pivoted our focus from individual performances to revisiting our collective ‘goal’ for that day, week, month and on the tasks on the kanban board. It helped and I began to see enhanced collaboration as we talked through challenges and gaps together and there was a shift in meeting dynamics that allowed us to concentrate on our collective goal rather than individuals. This experience taught me the value of keeping shared goals front and center and of collective problem-solving."
+  },
+  {
+    "objectID": "blog/stand-ups/index.html#identifying-impediments-uncovering-hidden-challenges",
+    "href": "blog/stand-ups/index.html#identifying-impediments-uncovering-hidden-challenges",
+    "title": "Reflecting on Stand-up meetings",
+    "section": "Identifying Impediments: Uncovering Hidden Challenges",
+    "text": "Identifying Impediments: Uncovering Hidden Challenges\nI started asking “What is slowing you down?” and then waiting with my mouth firmly shut. This question became a catalyst and encouraged an environment where challenges were openly shared and addressed. This again focused us on helping each other and listening, which ultimately reduced the dependency on leaders to intervene.\nBy sitting (or standing…) with a potentially uncomfortable silence I observed my team evolve into a self-directed unit capable of overcoming impediments. It underscored the importance of empowering teams to find their own solutions as much as possible."
+  },
+  {
+    "objectID": "blog/stand-ups/index.html#getting-out-of-the-way-freedom-to-choose",
+    "href": "blog/stand-ups/index.html#getting-out-of-the-way-freedom-to-choose",
+    "title": "Reflecting on Stand-up meetings",
+    "section": "Getting Out of The Way: Freedom to Choose",
+    "text": "Getting Out of The Way: Freedom to Choose\nBut, more than anything, my experience taught me that autonomy is key. Imposing stand-ups as mere status updates is counterproductive. Over time I am more and more embracing the ethos of Agile as articulated by Allen Holub:\n\nWork small.\nTalk to each other.\nMake people’s lives better.\n\nThis simple yet powerful philosophy helped me move beyond rigid structures to foster a truly agile and people-centric approach to my daily work."
+  },
+  {
+    "objectID": "blog/stand-ups/index.html#conclusion",
+    "href": "blog/stand-ups/index.html#conclusion",
+    "title": "Reflecting on Stand-up meetings",
+    "section": "Conclusion",
+    "text": "Conclusion\nBy giving teams the power to tailor their workflows, to focus on overcoming challenges together, and to make choices that enhance their own lives makes the workplace better and more effective for everyone.\nEffective teams don’t just follow methodologies - they adapt and evolve them to fit their unique needs and continuously improve their collaborative practices.\nThanks for reading."
+  },
+  {
+    "objectID": "blog/acl3/index.html",
+    "href": "blog/acl3/index.html",
+    "title": "Agile Coaching Lab - Week 3",
+    "section": "",
+    "text": "During week 3 of the Agile Coaching Lab (ACL) we focused on the craft of coaching. We explored many tools, techniques, and strategies, but the three that stuck with me were all question asking techniques, therefore I’d like to unpack them briefly here."
+  },
+  {
+    "objectID": "blog/acl3/index.html#grow-coaching-model",
+    "href": "blog/acl3/index.html#grow-coaching-model",
+    "title": "Agile Coaching Lab - Week 3",
+    "section": "GROW Coaching Model",
+    "text": "GROW Coaching Model\nThe GROW model is a popular framework for coaching people or teams towards a goal. GROW is an acronym for four key stages: Goal, Reality, Options, and Way Forward.\nThe acronym also suggests a flow for the coaching conversations where the first stage is to establish a goal. You as the coach help the coachee define what they want to achieve through asking questions like: “What are you looking to achieve?”, “What do you want to get out of this meeting?”, “What’s the bigger picture?”.\nIn the second stage, the coach encourages coachee to examine the current reality of their situation. This involves helping them take an honest and objective look at the current situation and asking questions like: “What is the current situation?”, “What are the internal/external obstacles?”.\nIn the third stage, the coach helps the coachee generate for achieving their goal. This involved a lot of open questions and tongue biting so that you don’t slip into advice mode. Some of these questions might be: “How would you tackle this if time wasn’t a factor?”, “What options appeal to you right now?”, “What else could you do?”.\nThen, finally, in the fourth stage, the coach guides the coachee towards making an action plan. It is important to encourage accountability and commitment by asking questions like: “What will you do now?”, “When will you do it?”, “How committed are you on a scale of 1 to 10?”. I quite like the grow model as you can have fun with it by looping back to a previous section if you get stuck or even starting again entirely if the conversation drifts in another direction."
+  },
+  {
+    "objectID": "blog/acl3/index.html#powerful-questions",
+    "href": "blog/acl3/index.html#powerful-questions",
+    "title": "Agile Coaching Lab - Week 3",
+    "section": "Powerful Questions",
+    "text": "Powerful Questions\nPowerful questions are a set of open-ended questions that are designed to promote thinking, reflection, and space for thought. These types of questions help coachees discover new possibilities and solutions without pushing the coaches agenda on them.\nPowerful questions usually begin with words like “what,” “how,” or “why” and are phrased to be curious, creative, and reflective. They can often challenge assumptions, be slightly uncomfortable, encourage creativity and growth.\nSome examples of powerful questions include: - What are your biggest challenges right now? - What is at risk? - Why is this issue important to you? - What is stopping you? - How does it look to you?\n\n\n\nExample Powerful Questions\n\n\nPowerful questions are a quite popular tool for coaches but I find them a bit awkward to use at the moment and prefer the “Clean Language” questions and the simple “And What Else” question but as I mature as a coach this might change."
+  },
+  {
+    "objectID": "blog/acl3/index.html#clean-language",
+    "href": "blog/acl3/index.html#clean-language",
+    "title": "Agile Coaching Lab - Week 3",
+    "section": "Clean Language",
+    "text": "Clean Language\nClean Language is a question technique that was developed by psychologist David Grove. It is designed to explore a coachaee’s thoughts, beliefs, and experiences in a non-judgmental and non-leading way.\nThe key part of Clean Language is the use language that is “clean” and free of assumptions, mis-interpretations, and bias. The questions are designed to be open-ended, neutral, and focused on using the individual’s own words and experiences in a constructive way without the influence of the coach.\nSome examples of Clean Language questions include: - “What would you like to have happen?” - “And what kind of [X] is that [X]?” - “Is there anything else about that [X]?” - “What needs to happen for that to happen?” - “And what happens next?” - “Can that happen?”\nI prefer Clean Language over powerful questions as they seem less forceful and direct and they seem to encourage the coachee to explore their own experiences and develop their own insights and solutions more naturally."
+  },
+  {
+    "objectID": "blog/acl3/index.html#the-advice-monster",
+    "href": "blog/acl3/index.html#the-advice-monster",
+    "title": "Agile Coaching Lab - Week 3",
+    "section": "The Advice Monster!",
+    "text": "The Advice Monster!\nOne final cool thing that Jakub shared with us…\n\nThanks for reading."
+  },
+  {
+    "objectID": "blog/decentralized-decision-making/index.html",
+    "href": "blog/decentralized-decision-making/index.html",
+    "title": "Decentralized Decision-Making",
+    "section": "",
+    "text": "Over the past few years, i’ve noticed a significant improvement in morale and effectiveness when decision-making is decentralized - meaning that those involved in the daily work, closest to the work, are empowered to have a greater say and actually make most decisions. This approach is grounded in my exploration of “lean” principles: which prioritize autonomy, mastery, and knowledge and expertise at every level of the organization."
+  },
+  {
+    "objectID": "blog/decentralized-decision-making/index.html#leveraging-expertise",
+    "href": "blog/decentralized-decision-making/index.html#leveraging-expertise",
+    "title": "Decentralized Decision-Making",
+    "section": "Leveraging Expertise",
+    "text": "Leveraging Expertise\nFor me, the initial step was to trust my team members to make informed decisions based on their expertise. Recognizing and utilizing the depth of knowledge within the team led to more nuanced and rich outcomes that often were very different and more well rounded than anything i came up with on my own.\nThe hardest part was holding my tongue and letting the discussion/decisions play out - or Taming My Advice Monster, as Michael Bungay Stanier might say…"
+  },
+  {
+    "objectID": "blog/decentralized-decision-making/index.html#innovation",
+    "href": "blog/decentralized-decision-making/index.html#innovation",
+    "title": "Decentralized Decision-Making",
+    "section": "Innovation",
+    "text": "Innovation\nThe surprising part has been that by presenting a team with autonomy turned every team i tried it with into a hub of innovative ideas, that spawned free thinking conversations and also fostered an ownership of work that was previously thought to be ‘driven from the top’."
+  },
+  {
+    "objectID": "blog/decentralized-decision-making/index.html#be-agile-dont-do-agile",
+    "href": "blog/decentralized-decision-making/index.html#be-agile-dont-do-agile",
+    "title": "Decentralized Decision-Making",
+    "section": "Be Agile, Don’t Do Agile",
+    "text": "Be Agile, Don’t Do Agile\nThis approach to decision making allows for true agility. Agility in my mind is the ability to adapt quickly to the changing landscape of our projects and of our team dynamics. By encouraging the people with the most information to make decisions, decision-making became more fluid, resulting in faster adaptations and faster work."
+  },
+  {
+    "objectID": "blog/decentralized-decision-making/index.html#trust",
+    "href": "blog/decentralized-decision-making/index.html#trust",
+    "title": "Decentralized Decision-Making",
+    "section": "Trust",
+    "text": "Trust\nA culture of trust and ownership developed in all the workplaces where this type of mindset was embraced. Everyone took responsibility for their work and felt empowered to suggest changes knowing that they had a say in how the team worked and an experiment to change how we worked was a simple as a discussion and a lab team vote away.\n\n\n\n\n\nIn retrospect, adopting decentralized decision-making not only improved my management experience but is has also cultivated a culture of excellence, unlocking the existing talents and ideas in people that were otherwise ignored. I strongly suggest you give it a try - start small, like deciding what time to hold your regular team meeting… try doing it with a team vote rather than the team leader suggesting a time.\nThanks for reading."
+  },
+  {
+    "objectID": "blog/liberating-structures/index.html",
+    "href": "blog/liberating-structures/index.html",
+    "title": "What are Liberating Structures?",
+    "section": "",
+    "text": "Do you struggle to get people on the same page or with effective cross team collaborations?\nHave you heard of Liberating Structures? Developed by Henri Lipmanowicz and Keith McCandless, Liberating Structures are a collection of group facilitation methods grounded in complexity science that aim to empower every member of the group and harness collective intelligence for better outcomes.\nUnlike traditional facilitation methods, Liberating Structures promote a distributed leadership approach and adaptability to diverse contexts - from small team meetings to large conferences.\nThere are over 30 Liberating Structures, each designed to address a different aspect of group dynamics.\n\nSome of the most popular structures include:\n\nOpen Space Technology: A structure for organizing large group meetings that allows participants to self-organize around topics of interest.\n1-2-4-All: A structure for generating ideas and sharing them with the group, which involves individuals first brainstorming on their own, then sharing in pairs, then in groups of four, and finally with the whole group.\nImpromptu Networking: A structure for connecting individuals with others who have similar interests or expertise.\nTroika Consulting: A structure for helping individuals work through a problem or challenge by soliciting feedback and ideas from two other individuals in the group.\nWicked Questions: A structure for exploring complex or controversial issues by reframing them as questions that challenge assumptions and provoke discussion.\n\nThese are examples of structures that facilitate self-organization, brainstorming, networking, problem-solving, and critical discussions.\nLiberating Structures have been gaining popularity across various fields, including education, business, and government, but especially for organizations that prioritize collaboration, innovation, and inclusivity.\nIf you are interested in learning more, check out the Liberating Structures website https://www.liberatingstructures.com or the book “The Surprising Power of Liberating Structures” by Lipmanowicz and McCandless.\nThanks for reading."
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "Dr Robert Johnson Senior Research Scientist  I’m a senior research scientist leading a team focused on forecast improvement and algorithm development across the Earth sciences — from ocean to atmosphere. My work centres on enhancing the accuracy and usefulness of environmental forecasts through model post-processing, ensemble techniques, and machine learning.  My research background is broad and interdisciplinary, spanning from Antarctic phytoplankton photophysiology and satellite oceanography to AI applications in meteorology. Over the years, I’ve led multi-disciplinary teams of scientists and engineers, working on projects that integrate data science, numerical modelling, and operational systems. I contribute to international collaborations on probabilistic forecasting and post-processing, and my team’s innovations have delivered Australia’s first AI-driven post-processing system for public weather forecasts, replacing legacy statistical methods and modernising the weather forecast provided to millions of Australians.  Beyond research, I’m passionate about ensuring that science delivers real-world impact. I’ve worked with partners across sectors — including aviation, maritime, and emergency management — to make sure our advances support better decisions and safer outcomes. I live in Hobart, Tasmania, and use this blog to share ideas, reflections, and updates from the intersection of science, leadership, and technology."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "RobJohnson.computer",
+    "section": "",
+    "text": "Dr Robert Johnson Senior Research Scientist  I’m a research scientist focused on forecast improvement and algorithm development across the Earth Sciences - from Ocean to Atmosphere. My work bridges numerical modeling, machine learning, and statistical post-processing to make environmental monitoring and forecasting more accurate, reliable, and useful. I also write about scientific leadership, research computing, and how AI is reshaping the way we understand and predict the natural world.  This is my personal website. The views and content expressed here are solely my own and do not represent the positions, policies, or opinions of my employer or any affiliated institutions."
+  },
+  {
+    "objectID": "blog/celeb/index.html",
+    "href": "blog/celeb/index.html",
+    "title": "The Celebrity Interview",
+    "section": "",
+    "text": "Liberating Structures “Celebrity Interview” technique offers an innovative approach to fostering human connections and knowledge sharing between the elders of science and our teams. This method transforms “traditional science presentations” into captivating personal narratives that create a direct connection between humans.\nIn a scientific institute, this method can be particularly valuable. It can be used to explore the experiences and insights of a seasoned scientist or a team leader and allow others to understand their approaches to big organisational challenges, their career trajectories, and to dig into their science itself. The structured yet informal nature of a Celebrity Interview often encourages more open and genuine conversations, where questions are not just about the ‘what’ but also the ‘how’ and ‘why’ of the persons life and work. It’s a tool to foster a culture of openness and curiosity, which is vital for innovation and collaboration in science. The detailed process of a Celebrity Interview, including the five structural elements—structuring invitation, space arrangement, participation distribution, group configuration, and sequence of steps—ensures that everyone gets an opportunity to engage and contribute as much as they feel like.\nHead over to https://www.liberatingstructures.com/22-celebrity-interview/ for specific details, but the basics are as follows…\nThe process begins before the session even starts by selecting an expert who has valuable insights for your team and by having your team prepare engaging questions ahead of time. Then, during the session, the expert is introduced by the interviewer (usually a team lead or one of the team members), and a dynamic Q&A unfolds based on the prepared questions, with the audience participating actively by generating further questions as you go. This interaction not only facilitates a deep dive into the expert’s experiences and life but also fosters an open and friendly group dynamic that results in a shared experience.\n\n\n\n\n\nUsing this approach, scientists can avoid monotonous lectures, stimulate interactive and inter-generational learning, and encourage networking. Whether it’s to welcome a new leader or to debrief after a major milestone the Celebrity Interview is a powerful way to knit together the fabric of a research community within any science organisation.\nThanks for reading."
+  },
+  {
+    "objectID": "blog/acl5/index.html",
+    "href": "blog/acl5/index.html",
+    "title": "Agile Coaching Lab - Week 5",
+    "section": "",
+    "text": "As part of the Agile Coaching Lab (ACL) homework this week we were asked to read the work of Daniel Mezick on Agile Coaching Lessons and reflect on what we learnt and what we could use in our leadership/coaching.\nSo, here are the links to the blog posts:"
+  },
+  {
+    "objectID": "blog/acl5/index.html#here-is-my-reflection",
+    "href": "blog/acl5/index.html#here-is-my-reflection",
+    "title": "Agile Coaching Lab - Week 5",
+    "section": "Here is my reflection:",
+    "text": "Here is my reflection:\nAs agile methodologies gain popularity the role of an agile coach becomes increasingly crucial. Daniel Mezick, a renowned agile coach, has imparted several valuable lessons on the coaching process through his Blog series on https://newtechusa.net. This post reflects on Mezick’s coaching philosophy and highlight the significant points that I found interesting or useful.\nMezick emphasizes the need for coaches to facilitate rather than teach. He points out the need for coaches to signal that they have no authority over the team. Coaches must make it clear that they are not there to make decisions or impose solutions on the team. Instead, coaches should act as a guide, facilitating the team’s decision-making process and empowering them to take ownership of their work. By signalling their lack of authority, coaches can build trust and establish a more collaborative relationship with the team, leading to better outcomes.\nIn “Signal That You Have No Authority,” Mezick emphasizes the need for coaches to make it clear that they are not there to make decisions or impose solutions on the team, but rather to facilitate the team’s decision-making process and empower them to take ownership of their work.\nIn “Positioning Is Signaling,” Mezick highlights the importance of positioning as a form of signalling, both in terms of how coaches position themselves physically in the room and how they position themselves in relation to the team. By being mindful of their positioning, coaches can create a more positive and collaborative coaching relationship with the team.\nFor example, if the coach positions themselves at the head of the table, they may unconsciously signal that they are in charge and that team members should defer to their authority. Alternatively, if the coach positions themselves at the back of the room near the door, they signal that they are there to support the team and encourage collaboration. By being mindful of their physical positioning, coaches can signal their intentions to the team and establish a more positive and collaborative coaching relationship. Additionally, he points out that “if you occupy any of those seats at the front of the room, you miss a wonderful chance to see who chooses to occupy them. By leaving them empty, you can see what develops. You can see who considers themselves to be authority in this social space.”\nIn “Use Your Body When Facilitating,” Mezick stresses the importance of using body language and physical movements to encourage participation from the team and create a more engaging and productive coaching relationship. For example, if the coach notices that one team member is dominating the conversation, they can lean towards another team member to signal that it’s their turn to speak. Similarly, the coach can use eye contact and nods to signal agreement or disagreement with the team’s ideas.\nUsing your body and body language in this way can help to create a more open and collaborative environment where everyone’s contributions are valued. Additionally, it can help the coach to read the room and adjust their facilitation approach as needed. By using their body when facilitating, coaches can create a more engaging and productive coaching relationship with the team.\nInterestingly Mezick points out “the following forms & actions are authoritative in nature:” - Standing when the others are seated - Documenting the goings-on (white board or flip chart or notes) - Pointing your finger - Sitting or standing deep in the room, facing the door - Being dressed a little better than the ambient level of dress in the room\nHe suggests avoiding them when you want to “be background.” And to use them when you want to “be foreground.” And that during the span of a typical meeting, you are typically oscillating between these two extremes.\nIn “Invite Facilitation,” Mezick encourages coaches to invite members of the wider organization to take turns facilitating different aspects of the discussion. This approach helps to build a sense of ownership and engagement within the organization, leading to more productive and collaborative discussions, and promotes a culture of open communication and collaboration where everyone’s contributions are valued.\nIn conclusion, Mezick’s agile coaching philosophy focuses on facilitation through creating a safe environment, using your body as a coaching tool, continuous learning, and adaptation, and coaching and engaging all levels of an organization. By implementing Mezick’s lessons, organizations and coaches can build a culture of agility and adaptability, allowing them to succeed in building great things and in being a great place to work.\nThanks for reading."
+  },
+  {
+    "objectID": "blog/reading-groups/index.html",
+    "href": "blog/reading-groups/index.html",
+    "title": "Running a Scientific Paper Reading Group",
+    "section": "",
+    "text": "As a part of my team’s regular activities we run a fortnightly scientific paper reading group. In this post I’d like to share how we operate our reading group, the challenges we’ve faced, and how we’re currently overcoming them.\nRunning a paper reading group offers substantial benefits. It keeps us updated with the latest research, a crucial aspect in rapidly evolving scientific fields, such as Machine Learning. Regularly discussing scientific papers enhances critical thinking and analytical skills, but more important for me is that it fosters collaboration and effective communication within our team by encouraging the sharing of diverse ideas and perspectives.\nI’ve also found that such reading groups help bridge the gap between theory and practical application, stimulates innovative thinking, and has lead to new research questions or experiments based on the discussions we’d during our reading groups."
+  },
+  {
+    "objectID": "blog/reading-groups/index.html#the-why",
+    "href": "blog/reading-groups/index.html#the-why",
+    "title": "Running a Scientific Paper Reading Group",
+    "section": "The Why",
+    "text": "The Why\nOur primary goal is to stay current with the rapid advancements in meteorology, in machine learning in earth science, and in forecast post-processing."
+  },
+  {
+    "objectID": "blog/reading-groups/index.html#the-how",
+    "href": "blog/reading-groups/index.html#the-how",
+    "title": "Running a Scientific Paper Reading Group",
+    "section": "The How",
+    "text": "The How\n\nChoosing the Right Papers\nSelecting papers that cater to the diverse expertise levels within our team is a bit of a balancing act. We strive for papers that challenge us but are not overly difficult or too long to get through in an hour or so.\n\n\nConsistency and Flexibility\nWe meet bi-weekly, balancing the need for regular discussion with our already full schedules. We have a standing two hour MS Teams virtual meeting in everyone’s calendars and the the meeting is structured in three parts:\n\nSelect a paper from the list - sometimes we vote if we’re having trouble choosing.\nEveryone goes off to read the paper on their own for an hour - I like to print it and take ‘fleeting notes’ on index cards as per the Zettelkasten method but many people are happy to read on their screen.\nIn the second hour we re-convene and share our likes, dislikes, misunderstandings, and questions. This discussion plays out organically - sometimes we use the whole hour other time we don’t.\n\n\n\nBridging Theory and Practice\nOne think i see happening again and again is people connecting the findings of the papers we read to our current research projects. We often come up with experiments to try and new methods to investigate."
+  },
+  {
+    "objectID": "blog/reading-groups/index.html#hurdles",
+    "href": "blog/reading-groups/index.html#hurdles",
+    "title": "Running a Scientific Paper Reading Group",
+    "section": "Hurdles",
+    "text": "Hurdles\nMaintaining a shared repository of papers and tracking what we have and haven’t read has, surprisingly, proven challenging. We use digital tools like OneNote, but keeping these organized and up-to-date requires pretty regular attention. I’ve switched over to using an MS List table that is more like a database and can be updated and added to by anyone in the team much more easily, i’ll report back.\nWe also invite colleagues from adjacent teams to join our reading group. While they were initially excited and showed up it quickly became difficult for them to prioritize and attendance by anyone but our core team has waned. I’m surprised how few teams or groups within my institute hold paper reading groups or paper discussions when the benefits are so large.\n\n\n\n\n\nRunning a paper reading group within our team has been a journey of continuous learning, discussion, and collaboration. As we continue to refine our approach we will continue to have a reading group as a core part of our team culture and drive for research excellence.\nThanks for reading."
+  },
+  {
+    "objectID": "blog/acl8/index.html",
+    "href": "blog/acl8/index.html",
+    "title": "Agile Coaching Lab - Week 8",
+    "section": "",
+    "text": "As the Agile Coaching Lab (ACL) draws to a close, I am filled with a sense of happiness and gratitude for being part of this beautiful cohort. ACL is a transformative program has allowed me to gain a deep understanding of coaching and leadership methodologies, principles, and the vital role of a coach in guiding people, teams, and organisations towards success. It also gave me a mirror through which i could reflect on myself, my paradigms, my biases, and my ambitions.\nThe lab sessions were led by Jakub but the weekly group work activities provided a unique opportunity for me to engage with a cohort of diverse and talented leaders in the field of Agility. Through the interactive sessions and group discussions, I was able to explore different scenarios, techniques, and challenges that coaches face and to learn from the experiences and advice of my fellow participants.\nIn my journey through the Agile Coaching Lab, I have come to appreciate the importance of trusting yourself and your coachees and of continuous learning and growth as a coach. The field of Agile coaching is ever-evolving, and by the end of the lab there was a general feeling that world of Agile coaching is merging into the world of personal/general coaching more broadly and so staying up-to-date with the latest trends and best practices is crucial to ensure that we can provide the best guidance and support to our coachees.\nSome prompts provided by Jakub for our reflection were:"
+  },
+  {
+    "objectID": "blog/acl8/index.html#what-is-the-one-thing-that-you-learned-and-now-believe-every-agile-coach-should-know",
+    "href": "blog/acl8/index.html#what-is-the-one-thing-that-you-learned-and-now-believe-every-agile-coach-should-know",
+    "title": "Agile Coaching Lab - Week 8",
+    "section": "What is the one thing that you learned and now believe every agile coach should know?",
+    "text": "What is the one thing that you learned and now believe every agile coach should know?\nYou will doubt yourself, you will doubt the techniques you read or learn about, and you will doubt if these techniques even work - be brave and just go for it. Your doubts are a reflection of yourself not the techniques nor of your coachees. Embrace your mindset of experimentation and try it, fail together, learn and try again. It is scary but you will be okay."
+  },
+  {
+    "objectID": "blog/acl8/index.html#what-are-the-things-that-you-have-already-tried",
+    "href": "blog/acl8/index.html#what-are-the-things-that-you-have-already-tried",
+    "title": "Agile Coaching Lab - Week 8",
+    "section": "What are the things that you have already tried?",
+    "text": "What are the things that you have already tried?\nCheck in - I got my teams to start checking in and it totally changed the dynamic of meetings and attention.\n“And What Else” - i use this a lot more than i expected. i’ve started to see opportunities to ask this every day."
+  },
+  {
+    "objectID": "blog/acl8/index.html#what-are-the-things-you-learned-about-yourself",
+    "href": "blog/acl8/index.html#what-are-the-things-you-learned-about-yourself",
+    "title": "Agile Coaching Lab - Week 8",
+    "section": "What are the things you learned about yourself?",
+    "text": "What are the things you learned about yourself?\nThe imposter syndrome is strong with me - I am quite hard on myself and I should be kinder to myself."
+  },
+  {
+    "objectID": "blog/acl8/index.html#what-are-the-things-you-learned-from-the-collaboration-with-others",
+    "href": "blog/acl8/index.html#what-are-the-things-you-learned-from-the-collaboration-with-others",
+    "title": "Agile Coaching Lab - Week 8",
+    "section": "What are the things you learned from the collaboration with others?",
+    "text": "What are the things you learned from the collaboration with others?\nEveryone is trying their best to do the right thing. They are all trying to thrive in the forest and that given the right conditions they will thrive. I just try to help them discover what those conditions are… This comes from a poem Jakub shared with us:\n\nWhen you go out into the woods and you look at trees,\nyou see all these different trees.\nAnd some of them are bent, and some of them are straight,\nand some of them are evergreens, and some of them are whatever.\nAnd you look at the tree and you allow it.\nYou appreciate it.\nYou see why it is the way it is.\nYou sort of understand that it didn’t get enough light,\nand so it turned that way.\nAnd you don’t get all emotional about it.\nYou just allow it.\nYou appreciate the tree.\nThe minute you get near humans, you lose all that.\nAnd you are constantly saying,\n‘You’re too this, or I’m too this.’\nThat judging mind comes in.\nAnd so I practice turning people into trees.\nWhich means appreciating them just the way they are\n\nRam Dass - https://www.ramdass.org/ram-dass-on-self-judgement/"
+  },
+  {
+    "objectID": "blog/acl8/index.html#what-do-you-want-to-keep-doing",
+    "href": "blog/acl8/index.html#what-do-you-want-to-keep-doing",
+    "title": "Agile Coaching Lab - Week 8",
+    "section": "What do you want to keep doing?",
+    "text": "What do you want to keep doing?\nBlogging."
+  },
+  {
+    "objectID": "blog/acl8/index.html#what-are-the-things-that-you-are-afraid-to-try",
+    "href": "blog/acl8/index.html#what-are-the-things-that-you-are-afraid-to-try",
+    "title": "Agile Coaching Lab - Week 8",
+    "section": "What are the things that you are afraid to try?",
+    "text": "What are the things that you are afraid to try?\nFailing, wasting people’s time, looking foolish…"
+  },
+  {
+    "objectID": "blog/acl8/index.html#what-do-you-want-to-stop-doing",
+    "href": "blog/acl8/index.html#what-do-you-want-to-stop-doing",
+    "title": "Agile Coaching Lab - Week 8",
+    "section": "What do you want to stop doing?",
+    "text": "What do you want to stop doing?\nHesitating."
+  },
+  {
+    "objectID": "blog/acl8/index.html#what-is-your-north-star",
+    "href": "blog/acl8/index.html#what-is-your-north-star",
+    "title": "Agile Coaching Lab - Week 8",
+    "section": "What is your north star?",
+    "text": "What is your north star?\nCare personally - challenge directly.\n\nOverall, participating in the Agile Coaching Lab has been an enriching experience that has transformed my understanding of coaching, teaching, and leadership. The knowledge and insights I have gained will undoubtedly assist me on my journey as a leader and coach, and I am excited to continue learning and growing in this dynamic field.\nThanks for reading."
+  },
+  {
+    "objectID": "blog/acl7/index.html",
+    "href": "blog/acl7/index.html",
+    "title": "Agile Coaching Lab - Week 7",
+    "section": "",
+    "text": "As part of our reading for the final Agile Coaching Lab (ACL) class next week we were tasked with reading up on the First Follower phenomenon. This is beautifully captured in the video “First Follower: Leadership Lessons from Dancing Guy”:\n\nand so my reflection this week is about the role of the First Follower in agile transformations.\nAgile transformations can be daunting, requiring the active participation of every staff member right up to the senior leadership. However, based on my reading and experience in the workplace, the key to success lies in the concept of the first follower. The first follower is a crucial player in creating momentum, generating interest, and building trust in any new approach and are hence so important in agile transformations.\nFirstly, the first follower plays a vital role in demonstrating the benefits of the new agile ways of working. They do this by showcasing the positive impact of agile on their work, they help others overcome their initial skepticism and resistance to change.\nSecondly, as they solidify the agile mindset they create a culture of collaboration where everyone is encouraged to work together and share their ideas, leading to more effective problem-solving and better outcomes.\nThirdly, the first follower builds trust by being open and transparent about their experiences in an authentic way. This trust and credibility make it easier for others to follow their lead.\nFourthly, the first follower provides encouragement, guidance, and support to others who are struggling to adapt to a new way of working. This can be invaluable in helping a team or a second team make the transition to agility.\nFinally, the first follower helps sustain the agile change by continuing to promote agility and calls other over to adopt the new approach. In doing so, they help embed the change into the organisation’s culture, ensuring that the transformation spreads and is sustainable.\nIn conclusion, the first follower is a critical player in the success of any agile transformation. They create momentum, build trust, and create a culture of collaboration that enables the organisation to achieve it’s goals. Therefore, as an agile coach, it is important to identify and support your first followers as they are key to the success of your work.\n\nThanks for reading."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWhat is Culture and how to change it?\n\n\n\n\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nJul 1, 2024\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nThe Importance of Trusting Your Team’s Judgment\n\n\n\n\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nApr 19, 2024\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nWhat are percentiles and probabilites?\n\n\n\n\n\n\nanalysis\n\n\ndata\n\n\nstatistics\n\n\n\n\n\n\n\n\n\nFeb 27, 2024\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nRunning a Scientific Paper Reading Group\n\n\n\n\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nDec 14, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nReflecting on Stand-up meetings\n\n\n\n\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nDec 7, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nThe Celebrity Interview\n\n\n\n\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nNov 30, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\n5 Fingers, 1 Team: How to Build an Unstoppable Team with Voting!\n\n\n\n\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nNov 23, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nThe ‘Check-In’ Ritual: How to Create a Welcoming Meeting Environment\n\n\n\n\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nNov 16, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nGetting started with Innovation Sprints\n\n\n\n\n\n\ninnovation\n\n\nagile\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nNov 9, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nA Scientist’s Guide to Innovation Sprints\n\n\n\n\n\n\ninnovation\n\n\nagile\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nNov 2, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nMy Boss Doesn’t Know What I Do\n\n\n\n\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nOct 26, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nThe Calendar Cure\n\n\n\n\n\n\nproductivity\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nOct 19, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is Innovation?\n\n\n\n\n\n\ninnovation\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nOct 12, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nIs Make the answer to the Reproducible Research Crisis?\n\n\n\n\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nOct 5, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nDecentralized Decision-Making\n\n\n\n\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nSep 28, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nScientist as Surgeon - shift your view and protect your time\n\n\n\n\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nSep 22, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nWhat are Liberating Structures?\n\n\n\n\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nPersonal User Manuals\n\n\n\n\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nJun 22, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nGive people an ‘A’…\n\n\n\n\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nJun 15, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nAgile Coaching Lab - Week 8\n\n\n\n\n\n\nagile\n\n\nreflection\n\n\nleadership\n\n\ncoaching\n\n\n\n\n\n\n\n\n\nApr 14, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nAgile Coaching Lab - Week 7\n\n\n\n\n\n\nagile\n\n\nreflection\n\n\nleadership\n\n\ncoaching\n\n\n\n\n\n\n\n\n\nApr 10, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nAgile Coaching Lab - Week 5\n\n\n\n\n\n\nagile\n\n\nreflection\n\n\nleadership\n\n\ncoaching\n\n\n\n\n\n\n\n\n\nMar 15, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nAgile Decision Records\n\n\n\n\n\n\ninnovation\n\n\nleadership\n\n\nscientific leadership\n\n\nagile\n\n\n\n\n\n\n\n\n\nMar 14, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nAgile Coaching Lab - Week 3\n\n\n\n\n\n\nagile\n\n\nreflection\n\n\nleadership\n\n\ncoaching\n\n\n\n\n\n\n\n\n\nFeb 27, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nA Checklist for Adopting Innovations\n\n\n\n\n\n\ninnovation\n\n\nleadership\n\n\nscientific leadership\n\n\n\n\n\n\n\n\n\nFeb 24, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nAgile Coaching Lab - Week 2\n\n\n\n\n\n\nagile\n\n\nreflection\n\n\nleadership\n\n\ncoaching\n\n\n\n\n\n\n\n\n\nFeb 21, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nAgile Coaching Lab - Week 1\n\n\n\n\n\n\nagile\n\n\nreflection\n\n\nleadership\n\n\ncoaching\n\n\n\n\n\n\n\n\n\nFeb 12, 2023\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nPyDuct - a Data Engineering pipeline in Python\n\n\n\n\n\n\npython\n\n\ncode\n\n\nanalysis\n\n\ndata engineering\n\n\n\n\n\n\n\n\n\nMay 14, 2022\n\n\nDr Robert Johnson\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/voting/index.html",
+    "href": "blog/voting/index.html",
+    "title": "5 Fingers, 1 Team: How to Build an Unstoppable Team with Voting!",
+    "section": "",
+    "text": "Voting is an essential process in any democratic system, and it can be just as effectively applied to decision-making in research teams. In the collaborative hub of a research science team, harnessing the collective intelligence and perspectives of every member is crucial for innovation and problem-solving. I have found that voting is not just as a method of making decisions, but is a tool for promoting diversity of thinking, inclusiveness, problem-solving, embracing change, personal empowerment, and is key to servant leadership style. In this blog i’m going to touch on each of these benefits briefly then describe the two most common voting methods I use with my team."
+  },
+  {
+    "objectID": "blog/voting/index.html#diversity-of-thinking",
+    "href": "blog/voting/index.html#diversity-of-thinking",
+    "title": "5 Fingers, 1 Team: How to Build an Unstoppable Team with Voting!",
+    "section": "Diversity of Thinking",
+    "text": "Diversity of Thinking\nWhen we vote on decisions as a team, we bring together a rich tapestry of perspectives. My team members come from many different countries and scientific disciplines - each member’s input is a valuable piece of the puzzle, and through voting, we can avoid the pitfalls of defaulting to the highest-paid-person (hippo), group-think, and begin to fostering an environment where innovative solutions can flourish through the inclusion of a diversity of worldviews."
+  },
+  {
+    "objectID": "blog/voting/index.html#inclusiveness",
+    "href": "blog/voting/index.html#inclusiveness",
+    "title": "5 Fingers, 1 Team: How to Build an Unstoppable Team with Voting!",
+    "section": "Inclusiveness",
+    "text": "Inclusiveness\nVoting is a great equalizer. It ensures that all voices are heard, from the most junior team member to the most senior, from the quiestest to the loudest. This not only creates a culture of respect and belonging but also ensures that decisions are made with the consideration of diverse voices."
+  },
+  {
+    "objectID": "blog/voting/index.html#problem-solving",
+    "href": "blog/voting/index.html#problem-solving",
+    "title": "5 Fingers, 1 Team: How to Build an Unstoppable Team with Voting!",
+    "section": "Problem Solving",
+    "text": "Problem Solving\nCollaborative decision-making through voting leads to more robust problem-solving. Each team member will have a different view on how to solve a problem and a vote allows them to express their differing oppinion and opesn discussion around their piont of view. This often leading to solutions that are more comprehensive and well-rounded than those devised by me, the team leader, alone."
+  },
+  {
+    "objectID": "blog/voting/index.html#embracing-and-understanding-changes",
+    "href": "blog/voting/index.html#embracing-and-understanding-changes",
+    "title": "5 Fingers, 1 Team: How to Build an Unstoppable Team with Voting!",
+    "section": "Embracing and Understanding Changes",
+    "text": "Embracing and Understanding Changes\nChanges in work and organizational structure are inevitable. By involving the team in voting on decisions - where possible, i am under no illusion that all decision are in our control - members are more likely to understand, embrace, and champion changes that come from those decisions. Voting brings ownership."
+  },
+  {
+    "objectID": "blog/voting/index.html#personal-empowerment",
+    "href": "blog/voting/index.html#personal-empowerment",
+    "title": "5 Fingers, 1 Team: How to Build an Unstoppable Team with Voting!",
+    "section": "Personal Empowerment",
+    "text": "Personal Empowerment\nVoting empowers team members, giving them a say in the team’s direction. This can enhance their commitment to the team’s objectives and increase their satisfaction with their work, as their input has a direct impact on their daily work."
+  },
+  {
+    "objectID": "blog/voting/index.html#servant-leadership",
+    "href": "blog/voting/index.html#servant-leadership",
+    "title": "5 Fingers, 1 Team: How to Build an Unstoppable Team with Voting!",
+    "section": "Servant Leadership",
+    "text": "Servant Leadership\nFinally, the act of voting supports my principle of servant leadership. This is focused around leaders putting their teams first and fostering an environment where members can develop and perform as highly as possible not through command and control but through coaching and mentoring."
+  },
+  {
+    "objectID": "blog/voting/index.html#voting-styles-fist-of-five-and-roman-voting",
+    "href": "blog/voting/index.html#voting-styles-fist-of-five-and-roman-voting",
+    "title": "5 Fingers, 1 Team: How to Build an Unstoppable Team with Voting!",
+    "section": "Voting Styles: Fist of Five and Roman Voting",
+    "text": "Voting Styles: Fist of Five and Roman Voting\nSo how do we integrate these principles into our team’s routine? The two effective and engaging voting styles I have used are: “Fist of Five” and “Roman Voting.”\nThe “Fist of Five” method is a way to gauge consensus. On the count of three team members show fingers to represent their level of agreement - from five fingers for full support to a closed fist for strong opposition. It’s an easy visual way to check in with each team member’s ‘temperature’ on an idea or decision.\nThe second and by far most used by me is “Roman Voting” - a straightforward, binary choice akin to the thumbs up or thumbs down gestures used in movies set in ancient Rome. Again on the count of three people show thumbs up for yes or thumbs down for no. This is particularly effective when we’ve had a team discussion on a topic and then a quick and clear decision is needed. If some people vote differently to the majority we open the floor to them to share their point of view and discuss what they need, but in the end a clear majority rule is the goal without too much prolonged discussion.\nThanks for reading."
+  },
+  {
+    "objectID": "blog/innovation/index.html",
+    "href": "blog/innovation/index.html",
+    "title": "What is Innovation?",
+    "section": "",
+    "text": "“Innovation is free pizza and an unsupervised workshop” - the moment I heard this quote from Saul Griffith’s it captivated me. I am a career scientist and Saul’s statement clearly articulated what innovation and invention means to me. I’ve been trying to communicate this to people i know and work with and until now i don’t think i have succeeded - this blog is my attempt to unravel this quote and to unpack this recipe for creating groundbreaking ideas and innovations."
+  },
+  {
+    "objectID": "blog/innovation/index.html#free-pizza-addressing-foundational-needs",
+    "href": "blog/innovation/index.html#free-pizza-addressing-foundational-needs",
+    "title": "What is Innovation?",
+    "section": "Free Pizza: Addressing Foundational Needs",
+    "text": "Free Pizza: Addressing Foundational Needs\nAs Saul points out, at its core, “free pizza” symbolizes the basics. The necessities like pay, safety, and security being met upfront. This draws parallels with Maslow’s hierarchy of needs, and states that before diving into advanced cognitive work like creativity and innovation, the foundational needs must be met. When scientists aren’t burdened by concerns for their livelihood (i’m looking at you grant/funding cycle and the casualisation of the work force…), they’re better positioned to channel their energies towards innovation. The ‘free pizza’ speaks of creating an environment where such primary needs are addressed, setting the stage for higher-order thinking.\nIt also just means free pizza."
+  },
+  {
+    "objectID": "blog/innovation/index.html#unsupervised-workshop-escaping-bureaucracy-and-red-tape",
+    "href": "blog/innovation/index.html#unsupervised-workshop-escaping-bureaucracy-and-red-tape",
+    "title": "What is Innovation?",
+    "section": "Unsupervised Workshop: Escaping Bureaucracy and Red Tape",
+    "text": "Unsupervised Workshop: Escaping Bureaucracy and Red Tape\nThe “unsupervised workshop” bit paints a picture of a space unburdened by the restrictive oversight of ‘adults’ - for me the ‘adults’, as Saul points out, are bureaucracy, project deadlines, and cumbersome processes. Removing these things promotes an environment of autonomy and encourages the experimentation that leads to mastery.\nIn numerous organizations, layers of bureaucracy and restrictive protocols squash the innovative spirit. The idea of an ‘unsupervised workshop’ emphasizes the need to peel away these layers, giving scientists the leeway to explore ideas without continually navigating the bureaucratic maze or awaiting myriad approvals."
+  },
+  {
+    "objectID": "blog/innovation/index.html#striking-the-balance-between-direction-and-autonomy",
+    "href": "blog/innovation/index.html#striking-the-balance-between-direction-and-autonomy",
+    "title": "What is Innovation?",
+    "section": "Striking the Balance Between Direction and Autonomy",
+    "text": "Striking the Balance Between Direction and Autonomy\nWhile providing a free rein is essential for innovation, a complete lack of any structure at all could lead to disarray and waste in an organisational setting. This is where the challenge lies: in achieving a balance that equips innovators with tools, resources, and a modicum of direction while ensuring they have ample freedom for exploration.\nSo how do we walk this line. Well, Saul’s sentiments offer valuable takeaways for today’s organizations looking to foster creativity and innovation:\n\nPrioritize Basic Needs: Before steering towards innovation, ensure employees’ fundamental concerns, such as fair pay, security, and a harmonious environment, are met. With these in place, minds are liberated to delve into creativity.\nReduce Red Tape: Cultivate environments where people can operate unhampered by stifling procedures or bureaucracy. Permit them to experiment, refine, and fast-track their innovative endeavors without worrying about the need for pre-approval.\nFoster Autonomy within a Shared Vision: While championing the freedom to innovate, also instill a shared vision that aligns individual pursuits with the broader organizational mission."
+  },
+  {
+    "objectID": "blog/innovation/index.html#conclusion",
+    "href": "blog/innovation/index.html#conclusion",
+    "title": "What is Innovation?",
+    "section": "Conclusion",
+    "text": "Conclusion\n\n“Remember kids, the only difference between screwing around and science is writing it down” Alex Jason via Adam Savage\n\nThanks for reading."
+  },
+  {
+    "objectID": "blog/innovation-sprints/index.html",
+    "href": "blog/innovation-sprints/index.html",
+    "title": "A Scientist’s Guide to Innovation Sprints",
+    "section": "",
+    "text": "In today’s fast-paced research environment it’s easy to become so focused on meeting project deadlines that we forget to make time for innovation and creative exploration. This is a trap that i’ve seen many teams fall into over the last decade, even when organizations offer “10% time” for innovation, as many people find it challenging to take time out of their busy weeks to switch into an innovation mindset for 4 hours a week. After grappling with this issue myself, I decided to experiment with some of the tools and techniques I’d learnt as a Scrum Master and ultimately settled on a concept that has improved the way my research team approaches our work: The Innovation Sprint."
+  },
+  {
+    "objectID": "blog/innovation-sprints/index.html#what-is-an-innovation-sprint",
+    "href": "blog/innovation-sprints/index.html#what-is-an-innovation-sprint",
+    "title": "A Scientist’s Guide to Innovation Sprints",
+    "section": "What is an Innovation Sprint?",
+    "text": "What is an Innovation Sprint?\nAn Innovation Sprint is a designated time period - usually 2 weeks - during which team members step back from their regular project work to focus exclusively on exploring innovative ideas and learning new things. During this time, normal project timelines, deadlines, and constraints are put on hold, creating a space for creativity and out-of-the-box thinking. Drawing inspiration from the SAFe IP Sprint, our Innovation Sprint is designed to foster a culture of innovation within a research team, by giving team members the freedom to experiment, learn, and even fail in the pursuit of innovation. This intentional break from the day-to-day project grind is not only a powerful tool for sparking creativity but also provides a valuable opportunity for the team to create a safe, judgment-free, zone for exploring completely new topics and ideas."
+  },
+  {
+    "objectID": "blog/innovation-sprints/index.html#why-i-implemented-innovation-sprints",
+    "href": "blog/innovation-sprints/index.html#why-i-implemented-innovation-sprints",
+    "title": "A Scientist’s Guide to Innovation Sprints",
+    "section": "Why I Implemented Innovation Sprints",
+    "text": "Why I Implemented Innovation Sprints\nWhile targeted project driven work is essential to the type of research I do, it can often become monotonous and draining. I found myself becoming so engrossed in meeting project deliverables and deadlines that I was losing touch with what I loved most about research: innovation, invention, and exploration. The spark of creativity was being buried under piles of project paperwork and endless delivery timelines. It has been truly fascinating to see the team come alive during these sprints, with the usual constraints of project work giving way to a vibrant canvas of ideas and possibilities."
+  },
+  {
+    "objectID": "blog/innovation-sprints/index.html#guidelines-for-a-successful-innovation-sprint",
+    "href": "blog/innovation-sprints/index.html#guidelines-for-a-successful-innovation-sprint",
+    "title": "A Scientist’s Guide to Innovation Sprints",
+    "section": "Guidelines for a Successful Innovation Sprint",
+    "text": "Guidelines for a Successful Innovation Sprint\nWhile Innovation Sprints are meant to be a time of freedom, exploration, and creativity, there are a few guidelines I’ve put in place to ensure that we’re all on the same page and that the organization gets the most out of this experience:\n\nKeep it Relevant - What you choose to do during the Innovation Sprint should be relevant to our organization. While taking a knitting course might be a fun and creative endeavour, let’s save that for the weekend and focus on ideas that can truly benefit our research work/organisation.\nOpting for Regular Work is Okay - I understand that sometimes project work can’t be put on hold, and that’s completely fine. Some people find it difficult to step away from project work and may feel guilty or like they’re neglecting their responsibilities. If you choose to continue with your regular project tasks during the Innovation Sprint, that’s entirely up to you.\nTo Demo or Not to Demo - At the end of the Innovation Sprint, we have a sharing session where we can reflect on the sprint and demo or share what people have been working on. However, I want to make it clear that sharing is not a requirement. The goal of the Innovation Sprint is not to produce a tangible product or new research paper, but rather to give you space to think, innovate, try new things, and even fail fast. The goal is learning and the creative journey, not the destination.\nGet Buy-In from Your Projects - Your project manager and colleagues need to understand and support your team’s decision to step back from project work during the Innovation Sprint. They don’t have to participate in the Sprint with you, but they should respect your team’s decision to take a break from project work every now and again. This can be achieved through open communication, negotiation, and ensuring that everyone is on the same page about the timing of the Innovation Sprint and that these Sprints are factored into the project schedule."
+  },
+  {
+    "objectID": "blog/innovation-sprints/index.html#the-impact-of-innovation-sprints",
+    "href": "blog/innovation-sprints/index.html#the-impact-of-innovation-sprints",
+    "title": "A Scientist’s Guide to Innovation Sprints",
+    "section": "The Impact of Innovation Sprints",
+    "text": "The Impact of Innovation Sprints\nAt the end of our first Innovation Sprint, I asked the team to vote on doing it again or not. The team voted unanimously and emphatically “yes” and the results of the experiment have been remarkable. Not only did the team feel rejuvenated and more motivated, but we also saw a surge of innovative ideas that had been simmering in the background suddenly come to the forefront. These sprints have become our incubators for innovation, providing the much-needed space to nurture and develop ideas that might otherwise have been lost in the sea of project deadlines.\n\n\n\n\n\nMy experience with Innovation Sprints has taught me that while meeting project deadlines is important, it should not come at the expense of innovation and creativity. Intentionally holding space for innovation is crucial to improving overall productivity and motivation and paving the way for sustained growth and research success.\nThanks for reading."
+  },
+  {
+    "objectID": "blog/agile-decision-records/index.html",
+    "href": "blog/agile-decision-records/index.html",
+    "title": "Agile Decision Records",
+    "section": "",
+    "text": "In agile development, teams work in a fast-paced and iterative way, constantly making decisions that impact the project’s progress and direction. As a project evolves, team members often forget why certain decisions were made or what factors were considered during the decision-making process. This lack of documentation can lead to confusion, miscommunication, and mistakes and often gives agile ways of working a bad name.\nTo address this challenge, i’ve taken to using Agile Decision Records (ADR) with my agile teams. An Agile Decision Record is similar to an Architecture Decision Record - commonly used in software architecture to document significant decisions made during development - but focused on decisions made more broadly within agile teams.\nAn ADR is a short statement that captures the rationale and context behind a decision, along with the decision’s outcome. It helps team members understand the reasoning behind a decision, making it easier to make informed decisions in the future. ADRs should be concise, easy to understand, and accessible to all. They should be created at the time the decision is made, or as soon as possible afterward."
+  },
+  {
+    "objectID": "blog/agile-decision-records/index.html#creating-an-adr",
+    "href": "blog/agile-decision-records/index.html#creating-an-adr",
+    "title": "Agile Decision Records",
+    "section": "Creating an ADR",
+    "text": "Creating an ADR\nFirst, identify the decision to be documented. Next, describe the context in which the decision was made, including any relevant information, such as business requirements, technical constraints, and user feedback. Then, explain the options considered, including their advantages and disadvantages. Finally, document the decision made, along with the rationale behind it, and any follow-up actions needed."
+  },
+  {
+    "objectID": "blog/agile-decision-records/index.html#how",
+    "href": "blog/agile-decision-records/index.html#how",
+    "title": "Agile Decision Records",
+    "section": "How?",
+    "text": "How?\nHere’s my working definition and template: - ADR = Agile Decision Records (ADRs) are a riff on the Architectural Decision Record. - AD = An Agile Decision (AD) is a record of our agility and records a justified choice to address a change in our environment. - ASR = An Agility Significant Requirement (ASR) is a requirement that has a measurable effect on a team, team’s direction, the solution, or quality of a solution.\nAn Agile Decision Record (ADR) captures a single AD and its rationale; the collection of ADRs created and maintained in a project constitute its decision log. All these are within the topic of Agile Knowledge Management (AKM)."
+  },
+  {
+    "objectID": "blog/agile-decision-records/index.html#my-template-for-an-adr-has-five-sections",
+    "href": "blog/agile-decision-records/index.html#my-template-for-an-adr-has-five-sections",
+    "title": "Agile Decision Records",
+    "section": "My template for an ADR has five sections:",
+    "text": "My template for an ADR has five sections:\n\nTitle: These documents have names that are short noun phrases. For example, “ADR 1: Deployment on Ruby on Rails 3.0.10” or “ADR 9: Team will single-task not multi-task”\nContext: This section describes the forces at play, including technological, political, social, and project local. These forces are probably in tension, and should be called out as such. The language in this section is value-neutral. It is simply describing facts.\nDecision: This section describes our response to these forces. It is stated in full sentences, with active voice. “We will …”\nStatus: A decision may be “proposed” if the project stakeholders haven’t agreed with it yet, or “accepted” once it is agreed. If a later ADR changes or reverses a decision, it may be marked as “deprecated” or “superseded” with a reference to its replacement.\nConsequences: This section describes the resulting context, after applying the decision. All consequences should be listed here, not just the “positive” ones. A particular decision may have positive, negative, and neutral consequences, but all of them affect the team and project in the future.\n\nI prefer to record ADRs as a set of markdown files in git and pushed to our gitlab instance - that way they have a time stamp and very clear version control but you can keep them anywhere you like really."
+  },
+  {
+    "objectID": "blog/agile-decision-records/index.html#why-bother",
+    "href": "blog/agile-decision-records/index.html#why-bother",
+    "title": "Agile Decision Records",
+    "section": "Why bother?",
+    "text": "Why bother?\nADR’s are particularly useful for agile teams because they promote transparency, accountability, and continuous improvement. They ensure that everyone has a clear understanding of the decisions made, reducing the risk of confusion and miscommunication at all levels. ADRs also allow teams to track progress and evaluate the effectiveness of their decision-making process over time.\nIn conclusion, Agile Decision Records are a valuable tool for agile teams. They provide a light-weight yet structured way to document decisions, ensuring that team members have a clear understanding of the reasoning behind them. This, in turn, leads to better decision-making, improved communication, and a more efficient and effective development process. If you’re working on an agile project, consider using ADRs to help your team stay on track and make informed decisions."
+  },
+  {
+    "objectID": "blog/acl2/index.html",
+    "href": "blog/acl2/index.html",
+    "title": "Agile Coaching Lab - Week 2",
+    "section": "",
+    "text": "So, this is week 2 of the 9th cohort of the Agile Coaching Lab (ACL). We worked through so many activities, readings, techniques and podcasts each week that I just can’t reflect and report on them all - I tried… and failed…. - so I’m going to use these posts to share my wonderings about one or two things we covered in the week - here we go:"
+  },
+  {
+    "objectID": "blog/acl2/index.html#th-cohort-no-more",
+    "href": "blog/acl2/index.html#th-cohort-no-more",
+    "title": "Agile Coaching Lab - Week 2",
+    "section": "9th Cohort No More",
+    "text": "9th Cohort No More\nOne of the exciting things we did this week was to use “consent voting” to decide on a new name and I’m delighted to report that “Cohort 9” is now “urutau”. urutau is a Māori word for adapt which seemed very fitting given much of this cohorts members are on Māori country and agile coaching is all about adapting to your surroundings and environment."
+  },
+  {
+    "objectID": "blog/acl2/index.html#entering-systems-and-the-law-of-raspberry-jam",
+    "href": "blog/acl2/index.html#entering-systems-and-the-law-of-raspberry-jam",
+    "title": "Agile Coaching Lab - Week 2",
+    "section": "Entering Systems and the Law of Raspberry Jam",
+    "text": "Entering Systems and the Law of Raspberry Jam\nPart of this weeks home work was to reflect on what happens when we enter a new organisation or team. Jakub asked us to listen to this conversation between Esther Derby and Viktor Cessan on their podcast The Law of Raspberry Jam.\n\nListen to the episode\n“Entering systems” by The Law Of Raspberry Jam: https://thelawofjam.podbean.com/e/entering-systems-what-to-think-about/\n\nWhat did you learn from this episode?\n\nI learnt that everyone struggles when entering new teams and orgs. That it is okay to have a set of templates/approaches and even super experienced people like Ester Derby do this.\nThat i should be aware of your own personal impact on a new team - what is your own paradigm - and that just by being there you change the team.\nBe aware of the people and the history they have with the org and with the other people.\nHave a dominately systems view in the beginning - try to do this without judgement - try to dig into how the system works and what it is intended to do rather than jump to a conclusion or give in to rumours.\n\n\n\nWhat tools and techniques could you use when you enter new systems?\n\nself reflection of your agenda.\nAsk other teams you’ve worked with how your presence impacted their team.\nSet expectations for yours personally - do you want to experiment with a new method? are you looking for power? What are you trying to make happen?\nAsk what are you paying attention to now?\nExplore mutual grounds prior to entering to get shared understanding and setting expectations.\nWork out what is the mutual ground for you and the org/team - is it ready to do what it thinks it wants.\nWhat do the people care about? what are they trying to achieve?\nIdentify the orgs/teams capabilities - can they do what they want to do?\n\n\n\nWhat impact do you make on the systems you are currently part of?\nWhen I enter a new team, I have observed that I often disrupt parts of the leadership who want to command and control, but that at the same time i tend to gel with nd build team members trust and leadership autonomy.\nI also make a conscious effort to move out of the way of obstacles, blockages or impediments rather than hitting them hard head on. I find that if I let the obstructions go and keep moving forward the system can find an incremental step forward and over time we deal with the obstructions or leave them behind.\n\nThanks for reading."
+  },
+  {
+    "objectID": "blog/pyduct/index.html",
+    "href": "blog/pyduct/index.html",
+    "title": "PyDuct - a Data Engineering pipeline in Python",
+    "section": "",
+    "text": "In Data Science or Data Engineering you constantly hear term “data pipeline”. But there are so many meanings to this term and people often are refering to very specific tools or packages depending on their own background/needs. There are pipelines for pretty much everything and in Python alone I can think of Luigi, Airflow, scikit-learn pipelines, and Pandas pipes just off the top of my head - this article does a good job of helping you understand what is out there.\nIt can be quite confusing especially if you want a simple and agnostic pipeline that you can customize for your specific needs with no bells and whistles or lock-ins to libraries etc. That is where PyDuct comes in. It is for the data engineer who just wants to get stuff done in an ordered and repeatable way.\nPyDuct is a simple data pipeline that automates a chain of transformations performed on some data.\nPyDuct data pipelines are a great way of introducing automation, reproducibility, structure, and flow to your data engineering projects."
+  },
+  {
+    "objectID": "blog/pyduct/index.html#where-to-find-out-more",
+    "href": "blog/pyduct/index.html#where-to-find-out-more",
+    "title": "PyDuct - a Data Engineering pipeline in Python",
+    "section": "Where to find out more:",
+    "text": "Where to find out more:\nPyPi Package: https://pypi.org/project/pyduct/0.0.1/\nGitHub Repo: https://github.com/RobTheOceanographer/pyduct\nDocs: https://robtheoceanographer.github.io/pyduct/\nPyDuct was made by me and Alexander Kozlov and Mohammadreza Khanarmuei\nThanks for reading."
+  },
+  {
+    "objectID": "blog/percentiles-probabilites/index.html",
+    "href": "blog/percentiles-probabilites/index.html",
+    "title": "What are percentiles and probabilites?",
+    "section": "",
+    "text": "I’m just back from an extended summer break - highly recommended - and so to kick things off here’s a little explainer.\nOne thing I am often asked in my work is what is a ‘percentile’ and what is a ‘probability’ and how do they differ, so for my first blog back I thought i’d make it a short one that I can point people to the next time they ask me."
+  },
+  {
+    "objectID": "blog/percentiles-probabilites/index.html#percentiles",
+    "href": "blog/percentiles-probabilites/index.html#percentiles",
+    "title": "What are percentiles and probabilites?",
+    "section": "Percentiles",
+    "text": "Percentiles\nWhen we predict the weather, we don’t just make one forecast, we make a bunch of forecasts to cover many different future possibilities. Percentiles help us describe the forecasts within that bunch. I find it’s best to illustrate this with an example - imagine if we make 100 different weather forecasts of temperature for Melbourne Australia (e.g. from 100 ensemble members). If we line up all 100 forecasts in our bunch from lowest to highest temperature in Melbourne, the ‘25th percentile’ is the forecast that is higher than 25 of them but lower than the other 75 of them. It’s basically a way to find the middle forecasts and see what they are telling us."
+  },
+  {
+    "objectID": "blog/percentiles-probabilites/index.html#probabilities",
+    "href": "blog/percentiles-probabilites/index.html#probabilities",
+    "title": "What are percentiles and probabilites?",
+    "section": "Probabilities",
+    "text": "Probabilities\nProbabilities are a bit easier to grasp. They tell us how likely a particular thing is to happen. Lets continue with our Melbourne example from above but this time we’re forecasting rainfall amounts. If we predict 10mm of rain in 20 out of the 100 forecasts for Melbourne, then we say there’s a 20% chance of 10mm of rain. It’s like making a ‘bet’ on what the rain amount will be, and this number tells us how good that bet is.\nTo sum up - percentiles help us understand what most of our forecast runs are saying, and probabilities tell us how likely it is that a particular thing (like 10mm of rain) will happen.\nThanks for reading."
+  },
+  {
     "objectID": "blog/culture/index.html",
     "href": "blog/culture/index.html",
     "title": "What is Culture and how to change it?",
@@ -200,35 +893,7 @@
     "href": "blog/culture/index.html#building-a-culture",
     "title": "What is Culture and how to change it?",
     "section": "Building a Culture",
-    "text": "Building a Culture\nBuilding and maintaining a culture requires active participation and changes in “how we do things”.\n\nLead by Example: Model the behaviour you expect from your colleagues. Consistency in actions, words, and decisions is crucial.\nExplicit Ways of Working: Transparent, written-down ways of working builds trust and ensures alignment with expectations. This is how culture scales.\nRecognise: Acknowledge and reward people who reflect the desired ways of working and therefore the desired culture. This encourages others to follow suit.\nProvide Support: Create an environment where people feel empowered to improve the way we work - culture can and is set by anyone.\n\nWhile values and strategy provide nice posters for our office walls, culture determines how work actually unfolds long term. By focusing on actions and ways of working that define “how we do things around here”, you can change a culture."
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWhat is Culture and how to change it?\n\n\n\n\n\n\nculture\n\n\nleaership\n\n\n\n\n\n\n\n\n\nJul 1, 2024\n\n\nDr Robert Johnson\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 29, 2024\n\n\nDr Robert Johnson\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "About",
-    "section": "",
-    "text": "Dr Robert Johnson Senior Research Scientist  I’m a senior research scientist leading a team focused on forecast improvement and algorithm development across the Earth sciences — from ocean to atmosphere. My work centres on enhancing the accuracy and usefulness of environmental forecasts through model post-processing, ensemble techniques, and machine learning.  My research background is broad and interdisciplinary, spanning from Antarctic phytoplankton photophysiology and satellite oceanography to AI applications in meteorology. Over the years, I’ve led multi-disciplinary teams of scientists and engineers, working on projects that integrate data science, numerical modelling, and operational systems. I contribute to international collaborations on probabilistic forecasting and post-processing, and my team’s innovations have delivered Australia’s first AI-driven post-processing system for public weather forecasts, replacing legacy statistical methods and modernising the weather forecast provided to millions of Australians.  Beyond research, I’m passionate about ensuring that science delivers real-world impact. I’ve worked with partners across sectors — including aviation, maritime, and emergency management — to make sure our advances support better decisions and safer outcomes. I live in Hobart, Tasmania, and use this blog to share ideas, reflections, and updates from the intersection of science, leadership, and technology."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "RobJohnson.computer",
-    "section": "",
-    "text": "Dr Robert Johnson Senior Research Scientist  I’m a research scientist focused on forecast improvement and algorithm development across the Earth Sciences - from Ocean to Atmosphere. My work bridges numerical modeling, machine learning, and statistical post-processing to make environmental monitoring and forecasting more accurate, reliable, and useful. I also write about scientific leadership, research computing, and how AI is reshaping the way we understand and predict the natural world.  This is my personal website. The views and content expressed here are solely my own and do not represent the positions, policies, or opinions of my employer or any affiliated institutions."
-  },
-  {
-    "objectID": "blog/post-with-code/index.html",
-    "href": "blog/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
+    "text": "Building a Culture\nBuilding and maintaining a culture requires active participation and changes in “how we do things”.\n\nLead by Example: Model the behaviour you expect from your colleagues. Consistency in actions, words, and decisions is crucial.\nExplicit Ways of Working: Transparent, written-down ways of working builds trust and ensures alignment with expectations. This is how culture scales.\nRecognise: Acknowledge and reward people who reflect the desired ways of working and therefore the desired culture. This encourages others to follow suit.\nProvide Support: Create an environment where people feel empowered to improve the way we work - culture can and is set by anyone.\n\nWhile values and strategy provide nice posters for our office walls, culture determines how work actually unfolds long term. By focusing on actions and ways of working that define “how we do things around here”, you can change a culture.\nThanks for reading."
   },
   {
     "objectID": "publications/index.html",

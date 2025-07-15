@@ -1,0 +1,28 @@
+---
+title: "RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts"
+type: "article"
+author: "Trotta, B., Johnson, R., de Burgh-Day, C., Hudson, D., Abellan, E., Canvin, J., Kelly, A., Mentiplay, D., Owen, B. and Whelan, J."
+year: "2025"
+publication: "arXiv"
+# preprint: "https://psyarxiv.com/gqhjr"
+doi: "https://doi.org/10.48550/arXiv.2504.12672"
+# url: "http://www.bom.gov.au/research/publications/researchreports/BRR-092.pdf"
+# materials: "https://osf.io/qu3f6/"
+toc: false
+categories:
+  - post-processing
+  - meteorology
+  - IMPROVER
+  - machine learning
+  - AI
+  - article pre-print
+---
+
+## Citation (Harvard)
+
+> Trotta, B., Johnson, R., de Burgh-Day, C., Hudson, D., Abellan, E., Canvin, J., Kelly, A., Mentiplay, D., Owen, B. and Whelan, J., 2025. Post-processing improves accuracy of Artificial Intelligence weather forecasts. arXiv preprint arXiv:2504.12672.
+
+
+## Abstract
+
+Artificial Intelligence (AI) weather models are now reaching operational-grade performance for some variables, but like traditional Numerical Weather Prediction (NWP) models, they exhibit systematic biases and reliability issues. We test the application of the Bureau of Meteorology's existing statistical post-processing system, IMPROVER, to ECMWF's deterministic Artificial Intelligence Forecasting System (AIFS), and compare results against post-processed outputs from the ECMWF HRES and ENS models. Without any modification to configuration or processing workflows, post-processing yields comparable accuracy improvements for AIFS as for traditional NWP forecasts, in both expected value and probabilistic outputs. We show that blending AIFS with NWP models improves overall forecast skill, even when AIFS alone is not the most accurate component. These findings show that statistical post-processing methods developed for NWP are directly applicable to AI models, enabling national meteorological centres to incorporate AI forecasts into existing workflows in a low-risk, incremental fashion. 

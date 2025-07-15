@@ -1,0 +1,43 @@
+---
+title: "5 Fingers, 1 Team: How to Build an Unstoppable Team with Voting!"
+date: "2023-11-23"
+categories: [leadership, scientific leadership]
+image: "thumbs-up.png"
+---
+Voting is an essential process in any democratic system, and it can be just as effectively applied to decision-making in research teams. In the collaborative hub of a research science team, harnessing the collective intelligence and perspectives of every member is crucial for innovation and problem-solving. I have found that voting is not just as a method of making decisions, but is a tool for promoting diversity of thinking, inclusiveness, problem-solving, embracing change, personal empowerment, and is key to servant leadership style. In this blog i'm going to touch on each of these benefits briefly then describe the two most common voting methods I use with my team.
+
+## Diversity of Thinking
+
+When we vote on decisions as a team, we bring together a rich tapestry of perspectives. My team members come from many different countries and scientific disciplines - each member's input is a valuable piece of the puzzle, and through voting, we can avoid the pitfalls of defaulting to the highest-paid-person (hippo), group-think, and begin to fostering an environment where innovative solutions can flourish through the inclusion of a diversity of worldviews.
+
+## Inclusiveness
+
+Voting is a great equalizer. It ensures that all voices are heard, from the most junior team member to the most senior, from the quiestest to the loudest. This not only creates a culture of respect and belonging but also ensures that decisions are made with the consideration of diverse voices.
+
+## Problem Solving
+
+Collaborative decision-making through voting leads to more robust problem-solving. Each team member will have a different view on how to solve a problem and a vote allows them to express their differing oppinion and opesn discussion around their piont of view. This often leading to solutions that are more comprehensive and well-rounded than those devised by me, the team leader, alone.
+
+## Embracing and Understanding Changes
+
+Changes in work and organizational structure are inevitable. By involving the team in voting on decisions - where possible, i am under no illusion that all decision are in our control - members are more likely to understand, embrace, and champion changes that come from those decisions. Voting brings ownership.
+
+## Personal Empowerment
+
+Voting empowers team members, giving them a say in the team's direction. This can enhance their commitment to the team's objectives and increase their satisfaction with their work, as their input has a direct impact on their daily work.
+
+## Servant Leadership
+
+Finally, the act of voting supports my principle of servant leadership. This is focused around leaders putting their teams first and fostering an environment where members can develop and perform as highly as possible not through command and control but through coaching and mentoring.
+
+![](thumbs-up.png){width=300 fig-align="center"}
+
+## Voting Styles: Fist of Five and Roman Voting
+
+So how do we integrate these principles into our team's routine? The two effective and engaging voting styles I have used are: "Fist of Five" and "Roman Voting."
+
+The _"Fist of Five"_ method is a way to gauge consensus. On the count of three team members show fingers to represent their level of agreement - from five fingers for full support to a closed fist for strong opposition. It's an easy visual way to check in with each team member's 'temperature' on an idea or decision.
+
+The second and by far most used by me is _"Roman Voting"_ - a straightforward, binary choice akin to the thumbs up or thumbs down gestures used in movies set in ancient Rome. Again on the count of three people show thumbs up for yes or thumbs down for no. This is particularly effective when we've had a team discussion on a topic and then a quick and clear decision is needed. If some people vote differently to the majority we open the floor to them to share their point of view and discuss what they need, but in the end a clear majority rule is the goal without too much prolonged discussion.
+
+Thanks for reading.

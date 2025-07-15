@@ -1,0 +1,24 @@
+---
+title: "About"
+image: AntRobertJohnson.jpg
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+<div class="about-link-text">
+**Dr Robert Johnson**<br>
+Senior Research Scientist<br>
+<br>
+I'm a senior research scientist leading a team focused on forecast improvement and algorithm development across the Earth sciences — from ocean to atmosphere. My work centres on enhancing the accuracy and usefulness of environmental forecasts through model post-processing, ensemble techniques, and machine learning.<br>
+<br>
+My research background is broad and interdisciplinary, spanning from Antarctic phytoplankton photophysiology and satellite oceanography to AI applications in meteorology. Over the years, I’ve led multi-disciplinary teams of scientists and engineers, working on projects that integrate data science, numerical modelling, and operational systems. I contribute to international collaborations on probabilistic forecasting and post-processing, and my team’s innovations have delivered Australia’s first AI-driven post-processing system for public weather forecasts, replacing legacy statistical methods and modernising the weather forecast provided to millions of Australians.<br>
+<br>
+Beyond research, I’m passionate about ensuring that science delivers real-world impact. I’ve worked with partners across sectors — including aviation, maritime, and emergency management — to make sure our advances support better decisions and safer outcomes. I live in Hobart, Tasmania, and use this blog to share ideas, reflections, and updates from the intersection of science, leadership, and technology.<br>
+</div>

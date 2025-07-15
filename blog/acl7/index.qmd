@@ -1,0 +1,29 @@
+---
+title: "Agile Coaching Lab - Week 7"
+date: "2023-04-10"
+categories: [agile, reflection, leadership, coaching]
+image: "acl-e.jpeg"
+---
+As part of our reading for the final [Agile Coaching Lab (ACL)](http://www.agilecoachinglab.com/) class next week we were tasked with reading up on the First Follower phenomenon. This is beautifully captured in the video ["First Follower: Leadership Lessons from Dancing Guy"](https://youtu.be/fW8amMCVAJQ):
+
+{{< video https://youtu.be/fW8amMCVAJQ >}}
+
+and so my reflection this week is about the role of the First Follower in agile transformations.
+
+Agile transformations can be daunting, requiring the active participation of every staff member right up to the senior leadership. However, based on my reading and experience in the workplace, the key to success lies in the concept of the first follower. The first follower is a crucial player in creating momentum, generating interest, and building trust in any new approach and are hence so important in agile transformations.
+
+Firstly, the first follower plays a vital role in demonstrating the benefits of the new agile ways of working. They do this by showcasing the positive impact of agile on their work, they help others overcome their initial skepticism and resistance to change. 
+
+Secondly, as they solidify the agile mindset they create a culture of collaboration where everyone is encouraged to work together and share their ideas, leading to more effective problem-solving and better outcomes.
+
+Thirdly, the first follower builds trust by being open and transparent about their experiences in an authentic way. This trust and credibility make it easier for others to follow their lead.
+
+Fourthly, the first follower provides encouragement, guidance, and support to others who are struggling to adapt to a new way of working. This can be invaluable in helping a team or a second team make the transition to agility.
+
+Finally, the first follower helps sustain the agile change by continuing to promote agility and calls other over to adopt the new approach. In doing so, they help embed the change into the organisation's culture, ensuring that the transformation spreads and is sustainable.
+
+In conclusion, the first follower is a critical player in the success of any agile transformation. They create momentum, build trust, and create a culture of collaboration that enables the organisation to achieve it's goals. Therefore, as an agile coach, it is important to identify and support your first followers as they are key to the success of your work.
+
+![](dancingguy.png)
+
+Thanks for reading.

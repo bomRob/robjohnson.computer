@@ -1,0 +1,24 @@
+---
+title: "An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean"
+type: "article"
+author: "Pittman, N.A., Strutton, P.G., Johnson, R. and Matear, R.J.,"
+year: "2019"
+publication: "Journal of Geophysical Research: Oceans"
+# preprint: "https://psyarxiv.com/gqhjr"
+doi: "https://doi.org/10.1029/2019JC015498"
+# materials: "https://osf.io/qu3f6/"
+toc: false
+categories:
+  - oceanography
+  - chlorophyll
+  - remote sensing
+  - article
+---
+
+## Citation (Harvard)
+
+> Pittman, N.A., Strutton, P.G., Johnson, R. and Matear, R.J., 2019. An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean. Journal of Geophysical Research: Oceans, 124(12), pp.9020-9039.
+
+## Abstract
+
+The tropical Pacific Ocean is a globally significant region of climate-driven biogeochemical variability. Satellite ocean color algorithms have been used for over 20 years, providing a substantial historical record of global ocean chlorophyll-a variability. Current chlorophyll algorithms perform better in the tropical Pacific than for the globe. Nevertheless, improvements can be made to produce a robust historical record of chlorophyll variability, which is essential to accurately identify ocean-atmosphere carbon fluxes and long-term trends in ocean productivity. We use a large in situ chlorophyll database to tune empirical ocean color algorithms to reduce bias in the equatorial Pacific. Traditional band ratio chlorophyll algorithms (OCx) perform adequately but exhibit errors at low chlorophyll concentrations. A new algorithm, the Ocean Color Index (OCI; Hu et al., 2012, https://doi.org/10.1029/2011JC007395), is more effective at calculating low chlorophyll concentrations in the mesotrophic tropical Pacific Ocean. Existing ocean color algorithms underestimate tropical Pacific chlorophyll by 5.8%, 14%, and 2% for three satellite ocean color sensors: SeaWiFS, MODIS-Aqua, and MERIS. In this paper, we develop regionally tuned sensor-specific coefficients and blending windows between the OCI to OCx algorithms to reduce systematic biases in the tropical Pacific. We assess cross-sensor consistency to produce robust 21-year time series trends. These updated estimates increase chlorophyll concentrations in open water and decrease around island and warm-pool regions, with implications for our understanding of El Niño-Southern Oscillation driven carbon fluxes and net primary productivity.

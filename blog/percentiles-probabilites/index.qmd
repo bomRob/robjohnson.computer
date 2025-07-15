@@ -1,0 +1,21 @@
+---
+title: "What are percentiles and probabilites?"
+date: "2024-02-27"
+categories: [analysis, data, statistics]
+image: "percentvprob.png"
+---
+I'm just back from an extended summer break - highly recommended - and so to kick things off here's a little explainer.
+
+One thing I am often asked in my work is what is a 'percentile' and what is a 'probability' and how do they differ, so for my first blog back I thought i'd make it a short one that I can point people to the next time they ask me.
+
+## Percentiles
+
+When we predict the weather, we don’t just make one forecast, we make a bunch of forecasts to cover many different future possibilities. Percentiles help us describe the forecasts within that bunch. I find it's best to illustrate this with an example - imagine if we make 100 different weather forecasts of temperature for Melbourne Australia (e.g. from 100 ensemble members). If we line up all 100 forecasts in our bunch from lowest to highest temperature in Melbourne, the '25th percentile' is the forecast that is higher than 25 of them but lower than the other 75 of them. It's basically a way to find the middle forecasts and see what they are telling us.
+
+## Probabilities
+
+Probabilities are a bit easier to grasp. They tell us how likely a particular thing is to happen. Lets continue with our Melbourne example from above but this time we're forecasting rainfall amounts. If we predict 10mm of rain in 20 out of the 100 forecasts for Melbourne, then we say there’s a 20% chance of 10mm of rain. It's like making a 'bet' on what the rain amount will be, and this number tells us how good that bet is.
+
+To sum up - percentiles help us understand what most of our forecast runs are saying, and probabilities tell us how likely it is that a particular thing (like 10mm of rain) will happen.
+
+Thanks for reading.

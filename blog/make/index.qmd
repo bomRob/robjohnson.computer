@@ -1,0 +1,118 @@
+---
+title: "Is Make the answer to the Reproducible Research Crisis?"
+date: "2023-10-05"
+categories: [leadership, scientific leadership]
+image: "make.png"
+---
+[Reproducibility is the backbone of science.](https://www.nature.com/articles/533452a) It's the ability to re-conduct an experiment or piece of research to validate the findings. In the era where every modern researcher leans heavily on software and code, how do we ensure that our in-silico experiments stand true to the age-old principles of the scientific method?
+
+<blockquote>
+
+"Weather and climate science has undergone a computational revolution in recent decades, to the point where all modern research relies heavily on software and code."
+
+[_Irving, D. (2016). A Minimum Standard for Publishing Computational Results in the Weather and Climate Sciences. Bulletin of the American Meteorological Society 97(7) pp. 1149-1158._](https://journals.ametsoc.org/view/journals/bams/97/7/bams-d-15-00010.1.xml)
+
+</blockquote>
+
+Exploring tools that can help me be more reproducible in my own scientific programming has been a recent quest of mine, and one tool has continually stood out - [Make](https://en.wikipedia.org/wiki/Make_(software)).
+
+## Make and Reproducibility
+
+[Make](https://en.wikipedia.org/wiki/Make_software) has been a consistent figure in the realm of software build automation for decades, but it's not just for software developers. Recently, it's gained traction as an instrument for ensuring scientific reproducibility. This is largely driven by its ubiquity across various platforms and huge user community of software engineers making it an easy choice for the scientific community. It's available on almost all Unix-based systems and has been adapted for most others. This accessibility ensures that scientific workflows can be transferred, shared, and executed seamlessly across different computing environments.
+
+In my opinion, what gives Make its edge is the use of 'Makefiles' for dependency tracking. Makefiles are files that describe a workflow and its inputs and outputs and allow Make to track what should be produced by each step in your workflow. This means if a component of your experiment changes, Make will recognize it and execute tasks accordingly, ensuring consistency in results. This feature stands in the frontline of repeatability, a core tenet of the scientific method.
+
+For more on why reproducibility is essential be sure to read: [Irving D (2016). A minimum standard for publishing computational results in the weather and climate sciences. Bulletin of the American Meteorological Society. 97, 1149-1158.](https://journals.ametsoc.org/view/journals/bams/97/7/bams-d-15-00010.1.xml)
+
+Some argue about the unique (weird?) syntax of Make's 'Makefile', but the way I look at it is that it isn't just code to be read by a machine - it’s the documentation of your scientific methodology. It serves as a roadmap, a procedural document that can guide peers and collaborators through your workflow.
+
+I reached out to [Dr. Irving](https://damienirving.github.io/), a name many in the Australian scientific computing realm would recognize, to get some insights on his recommended resources for learning Make. Here are his suggestions:
+
+<blockquote>
+
+Our book delves into Make and its practicality- [https://merely-useful.tech/py-rse/automate.html](https://merely-useful.tech/py-rse/automate.html)
+
+For those more inclined to workshops, the Software Carpentry lesson on Make is invaluable - [http://swcarpentry.github.io/make-novice/](http://swcarpentry.github.io/make-novice/)
+
+Spending a few hours on these resources is a worthy investment - Dr Damien Irving
+
+</blockquote>
+
+Let's delve into a basic example of how to use Make.
+
+## A Simple Introduction to Make
+
+Imagine you have a dataset that you process using a Python script that produces an output file. Let's say the dataset is `data.txt`, the Python script is `process.py`, and the intended output is `output.txt`.
+
+The sequence is straightforward:
+
+1 - Use `process.py` on `data.txt` to produce `output.txt`.
+
+But, to automate this using Make, we'd write a 'Makefile'. Here's a simplified version:
+
+``` 
+output.txt: data.txt process.py
+    python process.py data.txt output.txt
+```
+
+Now, let's break this Makefile down into its component parts:
+
+- `output.txt`: This is the target. It's what you want to produce.
+
+- `data.txt process.py`: These are the dependencies. They are what the target needs to be built.
+
+- `python process.py data.txt output.txt`: This is the command that produces the target from the dependencies.
+
+Once you have this 'Makefile' in place, to process your data, you simply type:
+
+```
+$ make output.txt
+```
+
+Make will then check if `data.txt` or `process.py` have changed since the last time `output.txt` was generated. If they have, it'll run the command to produce a fresh `output.txt`. If not, it'll say `output.txt` is up-to-date, saving you needlessly redoing your analysis and saving you computation time!
+
+Basic Interface:
+
+1. Targets and Dependencies: The general format of a Makefile rule is:
+
+```
+target:dependencies
+    command
+```
+    - `target` is the output you want to produce.
+
+    - `dependencies` are the files needed to produce the target.
+
+    - `command` is the shell command Make will run to produce the target from the dependencies.
+
+2. Variables: You can also set variables for repetitive content. For example:
+
+```
+DATA = data.txt
+SCRIPT = process.py
+OUTPUT = output.txt
+$(OUTPUT): $(DATA) $(SCRIPT)
+    python $(SCRIPT) $(DATA) $(OUTPUT)
+```
+3. Phony Targets: These aren't real files but rather just labels for commands. For instance, to clean up temporary files, you might use:
+```
+.PHONY: clean
+clean:
+    rm -f *.tmp
+```
+And you'd invoke this with:
+```
+$ make clean
+```
+
+For a more detailed look at how this can work check out the resources linked to above, but starting with basic Makefiles like the one above and then diving deeper as you familiarise yourself with its functionalities can enhance your scientific computing prowess significantly. Your friends and relatives will be impressed…
+
+![](make.png){width=300 fig-align="center"}
+
+## Why Make is My Choice
+
+Throughout my exploration - while there are many good and effective tools available - Make stands out due to its reliability and wide acceptance. It's been tried, tested, and proven time and again. Other tools have their merits, but Make's blend of portability, reliability, and efficiency makes it a go-to choice for those serious about conducting reproducible scientific research in this digital age.
+
+In the end, the heart of science lies in its reproducibility. If you're looking to enhance your computational experiments' integrity, I highly recommend giving Make a try. A few hours of investment might just transform your whole approach to scientific computing.
+
+Thanks for reading.

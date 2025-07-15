@@ -1,0 +1,22 @@
+---
+title: "The IMOS “Radiometry Task Team” Final Report"
+type: "article"
+author: "Antoine, D., Schroeder, T., Slivkoff, M., Klonowski, W., Doblin, M., Lovell, J., Boadle, D., Baker, B., Botha, E., Robinson, C., King, E., Fearns, P., Hardman-Mountford, N., Johnson, R., Cherukuru, N., Dekker, A., Malthus, T., Mitchell, R., Thompson, P., Van Ruth, P."
+year: "2017"
+# publication: "Deep Sea Research Part II: Topical Studies in Oceanography"
+# preprint: "https://psyarxiv.com/gqhjr"
+# doi: "https://doi.org/10.1016/j.dsr2.2015.10.002"
+# materials: "https://osf.io/qu3f6/"
+# pdf: "The_IMOS_Radiometry_Task_Team_Final_Repo.pdf"
+url: "https://d1wqtxts1xzle7.cloudfront.net/60527891/IMOS-RTT-final-report-submission-30June201720190908-8184-5hnqua-libre.pdf?1567985885=&response-content-disposition=inline%3B+filename%3DThe_IMOS_Radiometry_Task_Team_Final_Repo.pdf&Expires=1746451909&Signature=XCuXmQyZe~x1E~SmOds3zJvzK~oauP8MDwtDZYgu~ZfRd-e0zz8XMbqtHvCxdK4EFrr~TP1y0yVgV7SMM-vGn03KkzC6AuL37C4rtd0pW9M7Oq0uekTOBwIPK9i8BUIoYBNWrT3068MF5zbMobMA0~q3uc8mBeQaOCBC0TKGrwKFiW0T3HXA9aAYEHDhY6C~k-iBADrO7pfPThOrfUQyA8aQVK4AzYr8n-8p9fkx2UdUqHzYvZShe3z0kPC6sO7QVbWUFmy1WCtN6cJ4LCPb8nHSPYAv7Gxy~T-3M9ntF7NdGoqAOc8C0FkI~tGBi9o9SGg0Rrjr8WnbO4U24BVoNQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"
+toc: false
+categories:
+  - oceanography
+  - remote sensing
+  - chlorophyll
+  - article
+---
+
+## Citation (Harvard)
+
+> Antoine, D., Schroeder, T., Slivkoff, M., Klonowski, W., Doblin, M., Lovell, J., Boadle, D., Baker, B., Botha, E., Robinson, C., King, E., Fearns, P., Hardman-Mountford, N., Johnson, R., Cherukuru, N., Dekker, A., Malthus, T., Mitchell, R., Thompson, P., Van Ruth, P., 2017. The IMOS “Radiometry Task Team”

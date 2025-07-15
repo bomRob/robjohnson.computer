@@ -1,0 +1,39 @@
+---
+title: "Agile Decision Records"
+date: "2023-03-14"
+categories: [innovation, leadership, scientific leadership, agile]
+image: "agile_decision_records.png"
+---
+In agile development, teams work in a fast-paced and iterative way, constantly making decisions that impact the project's progress and direction. As a project evolves, team members often forget why certain decisions were made or what factors were considered during the decision-making process. This lack of documentation can lead to confusion, miscommunication, and mistakes and often gives agile ways of working a bad name.
+
+To address this challenge, i've taken to using Agile Decision Records (ADR) with my agile teams. An Agile Decision Record is similar to an [Architecture Decision Record](https://www.redhat.com/architect/architecture-decision-records) - commonly used in software architecture to document significant decisions made during development - but focused on decisions made more broadly within agile teams.
+
+![](agile_decision_records.png){width=300 fig-align="center"}
+
+An ADR is a short statement that captures the rationale and context behind a decision, along with the decision's outcome. It helps team members understand the reasoning behind a decision, making it easier to make informed decisions in the future. ADRs should be concise, easy to understand, and accessible to all. They should be created at the time the decision is made, or as soon as possible afterward.
+
+## Creating an ADR
+First, identify the decision to be documented. Next, describe the context in which the decision was made, including any relevant information, such as business requirements, technical constraints, and user feedback. Then, explain the options considered, including their advantages and disadvantages. Finally, document the decision made, along with the rationale behind it, and any follow-up actions needed.
+
+## How?
+Here's my working definition and template:
+- **ADR** = Agile Decision Records (ADRs) are a riff on the [Architectural Decision Record](https://www.redhat.com/architect/architecture-decision-records).
+- **AD** = An Agile Decision (AD) is a record of our agility and records a justified choice to address a change in our environment.
+- **ASR** = An Agility Significant Requirement (ASR) is a requirement that has a measurable effect on a team, team's direction, the solution, or quality of a solution.
+
+An Agile Decision Record (ADR) captures a single AD and its rationale; the collection of ADRs created and maintained in a project constitute its decision log. All these are within the topic of Agile Knowledge Management (AKM).
+
+## My template for an ADR has five sections:
+- _Title:_ These documents have names that are short noun phrases. For example, "ADR 1: Deployment on Ruby on Rails 3.0.10" or "ADR 9: Team will single-task not multi-task"
+- _Context:_ This section describes the forces at play, including technological, political, social, and project local. These forces are probably in tension, and should be called out as such. The language in this section is value-neutral. It is simply describing facts.
+- _Decision:_ This section describes our response to these forces. It is stated in full sentences, with active voice. "We will …"
+- _Status:_ A decision may be "proposed" if the project stakeholders haven't agreed with it yet, or "accepted" once it is agreed. If a later ADR changes or reverses a decision, it may be marked as "deprecated" or "superseded" with a  reference to its replacement.
+- _Consequences:_ This section describes the resulting context, after applying the decision. All consequences should be listed here, not just the "positive" ones. A particular decision may have positive, negative, and neutral consequences, but all of them affect the team and project in the future.
+
+I prefer to record ADRs as a set of markdown files in git and pushed to our gitlab instance - that way they have a time stamp and very clear version control but you can keep them anywhere you like really.
+
+## Why bother?
+
+ADR's are particularly useful for agile teams because they promote transparency, accountability, and continuous improvement. They ensure that everyone has a clear understanding of the decisions made, reducing the risk of confusion and miscommunication at all levels. ADRs also allow teams to track progress and evaluate the effectiveness of their decision-making process over time.
+
+In conclusion, Agile Decision Records are a valuable tool for agile teams. They provide a light-weight yet structured way to document decisions, ensuring that team members have a clear understanding of the reasoning behind them. This, in turn, leads to better decision-making, improved communication, and a more efficient and effective development process. If you're working on an agile project, consider using ADRs to help your team stay on track and make informed decisions.

@@ -1,0 +1,47 @@
+---
+title: "My Boss Doesn't Know What I Do"
+date: "2023-10-26"
+categories: [leadership, scientific leadership]
+image: "coffeeshop.png"
+---
+When I first transitioned to remote work in 2016, I quickly realized that the physical distance between my boss and me created a gap in visibility and understanding of what I do every day. It was harder for them to see the day-to-day work I was doing and therefore we easily lost touch on the scope of my responsibilities and the effort I was putting in.
+
+![](coffeeshop.png){width=300 fig-align="center"}
+
+To bridge this gap, I started sending weekly update emails. These emails are not meant to be a comprehensive report, but rather a quick summary of highlights from the past week, a little of what I and my team accomplished, any challenges we've faced. I experiemented with the frequency and over time I've settled on fortnightly status emails as the best bang for buck. I also learnt to make it clear to my boss that they don't need to reply to these emails unless they has questions or concerns so they didn't feel obliged to reply to each and every update.
+
+Here's a template of the email I typically send:
+<blockquote>
+Subject: Fortnightly update
+
+Hi [boss],
+
+Here's some things of note from the last two weeks - you don't need to reply unless you see something I should fix or you want more info on.
+
+Thanks!
+
+[yourname]
+
+Things of note this fortnight:
+
+- I've been working closely with...
+- ...
+- ...
+
+</blockquote>
+
+The benefits of this practice were immediate and significant for me. Here are a few of the ways it has helped me improve working relationships with four different bosses over the years:
+
+- **Increased Visibility** - short update emails give my boss a clear picture of what I'm doing, even though they aren't physically around to see my work. This helped to increase their trust in me and has made me feel more visible, trusted, and understood.
+
+- **Better Communication** - the regular updates have opened up a channel of regular communication between us making my boss more aware of the challenges I'm facing and goals my team and I are kicking..
+
+- **Improved Accountability** - knowing that I'll be sending an update at the end of the fortnight helps to motivate me to track and stay focused on my goals. It also gives me an opportunity to reflect on my ways of working, productivity, and areas for improvement.
+
+- **Increased Opportunities** - by keeping myself and my team in our boss's consciousness regularly, they are more likely to think of us as doing well and to send opportunities our way or respond well when we call for aid.
+
+I've continued this practice for over six years at the time of writing and it has become an integral part of my work routine. Everytime I get a new boss I just start sending short update emails, i don't ask their permission i just do it, and without fail it has been a positive thing. Your boss has their own job to so and there is no way for your boss to know what you do all day - whether you're working remotely or in the office right next to them - so regular communication is key to a successful working relationship, and sending update emails is an easy and effective way to achieve that. 
+
+Be visible or vanish.
+
+Thanks for reading.

@@ -1,0 +1,25 @@
+---
+title: "Three improved satellite chlorophyll algorithms for the Southern Ocean"
+type: "article"
+author: "Johnson, R., Strutton, P.G., Wright, S.W., McMinn, A. and Meiners, K.M."
+year: "2013"
+publication: "Journal of Geophysical Research: Oceans"
+# preprint: "https://psyarxiv.com/gqhjr"
+doi: "https://doi.org/10.1002/jgrc.20270"
+# materials: "https://osf.io/qu3f6/"
+toc: false
+categories:
+  - oceanography
+  - remote sensing
+  - southern ocean
+  - chlorophyll
+  - article
+---
+
+## Citation (Harvard)
+
+> Johnson, R., Strutton, P.G., Wright, S.W., McMinn, A. and Meiners, K.M., 2013. Three improved satellite chlorophyll algorithms for the Southern Ocean. Journal of Geophysical Research: Oceans, 118(7), pp.3694-3703.
+
+## Abstract
+
+Remote sensing of Southern Ocean chlorophyll concentrations is the most effective way to detect large-scale changes in phytoplankton biomass driven by seasonality and climate change. However, the current algorithms for the Sea-viewing Wide Field-of-view Sensor (SeaWiFS, algorithm OC4v6), the Moderate Resolution Imaging Spectroradiometer (MODIS-Aqua, algorithm OC3M), and GlobColour significantly underestimate chlorophyll concentrations at high latitudes. Here, we use a long-term data set from the Southern Ocean (20°–160°E) to develop more accurate algorithms for all three of these products in southern high-latitude regions. These new algorithms improve in situ versus satellite chlorophyll coefficients of determination (r2) from 0.27 to 0.46, 0.26 to 0.51, and 0.25 to 0.27, for OC4v6, OC3M, and GlobColour, respectively, while addressing the underestimation problem. This study also revealed that pigment composition, which reflects species composition and physiology, is key to understanding the reasons for satellite chlorophyll underestimation in this region. These significantly improved algorithms will permit more accurate estimates of standing stocks and more sensitive detection of spatial and temporal changes in those stocks, with consequences for derived products such as primary production and carbon cycling.

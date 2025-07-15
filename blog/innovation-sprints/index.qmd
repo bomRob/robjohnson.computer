@@ -1,0 +1,39 @@
+---
+title: "A Scientist's Guide to Innovation Sprints"
+date: "2023-11-02"
+categories: [innovation, agile, leadership, scientific leadership]
+image: "innovationsprint.png"
+---
+In today's fast-paced research environment it's easy to become so focused on meeting project deadlines that we forget to make time for innovation and creative exploration. This is a trap that i've seen many teams fall into over the last decade, even when organizations offer ["10% time"](https://www.infoq.com/news/2016/10/ten-percent-time-agileotb/) for innovation, as many people find it challenging to take time out of their busy weeks to switch into an innovation mindset for 4 hours a week. After grappling with this issue myself, I decided to experiment with some of the tools and techniques I'd learnt as a [Scrum Master](https://www.scrum.org/resources/what-is-a-scrum-master) and ultimately settled on a concept that has improved the way my research team approaches our work: _The Innovation Sprint_.
+
+> "100% utilization drives unpredictability." _Don Reinertsen_
+
+## What is an Innovation Sprint?
+
+An Innovation Sprint is a designated time period - usually 2 weeks - during which team members step back from their regular project work to focus exclusively on exploring innovative ideas and learning new things. During this time, normal project timelines, deadlines, and constraints are put on hold, creating a space for creativity and out-of-the-box thinking. Drawing inspiration from the [SAFe IP Sprint](https://scaledagileframework.com/innovation-and-planning-iteration/), our Innovation Sprint is designed to foster a culture of innovation within a research team, by giving team members the freedom to experiment, learn, and even fail in the pursuit of innovation. This intentional break from the day-to-day project grind is not only a powerful tool for sparking creativity but also provides a valuable opportunity for the team to create a safe, judgment-free, zone for exploring completely new topics and ideas.
+
+## Why I Implemented Innovation Sprints
+
+While targeted project driven work is essential to the type of research I do, it can often become monotonous and draining. I found myself becoming so engrossed in meeting project deliverables and deadlines that I was losing touch with what I loved most about research: innovation, invention, and exploration. The spark of creativity was being buried under piles of project paperwork and endless delivery timelines. It has been truly fascinating to see the team come alive during these sprints, with the usual constraints of project work giving way to a vibrant canvas of ideas and possibilities.
+
+## Guidelines for a Successful Innovation Sprint
+
+While Innovation Sprints are meant to be a time of freedom, exploration, and creativity, there are a few guidelines I've put in place to ensure that we're all on the same page and that the organization gets the most out of this experience:
+
+- **Keep it Relevant** - What you choose to do during the Innovation Sprint should be relevant to our organization. While taking a knitting course might be a fun and creative endeavour, let's save that for the weekend and focus on ideas that can truly benefit our research work/organisation.
+
+- **Opting for Regular Work is Okay** - I understand that sometimes project work can't be put on hold, and that's completely fine. Some people find it difficult to step away from project work and may feel guilty or like they're neglecting their responsibilities. If you choose to continue with your regular project tasks during the Innovation Sprint, that's entirely up to you.
+
+- **To Demo or Not to Demo** - At the end of the Innovation Sprint, we have a sharing session where we can reflect on the sprint and demo or share what people have been working on. However, I want to make it clear that sharing is not a requirement. The goal of the Innovation Sprint is not to produce a tangible product or new research paper, but rather to give you space to think, innovate, try new things, and even fail fast. The goal is learning and the creative journey, not the destination.
+
+- **Get Buy-In from Your Projects** - Your project manager and colleagues need to understand and support your team's decision to step back from project work during the Innovation Sprint. They don’t have to participate in the Sprint with you, but they should respect your team's decision to take a break from project work every now and again. This can be achieved through open communication, negotiation, and ensuring that everyone is on the same page about the timing of the Innovation Sprint and that these Sprints are factored into the project schedule.
+
+## The Impact of Innovation Sprints
+
+At the end of our first Innovation Sprint, I asked the team to vote on doing it again or not. The team voted unanimously and emphatically "yes" and the results of the experiment have been remarkable. Not only did the team feel rejuvenated and more motivated, but we also saw a surge of innovative ideas that had been simmering in the background suddenly come to the forefront. These sprints have become our incubators for innovation, providing the much-needed space to nurture and develop ideas that might otherwise have been lost in the sea of project deadlines.
+
+![](innovationsprint.png){width=300 fig-align="center"}
+
+My experience with Innovation Sprints has taught me that while meeting project deadlines is important, it should not come at the expense of innovation and creativity. Intentionally holding space for innovation is crucial to improving overall productivity and motivation and paving the way for sustained growth and research success.
+
+Thanks for reading.

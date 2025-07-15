@@ -1,0 +1,27 @@
+---
+title: "An initial benchmarking of IMPROVER – Part 2: evaluation of precipitation diagnostics"
+type: "article"
+author: "Trotta, B., Canvin, J., Gale, T., Hume, T., Johnson, R., Liu, J., Mentiplay, D., Owen, B., Schubert, A., Weymouth, G., Whelan, J."
+year: "2024"
+publication: "Bureau of Meteorology Research Report"
+# preprint: "https://psyarxiv.com/gqhjr"
+# doi: "https://doi.org/10.1002/jgrc.20270"
+url: "http://www.bom.gov.au/research/publications/researchreports/BRR-093.pdf"
+# materials: "https://osf.io/qu3f6/"
+toc: false
+categories:
+  - post-processing
+  - meteorology
+  - IMPROVER
+  - research report
+---
+
+## Citation (Harvard)
+
+> Trotta, B., Canvin, J., Gale, T., Hume, T., Johnson, R., Liu, J., Mentiplay, D., Owen, B., Schubert, A., Weymouth, G., Whelan, J. 2024. An initial benchmarking of IMPROVER – Part 2: evaluation of precipitation diagnostics. Bureau Research Report No. 093
+
+
+
+## Abstract
+
+For over a decade, the Gridded Operational Consensus Forecast (GOCF) system has been the Bureau’s post-processing platform and over that time it has become an essential element in the forecast production process. Nevertheless, GOCF is a primarily a deterministic framework, both in the input models it uses and in the outputs it produces (with the exception of the GOCF rainfall forecast). As Ensemble Prediction Systems (EPS) become the global standard for numerical weather prediction (NWP), it is essential for the Bureau’s post-processing capability to leverage EPS models and to transition to a probabilistic framework for all outputs. Therefore, the Bureau has adopted the IMPROVER (Integrated Model post-PROcessing and VERification) system as the successor to GOCF. IMPROVER, a project started at the UK Met Office and now developed in partnership with the Bureau, is a post-processing platform designed to use EPS and is a fully probabilistic framework, both in the post-processing techniques and in the outputs it produces. This research report describes the modelling approach for RainForests, the Bureau’s new machine-learning rainfall calibration methodology within IMPROVER. RainForests is one of the Bureau’s major contributions to the IMPROVER partnership. This is the second in a pair of research reports that benchmarks IMPROVER Release 5 diagnostics against GOCF. This report presents a summary of IMPROVER Release 5 precipitation diagnostics and benchmarks against GOCF; a summary and benchmark of non-precipitation diagnostics can be found in a separate companion report Owen et al. (2024). Release 5 of IMPROVER using RainForests makes significant accuracy gains when compared to the GOCF rainfall calibration. In particular, the 3-hour forecast has approximately one additional day of skill, and its consistency with the daily forecast is greatly improved.

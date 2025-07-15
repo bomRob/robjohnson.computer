@@ -1,0 +1,42 @@
+---
+title: "Agile Coaching Lab - Week 2"
+date: "2023-02-21"
+categories: [agile, reflection, leadership, coaching]
+image: "acl-e.jpeg"
+---
+So, this is week 2 of the 9th cohort of the [Agile Coaching Lab (ACL)](http://www.agilecoachinglab.com/). We worked through so many activities, readings, techniques and podcasts each week that I just can't reflect and report on them all - I tried... and failed.... - so I'm going to use these posts to share my wonderings about one or two things we covered in the week - here we go:
+
+## 9th Cohort No More
+One of the exciting things we did this week was to use "consent voting" to decide on a new name and I'm delighted to report that "Cohort 9" is now _"urutau"_. _urutau_ is a Māori word for adapt which seemed very fitting given much of this cohorts members are on Māori country and agile coaching is all about adapting to your surroundings and environment.
+
+## Entering Systems and the Law of Raspberry Jam
+Part of this weeks home work was to reflect on what happens when we enter a new organisation or team. [Jakub](https://www.linkedin.com/in/jakubjurkiewicz/) asked us to listen to this conversation between [Esther Derby](https://www.estherderby.com/) and [Viktor Cessan](https://www.viktorcessan.com/) on their podcast [The Law of Raspberry Jam](https://thelawofjam.podbean.com/).
+
+### Listen to the episode
+"Entering systems" by The Law Of Raspberry Jam: https://thelawofjam.podbean.com/e/entering-systems-what-to-think-about/
+
+#### What did you learn from this episode?
+- I learnt that everyone struggles when entering new teams and orgs. That it is okay to have a set of templates/approaches and even super experienced people like Ester Derby do this.
+- That i should be aware of your own personal impact on a new team - what is your own paradigm - and that just by being there you change the team.
+- Be aware of the people and the history they have with the org and with the other people.
+- Have a dominately systems view in the beginning - try to do this without judgement - try to dig into how the system works and what it is intended to do rather than jump to a conclusion or give in to rumours.
+
+#### What tools and techniques could you use when you enter new systems?
+- self reflection of your agenda.
+- Ask other teams you've worked with how your presence impacted their team.
+- Set expectations for yours personally - do you want to experiment with a new method? are you looking for power? What are you trying to make happen?
+- Ask what are you paying attention to now?
+- Explore mutual grounds prior to entering to get shared understanding and setting expectations.
+- Work out what is the mutual ground for you and the org/team - is it ready to do what it thinks it wants.
+- What do the people care about? what are they trying to achieve?
+- Identify the orgs/teams capabilities - can they do what they want to do?
+
+#### What impact do you make on the systems you are currently part of?
+When I enter a new team, I have observed that I often disrupt parts of the leadership who want to command and control, but that at the same time i tend to  gel with nd build team members trust and leadership autonomy.
+
+
+I also make a conscious effort to move out of the way of obstacles, blockages or impediments rather than hitting them hard head on. I find that if I let the obstructions go and keep moving forward the system can find an incremental step forward and over time we deal with the obstructions or leave them behind.
+
+<img src="acl-e.jpeg" alt="acl logo" class="center">
+
+Thanks for reading.

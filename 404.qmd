@@ -1,0 +1,14 @@
+---
+title: "404 – Page Not Found"
+permalink: /404.html
+---
+
+Sorry, the page you're looking for doesn't seem to exist.
+
+Maybe the forecast shifted, the model diverged, or the URL was just mistyped. Either way, there's no content here.
+
+<a href="www.robjohnson.computer">Return to the homepage.</a>
+
+---
+
+> *“Not all those who wander are lost – but this page definitely is.”*

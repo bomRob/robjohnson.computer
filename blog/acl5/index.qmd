@@ -1,0 +1,47 @@
+---
+title: "Agile Coaching Lab - Week 5"
+date: "2023-03-15"
+categories: [agile, reflection, leadership, coaching]
+image: "acl-e.jpeg"
+---
+As part of the [Agile Coaching Lab (ACL)](http://www.agilecoachinglab.com/) homework this week we were asked to read the work of Daniel Mezick on Agile Coaching Lessons and reflect on what we learnt and what we could use in our leadership/coaching.
+
+So, here are the links to the blog posts:
+
+- Signal That You Have No Authority [https://newtechusa.net/signal-that-you-have-no-authority/](https://newtechusa.net/signal-that-you-have-no-authority/)
+
+- Positioning Is Signaling [https://newtechusa.net/positioning-is-signaling/](https://newtechusa.net/positioning-is-signaling/)
+
+- Use Your Body When Facilitating [https://newtechusa.net/use-your-body-when-facilitating/](https://newtechusa.net/use-your-body-when-facilitating/)
+
+- Invite Facilitation [https://newtechusa.net/invite-facilitation/](https://newtechusa.net/invite-facilitation/)
+
+## Here is my reflection:
+As agile methodologies gain popularity the role of an agile coach becomes increasingly crucial. Daniel Mezick, a renowned agile coach, has imparted several valuable lessons on the coaching process through his Blog series on [https://newtechusa.net](https://newtechusa.net). This post reflects on Mezick's coaching philosophy and highlight the significant points that I found interesting or useful.
+
+Mezick emphasizes the need for coaches to facilitate rather than teach. He points out the need for coaches to signal that they have no authority over the team. Coaches must make it clear that they are not there to make decisions or impose solutions on the team. Instead, coaches should act as a guide, facilitating the team's decision-making process and empowering them to take ownership of their work. By signalling their lack of authority, coaches can build trust and establish a more collaborative relationship with the team, leading to better outcomes.
+
+In "Signal That You Have No Authority," Mezick emphasizes the need for coaches to make it clear that they are not there to make decisions or impose solutions on the team, but rather to facilitate the team's decision-making process and empower them to take ownership of their work.
+
+In "Positioning Is Signaling," Mezick highlights the importance of positioning as a form of signalling, both in terms of how coaches position themselves physically in the room and how they position themselves in relation to the team. By being mindful of their positioning, coaches can create a more positive and collaborative coaching relationship with the team.
+
+For example, if the coach positions themselves at the head of the table, they may unconsciously signal that they are in charge and that team members should defer to their authority. Alternatively, if the coach positions themselves at the back of the room near the door, they signal that they are there to support the team and encourage collaboration. By being mindful of their physical positioning, coaches can signal their intentions to the team and establish a more positive and collaborative coaching relationship. Additionally, he points out that "if you occupy any of those seats at the front of the room, you miss a wonderful chance to see who chooses to occupy them. By leaving them empty, you can see what develops. You can see who considers themselves to be authority in this social space."
+
+In "Use Your Body When Facilitating," Mezick stresses the importance of using body language and physical movements to encourage participation from the team and create a more engaging and productive coaching relationship. For example, if the coach notices that one team member is dominating the conversation, they can lean towards another team member to signal that it's their turn to speak. Similarly, the coach can use eye contact and nods to signal agreement or disagreement with the team's ideas.
+
+Using your body and body language in this way can help to create a more open and collaborative environment where everyone's contributions are valued. Additionally, it can help the coach to read the room and adjust their facilitation approach as needed. By using their body when facilitating, coaches can create a more engaging and productive coaching relationship with the team.
+
+Interestingly Mezick points out "the following forms & actions are authoritative in nature:"
+- Standing when the others are seated
+- Documenting the goings-on (white board or flip chart or notes)
+- Pointing your finger
+- Sitting or standing deep in the room, facing the door
+- Being dressed a little better than the ambient level of dress in the room
+
+He suggests avoiding them when you want to “be background.” And to use them when you want to “be foreground.” And that during the span of a typical meeting, you are typically oscillating between these two extremes.
+
+In "Invite Facilitation," Mezick encourages coaches to invite members of the wider organization to take turns facilitating different aspects of the discussion. This approach helps to build a sense of ownership and engagement within the organization, leading to more productive and collaborative discussions, and promotes a culture of open communication and collaboration where everyone's contributions are valued.
+
+In conclusion, Mezick's agile coaching philosophy focuses on facilitation through creating a safe environment, using your body as a coaching tool, continuous learning, and adaptation, and coaching and engaging all levels of an organization. By implementing Mezick's lessons, organizations and coaches can build a culture of agility and adaptability, allowing them to succeed in building great things and in being a great place to work.
+
+Thanks for reading.

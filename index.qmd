@@ -1,0 +1,27 @@
+---
+about:
+  template: trestles
+  image: RobertJohnson.jpg
+  links:
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=E5WF6egAAAAJ&hl=en
+    - text: "{{< fa brands bluesky >}}"
+      href: https://bsky.app/profile/robjohnson.bsky.social
+    - text: "{{< fa brands github >}}"
+      href: https://github.com/bomRob
+    # - text: "{{< ai cv >}}"
+    #   href: https://cdn.jsdelivr.net/gh/robjhyndman/CV@main/RobHyndmanCV.pdf
+    - text: "{{< fa envelope >}}"
+      href: mailto:robtheoceanogrpaher@gmail.com
+---
+
+<div class="about-link-text">
+**Dr Robert Johnson**<br>
+Senior Research Scientist<br>
+<br>
+I'm a research scientist focused on forecast improvement and algorithm development across the Earth Sciences - from Ocean to Atmosphere. My work bridges numerical modeling, machine learning, and statistical post-processing to make environmental monitoring and forecasting more accurate, reliable, and useful. I also write about scientific leadership, research computing, and how AI is reshaping the way we understand and predict the natural world.<br>
+<br>
+This is my personal website. The views and content expressed here are solely my own and do not represent the positions, policies, or opinions of my employer or any affiliated institutions.<br>
+</div>
+
+

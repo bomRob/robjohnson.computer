@@ -1,0 +1,26 @@
+---
+title: "Antarctic krill lipid and fatty acid content variability is associated to satellite derived chlorophyll a and sea surface temperatures"
+type: "article"
+author: "Hellessey, N., Johnson, R., Ericson, J.A., Nichols, P.D., Kawaguchi, S., Nicol, S., Hoem, N. and Virtue, P."
+year: "2020"
+publication: "Nature Scientific Reports"
+# preprint: "https://psyarxiv.com/gqhjr"
+doi: "https://doi.org/10.1038/s41598-020-62800-7"
+# materials: "https://osf.io/qu3f6/"
+toc: false
+categories:
+  - oceanography
+  - remote sensing
+  - southern ocean
+  - chlorophyll
+  - zooplankton
+  - article
+---
+
+## Citation (Harvard)
+
+> Hellessey, N., Johnson, R., Ericson, J.A., Nichols, P.D., Kawaguchi, S., Nicol, S., Hoem, N. and Virtue, P., 2020. Antarctic krill lipid and fatty acid content variability is associated to satellite derived chlorophyll a and sea surface temperatures. Scientific Reports, 10(1), p.6060.
+
+## Abstract
+
+Antarctic krill (Euphausia superba) are a key component of the Antarctic food web with considerable lipid reserves that are vital for their health and higher predator survival. Krill lipids are primarily derived from their diet of plankton, in particular diatoms and flagellates. Few attempts have been made to link the spatial and temporal variations in krill lipids to those in their food supply. Remotely-sensed environmental parameters provide large-scale information on the potential availability of krill food, although relating this to physiological and biochemical differences has only been performed on small scales and with limited samples. Our study utilised remotely-sensed data (chlorophyll a and sea surface temperature) coupled with krill lipid data obtained from 3 years of fishery-derived samples. We examined within and between year variation of trends in both the environment and krill biochemistry data. Chlorophyll a levels were positively related to krill lipid levels, particularly triacylglycerol. Plankton fatty acid biomarkers analysed in krill (such as n-3 polyunsaturated fatty acids) increased with decreasing sea surface temperature and increasing chlorophyll a levels. Our study demonstrates the utility of combining remote-sensing and biochemical data in examining biological and physiological relationships between Antarctic krill and the Southern Ocean environment.
