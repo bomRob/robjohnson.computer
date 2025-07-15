@@ -1,7 +1,7 @@
 ---
 title: "How to calibrate a Turner Fluorometer for phytoplankton Chlorophyll a"
 date: "2014-12-01"
-categories: [data, chlorophyll, phytoplankton]
+categories: [data, chlorophyll, phytoplankton, oceanography]
 image: "turner.jpeg"
 ---
 
