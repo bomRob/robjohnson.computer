@@ -25,7 +25,8 @@ The "considered no" isn't reactive. It's a deliberate, structured process - one 
 When you approach decisions this way, the 'no' (if it turns out to be one) still honours the request. It says to the asker: "This matters and i've taken it seriously."
 
 Let's look at a practical example. Suppose you're asked to drop into an urgent project that sits outside your current scope of work. Rather than a flat-out 'no', a considered response might look like:
->"I can see why this analysis is important. Would it be okay if we map it against our current priorities together? Right now, i'm focused on delivering [X], which supports [Y (hopefully a user, project, or mission)], and if I switch now we might be delaying [Z]. Is that okay or could another team/person be better placed for this? Or perhaps I could return to it once [X] is out the door?"
+
+> "I can see why this analysis is important. Would it be okay if we map it against our current priorities together? Right now, i'm focused on delivering [X], which supports [Y (hopefully a user, project, or mission)], and if I switch now we might be delaying [Z]. Is that okay or could another team/person be better placed for this? Or perhaps I could return to it once [X] is out the door?"
 
 It helps to do this in a visible way with the asker as soon as possible - a whiteboard, shared doc, whatever works for where you are. The act of mapping trade-offs _together_ shifts the dynamic. The asker leaves knowing that you've listened and that their needs were actually taken seriously.
 
