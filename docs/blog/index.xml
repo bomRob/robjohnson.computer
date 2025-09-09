@@ -10,7 +10,44 @@
 <atom:link href="http://robjohnson.computer/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog posts by Dr Robert Johnson</description>
 <generator>quarto-1.6.43</generator>
-<lastBuildDate>Sun, 30 Jun 2024 14:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 09 Sep 2025 14:00:00 GMT</lastBuildDate>
+<item>
+  <title>The Considered ‘No’</title>
+  <dc:creator>Dr Robert Johnson</dc:creator>
+  <link>http://robjohnson.computer/blog/considered-no/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>In a recent mentoring chat, someone asked me “How do you say no without pissing people off?”. It’s a good question - and i’m finding a common one. It reminded me of a concept I first came across through the wonderful coach <a href="https://www.linkedin.com/in/leah-sertori-87154021/">Leah Sertori</a>: the “Considered No”. I’m sharing my flavour of it here in case it’s useful to you too.</p>
+<p>In the applied sciences urgent requests come with the territory. Colleagues want input, managers present you with new opportunities, users are chasing answers to today’s urgent problem. If you’re doing meaningful work in this space you’ll never lack for things to do or to say yes to.</p>
+<p>And of course, we all want to help. We care about being useful and doing useful work. But here’s the thing: every ‘yes’ comes at a cost. Say ‘yes’ too often and you will find your actual core work - the work you’re uniquely placed to do - start slipping off the radar.</p>
+<p>The trap is subtle but real. Saying ‘yes’ feels like collaboration. It feels like the right thing to do. But over time, it dilutes our focus and fragments the intent behind your science. A couple of short tasks here, an “quick” analysis there, and a month later your actual research work hasn’t moved.</p>
+<p>There’s a better way. Not a hard NO - but a considered one.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://robjohnson.computer/blog/considered-no/considered_venn.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="300"></p>
+</figure>
+</div>
+<p>The “considered no” isn’t reactive. It’s a deliberate, structured process - one that weighs the requests across three critical dimensions: - Work program: What are the deliverables and priorities you are already committed to? - Strategic alignment: How does this fit into broader goals - yours, the team’s, the organisation’s? - Relationships: What’s the best way to maintain trust, both with the person asking and the users you’re ultimately serving?</p>
+<p>When you approach decisions this way, the ‘no’ (if it turns out to be one) still honours the request. It says to the asker: “This matters and i’ve taken it seriously.”</p>
+<p>Let’s look at a practical example. Suppose you’re asked to drop into an urgent project that sits outside your current scope of work. Rather than a flat-out ‘no’, a considered response might look like: &gt;“I can see why this analysis is important. Would it be okay if we map it against our current priorities together? Right now, i’m focused on delivering [X], which supports [Y (hopefully a user, project, or mission)], and if I switch now we might be delaying [Z]. Is that okay or could another team/person be better placed for this? Or perhaps I could return to it once [X] is out the door?”</p>
+<p>It helps to do this in a visible way with the asker as soon as possible - a whiteboard, shared doc, whatever works for where you are. The act of mapping trade-offs <em>together</em> shifts the dynamic. The asker leaves knowing that you’ve listened and that their needs were actually taken seriously.</p>
+<p>When you practise the Considered No it: - respects the person and their request - protects focus on high-impact work - keeps effort aligned with strategy/priorities - builds trust through transparency - fosters a culture where saying ‘yes’ signals an actual commitment - not just willingness or helpfulness.</p>
+<p>This isn’t about stonewalling or hiding behind busyness. It’s about stewardship - of time, of trust, of your mission. A ‘considered no’ is, in fact, an invitation: Let’s think through this together. Sometimes the answer is ‘yes’. Sometimes not. But either way, it’s intentional.</p>
+<p>Thanks for reading.</p>
+
+
+
+ ]]></description>
+  <category>leadership</category>
+  <category>scientific leadership</category>
+  <guid>http://robjohnson.computer/blog/considered-no/</guid>
+  <pubDate>Tue, 09 Sep 2025 14:00:00 GMT</pubDate>
+  <media:content url="http://robjohnson.computer/blog/considered-no/considered_venn.png" medium="image" type="image/png" height="133" width="144"/>
+</item>
 <item>
   <title>What is Culture and how to change it?</title>
   <dc:creator>Dr Robert Johnson</dc:creator>
@@ -1018,89 +1055,6 @@ clean:
   <guid>http://robjohnson.computer/blog/giving-an-a/</guid>
   <pubDate>Wed, 14 Jun 2023 14:00:00 GMT</pubDate>
   <media:content url="http://robjohnson.computer/blog/giving-an-a/givingA.png" medium="image" type="image/png" height="144" width="144"/>
-</item>
-<item>
-  <title>Agile Coaching Lab - Week 8</title>
-  <dc:creator>Dr Robert Johnson</dc:creator>
-  <link>http://robjohnson.computer/blog/acl8/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>As the <a href="http://www.agilecoachinglab.com/">Agile Coaching Lab (ACL)</a> draws to a close, I am filled with a sense of happiness and gratitude for being part of this beautiful cohort. ACL is a transformative program has allowed me to gain a deep understanding of coaching and leadership methodologies, principles, and the vital role of a coach in guiding people, teams, and organisations towards success. It also gave me a mirror through which i could reflect on myself, my paradigms, my biases, and my ambitions.</p>
-<p>The lab sessions were led by <a href="https://www.linkedin.com/in/jakubjurkiewicz/">Jakub</a> but the weekly group work activities provided a unique opportunity for me to engage with a cohort of diverse and talented leaders in the field of Agility. Through the interactive sessions and group discussions, I was able to explore different scenarios, techniques, and challenges that coaches face and to learn from the experiences and advice of my fellow participants.</p>
-<p>In my journey through the Agile Coaching Lab, I have come to appreciate the importance of trusting yourself and your coachees and of continuous learning and growth as a coach. The field of Agile coaching is ever-evolving, and by the end of the lab there was a general feeling that world of Agile coaching is merging into the world of personal/general coaching more broadly and so staying up-to-date with the latest trends and best practices is crucial to ensure that we can provide the best guidance and support to our coachees.</p>
-<p>Some prompts provided by <a href="https://www.linkedin.com/in/jakubjurkiewicz/">Jakub</a> for our reflection were:</p>
-<section id="what-is-the-one-thing-that-you-learned-and-now-believe-every-agile-coach-should-know" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-the-one-thing-that-you-learned-and-now-believe-every-agile-coach-should-know">What is the one thing that you learned and now believe every agile coach should know?</h2>
-<p>You will doubt yourself, you will doubt the techniques you read or learn about, and you will doubt if these techniques even work - be brave and just go for it. Your doubts are a reflection of yourself not the techniques nor of your coachees. Embrace your mindset of experimentation and try it, fail together, learn and try again. It is scary but you will be okay.</p>
-</section>
-<section id="what-are-the-things-that-you-have-already-tried" class="level2">
-<h2 class="anchored" data-anchor-id="what-are-the-things-that-you-have-already-tried">What are the things that you have already tried?</h2>
-<p>Check in - I got my teams to start checking in and it totally changed the dynamic of meetings and attention.</p>
-<p>“And What Else” - i use this a lot more than i expected. i’ve started to see opportunities to ask this every day.</p>
-</section>
-<section id="what-are-the-things-you-learned-about-yourself" class="level2">
-<h2 class="anchored" data-anchor-id="what-are-the-things-you-learned-about-yourself">What are the things you learned about yourself?</h2>
-<p>The imposter syndrome is strong with me - I am quite hard on myself and I should be kinder to myself.</p>
-</section>
-<section id="what-are-the-things-you-learned-from-the-collaboration-with-others" class="level2">
-<h2 class="anchored" data-anchor-id="what-are-the-things-you-learned-from-the-collaboration-with-others">What are the things you learned from the collaboration with others?</h2>
-<p>Everyone is trying their best to do the right thing. They are all trying to thrive in the forest and that given the right conditions they will thrive. I just try to help them discover what those conditions are… This comes from a poem <a href="https://www.linkedin.com/in/jakubjurkiewicz/">Jakub</a> shared with us:</p>
-<blockquote class="blockquote">
-<p>When you go out into the woods and you look at trees,</p>
-<p>you see all these different trees.</p>
-<p>And some of them are bent, and some of them are straight,</p>
-<p>and some of them are evergreens, and some of them are whatever.</p>
-<p>And you look at the tree and you allow it.</p>
-<p>You appreciate it.</p>
-<p>You see why it is the way it is.</p>
-<p>You sort of understand that it didn’t get enough light,</p>
-<p>and so it turned that way.</p>
-<p>And you don’t get all emotional about it.</p>
-<p>You just allow it.</p>
-<p>You appreciate the tree.</p>
-<p>The minute you get near humans, you lose all that.</p>
-<p>And you are constantly saying,</p>
-<p>‘You’re too this, or I’m too this.’</p>
-<p>That judging mind comes in.</p>
-<p>And so I practice turning people into trees.</p>
-<p>Which means appreciating them just the way they are</p>
-</blockquote>
-<p><em>Ram Dass - <a href="https://www.ramdass.org/ram-dass-on-self-judgement/">https://www.ramdass.org/ram-dass-on-self-judgement/</a></em></p>
-</section>
-<section id="what-do-you-want-to-keep-doing" class="level2">
-<h2 class="anchored" data-anchor-id="what-do-you-want-to-keep-doing">What do you want to keep doing?</h2>
-<p>Blogging.</p>
-</section>
-<section id="what-are-the-things-that-you-are-afraid-to-try" class="level2">
-<h2 class="anchored" data-anchor-id="what-are-the-things-that-you-are-afraid-to-try">What are the things that you are afraid to try?</h2>
-<p>Failing, wasting people’s time, looking foolish…</p>
-</section>
-<section id="what-do-you-want-to-stop-doing" class="level2">
-<h2 class="anchored" data-anchor-id="what-do-you-want-to-stop-doing">What do you want to stop doing?</h2>
-<p>Hesitating.</p>
-</section>
-<section id="what-is-your-north-star" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-your-north-star">What is your north star?</h2>
-<p>Care personally - challenge directly.</p>
-<p><img src="http://robjohnson.computer/blog/acl8/trees.png" class="img-fluid"></p>
-<p>Overall, participating in the Agile Coaching Lab has been an enriching experience that has transformed my understanding of coaching, teaching, and leadership. The knowledge and insights I have gained will undoubtedly assist me on my journey as a leader and coach, and I am excited to continue learning and growing in this dynamic field.</p>
-<p>Thanks for reading.</p>
-
-
-</section>
-
- ]]></description>
-  <category>agile</category>
-  <category>reflection</category>
-  <category>leadership</category>
-  <category>coaching</category>
-  <guid>http://robjohnson.computer/blog/acl8/</guid>
-  <pubDate>Thu, 13 Apr 2023 14:00:00 GMT</pubDate>
-  <media:content url="http://robjohnson.computer/blog/acl8/acl-e.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
